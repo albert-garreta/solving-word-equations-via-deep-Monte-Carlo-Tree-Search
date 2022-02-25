@@ -1,0 +1,1167 @@
+Pool benchmarks/pool_30_10_5.pth.tar
+Score: 0.4, Time avg: 4664.5,Solver score: 0.165, Solver time avg: 14.436892307165897
+SIDE_MAX_LEN: 30, num_vars: 10, num_letters: 5
+
+Pool benchmarks/01_track/transformed, Seed: 2
+Score: 0.965, Time avg: 460.725388601036, Solver score: 0.83, Solver time avg: 20.00107679022364
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+
+Pool benchmarks/02_track/transformed, Seed: 2
+Score: 0.222, Time avg: 190.990990990991, Solver score: 0.111, Solver time avg: 0.0972297191619873
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+
+Pool benchmarks/03_track/transformed, Seed: 2
+Score: 0.885, Time avg: 656.2711864406784, Solver score: 0.6, Solver time avg: 14.073562383651733
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+
+Pool benchmarks/01_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 0.995, Time avg: 902.7, Num steps avg: 224.0
+Solver score: 0.955, Solver time avg: 70.61530232429504
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+Date: 2020-05-09 19:29:10.083793
+
+Pool benchmarks/02_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 0.111, Time avg: 4.8, Num steps avg: 4.0
+Solver score: 0.111, Solver time avg: 0.3248147964477539
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+Date: 2020-05-09 19:34:49.921177
+
+Pool benchmarks/01_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 0.995, Time avg: 1403.7999999999997, Num steps avg: 211.0
+Solver score: 0.935, Solver time avg: 76.49988412857056
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+Date: 2020-05-09 19:57:02.612286
+
+Pool benchmarks/01_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 0.99, Time avg: 1716.9999999999995, Num steps avg: 230.0
+Solver score: 0.915, Solver time avg: 58.705434799194336
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Date: 2020-05-10 18:38:11.221090
+
+Pool benchmarks/02_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 0.111, Time avg: 0.7, Num steps avg: 1.0
+Solver score: 0.111, Solver time avg: 0.32272863388061523
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Date: 2020-05-10 18:43:38.845218
+
+Pool benchmarks/03_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 0.905, Time avg: 2360.9, Num steps avg: 252.0
+Solver score: 0.59, Solver time avg: 50.235753774642944
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Date: 2020-05-10 19:08:33.864976
+
+Pool benchmarks/pool_18_5_3.pth.tar, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 0.524, Time avg: 11732.100000000006, Num steps avg: 598.0
+Solver score: 0.342, Solver time avg: 54.19129180908203
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Date: 2020-05-11 06:04:37.762037
+
+Pool benchmarks/pool_30_10_5_v3.pth.tar, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 0.29, Time avg: 7099.0, Num steps avg: 348.0
+Solver score: 0.19, Solver time avg: 30.01298689842224
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Date: 2020-05-11 10:24:27.957029
+
+Pool benchmarks/01_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 0.99, Time avg: 103.39999999999992, Num steps avg: 1.0656565656565657 (198)
+Solver score: 0.96, Solver time avg: 66.23307991027832
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Date: 2020-05-12 01:16:12.893349
+
+Pool benchmarks/02_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 0.333, Time avg: 54.599999999999994, Num steps avg: 8.0 (3)
+Solver score: 0.0, Solver time avg: 0.0
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Date: 2020-05-12 01:21:57.734895
+
+Pool benchmarks/02_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 0.111, Time avg: 0.4, Num steps avg: 1.0 (1)
+Solver score: 0.111, Solver time avg: 0.31653428077697754
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Date: 2020-05-12 01:56:18.115787
+
+Pool benchmarks/03_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 0.695, Time avg: 187.59999999999997, Num steps avg: 1.1870503597122302 (139)
+Solver score: 0.655, Solver time avg: 55.93943643569946
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Date: 2020-05-12 02:15:47.977252
+
+Pool benchmarks/pool_18_5_3.pth.tar, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 0.475, Time avg: 453.5, Num steps avg: 1.8210526315789475 (95)
+Solver score: 0.33, Solver time avg: 22.379087209701538
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Date: 2020-05-12 03:41:15.797359
+
+Pool benchmarks/pool_30_10_5_v3.pth.tar, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 0.3, Time avg: 339.90000000000003, Num steps avg: 1.65 (60)
+Solver score: 0.185, Solver time avg: 12.425465822219849
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Date: 2020-05-12 07:50:05.020289
+
+Pool benchmarks/pool_50_20_10.pth.tar, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 0.205, Time avg: 332.40000000000003, Num steps avg: 1.9268292682926829 (41)
+Solver score: 0.1, Solver time avg: 7.058367967605591
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Date: 2020-05-12 12:43:18.075823
+
+
+Pool benchmarks/01_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 197, Time avg: 0.5218497461928934, Intersection time avg: 0.3946745945945945, Num steps avg: 1.0355329949238579 (197)
+Solver score: 186, Solver time avg: 0.3917271719183973, Intersection time avg: 0.3917536580884779,
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Comments: allowing repetitions
+Date: 2020-05-14 22:37:27.458340
+
+Pool benchmarks/02_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 1, Time avg: 0.4303, Intersection time avg: 0.0, Num steps avg: 1.0 (1)
+Solver score: 0, Solver time avg: 0.0, Intersection time avg: 0.0,
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Comments: allowing repetitions
+Date: 2020-05-14 22:43:41.564816
+
+Pool benchmarks/03_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 131, Time avg: 1.5559801526717563, Intersection time avg: 0.5482587719298244, Num steps avg: 1.1908396946564885 (131)
+Solver score: 125, Solver time avg: 0.43829644775390625, Intersection time avg: 0.43252890988400106,
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Comments: allowing repetitions
+Date: 2020-05-14 23:05:46.441001
+
+Pool benchmarks/pool_30_10_5_v3.pth.tar, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 55, Time avg: 6.247107272727273, Intersection time avg: 0.639737931034483, Num steps avg: 1.7818181818181817 (55)
+Solver score: 29, Solver time avg: 0.3447344385344407, Intersection time avg: 0.3447344385344407,
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: allowing repetitions
+Date: 2020-05-15 16:29:27.218816
+
+Pool benchmarks/pool_50_20_10.pth.tar, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 38, Time avg: 6.743018421052631, Intersection time avg: 1.1288736842105263, Num steps avg: 1.868421052631579 (38)
+Solver score: 20, Solver time avg: 0.3648717403411865, Intersection time avg: 0.3651735406172903,
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: allowing repetitions
+Date: 2020-05-15 20:35:04.282307
+
+Pool benchmarks/01_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 200, Time avg: 0.5853839999999999, Intersection time avg: 0.4439585492227979, Num steps avg: 1.05 (200)
+Solver score: 193, Solver time avg: 0.3401303698979511, Intersection time avg: 0.3401303698979511,
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: allowing repetitions
+Date: 2020-05-28 15:27:39.312561
+
+Pool benchmarks/pool_30_10_5.pth.tar, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 55, Time avg: 5.367276363636363, Intersection time avg: 1.4450057142857144, Num steps avg: 1.7818181818181817 (55)
+Solver score: 36, Solver time avg: 0.344373709625668, Intersection time avg: 0.34421226637704033,
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: allowing repetitions
+Date: 2020-05-29 23:38:48.542102
+
+Pool benchmarks/pool_50_20_10.pth.tar, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 37, Time avg: 7.369272972972973, Intersection time avg: 0.38001666666666667, Num steps avg: 1.945945945945946 (37)
+Solver score: 19, Solver time avg: 0.3861842908357319, Intersection time avg: 0.38530076874627006,
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: allowing repetitions
+Date: 2020-05-30 01:42:04.427806
+
+Pool benchmarks/01_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 199, Time avg: 0.5093010050251257 (0.8511715903270588), Intersection time avg: 0.4621833333333334 (0.7381623525218254), Num steps avg: 0.05025125628140704 (0.2184629660229564) (199)
+Solver score: 192, Solver time avg: 0.6191630040605863 (2.525762948205096), Intersection time avg: 0.6191630040605863 (2.525762948205096),
+Steps: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: allowing repetitions
+Date: 2020-05-30 18:49:02.032429
+
+Pool benchmarks/01_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 198, Time avg: 0.4688429292929293 (0.5925379387124857), Intersection time avg: 0.41433229166666674 (0.37934953456398884), Num steps avg: 0.025252525252525252 (0.18632188632016883) (198)
+Solver score: 192, Solver time avg: 0.46358580018083256 (0.1931181671107778), Intersection time avg: 0.46358580018083256 (0.1931181671107778),
+Steps: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0]
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: allowing repetitions
+Date: 2020-05-30 19:24:21.331798
+
+Pool benchmarks/02_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 2, Time avg: 12.9959 (12.662), Intersection time avg: 0.3339 (0.0), Num steps avg: 7.5 (7.5) (2)
+Solver score: 1, Solver time avg: 0.31180334091186523 (0.0), Intersection time avg: 0.31180334091186523 (0.0),
+Steps: [ 0 15]
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: allowing repetitions
+Date: 2020-05-30 19:29:56.173388
+
+Pool benchmarks/03_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 141, Time avg: 1.7206482269503545 (4.337272206745233), Intersection time avg: 0.49309565217391305 (0.5490009988731397), Num steps avg: 0.24822695035460993 (0.8178507412837377) (141)
+Solver score: 120, Solver time avg: 0.4193459928035736 (0.18861280094436494), Intersection time avg: 0.4222898794257123 (0.18961713168482966),
+Steps: [1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 4 0 0 0 0 0 0 1 0 0 0 1 0
+ 0 0 0 0 0 0 0 0 0 0 0 1 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 4 0 0 0 0 1 0 0 0 1 0 0 5 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 4]
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: allowing repetitions
+Date: 2020-05-30 19:55:05.716604
+
+Pool benchmarks/pool_30_10_5.pth.tar, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 44, Time avg: 6.784797727272727 (8.774691760203645), Intersection time avg: 0.3216583333333333 (0.05158248989617396), Num steps avg: 1.0 (1.6376257758774382) (44)
+Solver score: 25, Solver time avg: 0.3341444206237793 (0.05468427682050053), Intersection time avg: 0.333616981903712 (0.055749565888620956),
+Steps: [1 0 0 0 0 1 0 0 0 2 0 2 0 0 0 0 1 1 0 0 0 3 0 5 5 0 1 0 0 1 0 7 4 0 0 1 4
+ 2 0 1 0 1 1 0]
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: allowing repetitions
+Date: 2020-05-30 21:40:36.376688
+
+Pool benchmarks/pool_50_20_10.pth.tar, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 39, Time avg: 7.60625641025641 (7.9952698384827015), Intersection time avg: 0.7820411764705881 (1.696861325422989), Num steps avg: 0.9487179487179487 (1.0848305539131375) (39)
+Solver score: 17, Solver time avg: 0.3809089660644531 (0.024987573536107158), Intersection time avg: 0.3809089660644531 (0.024987573536107158),
+Steps: [1 1 1 1 0 0 1 0 0 1 0 0 0 1 3 0 0 3 0 0 1 0 3 0 3 0 1 4 1 0 0 2 1 1 1 1 1
+ 3 1]
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: allowing repetitions
+Date: 2020-05-30 23:40:32.319322
+
+Pool benchmarks/pool_30_10_5.pth.tar, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 35, Time avg: 3.5682914285714284 (5.416477091055268), Intersection time avg: 0.5233291666666666 (0.7385050617515353), Num steps avg: 0.3142857142857143 (0.46423076597919777) (35)
+Solver score: 24, Solver time avg: 0.37846160928408307 (0.06789741426409023), Intersection time avg: 0.37846160928408307 (0.06789741426409023),
+Steps: [1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 1 0 0 0 1 0 1 1 0 1 1 0]
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: allowing repetitions
+Date: 2020-05-31 14:23:52.371179
+
+Pool benchmarks/pool_30_10_5.pth.tar, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 26, Time avg: 0.39150000000000007 (0.7466854651365284), Intersection time avg: 0.08022272727272727 (0.009633366815311618), Num steps avg: 0.15384615384615385 (0.36080121229411) (26)
+Solver score: 22, Solver time avg: 0.07742581584236839 (0.008105307852042417), Intersection time avg: 0.07742581584236839 (0.008105307852042417),
+Steps: [0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0]
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: allowing repetitions
+Date: 2020-05-31 17:46:51.902206
+
+Pool benchmarks/01_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 197, Time avg: 0.2444426395939086 (0.5580536366059029), Intersection time avg: 0.16964659685863873 (0.08749549802294118), Num steps avg: 0.03553299492385787 (0.2107668983962101) (197)
+Solver score: 191, Solver time avg: 0.1882924222197208 (0.058021067659768284), Intersection time avg: 0.1882924222197208 (0.058021067659768284),
+Steps: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0]
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-06-02 18:29:28.056362
+
+Pool benchmarks/02_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 3, Time avg: 13.710366666666667 (11.569435146492195), Intersection time avg: 0.2751 (0.0), Num steps avg: 6.666666666666667 (5.734883511361751) (3)
+Solver score: 1, Solver time avg: 0.20067644119262695 (0.0), Intersection time avg: 0.20067644119262695 (0.0),
+Steps: [ 0  6 14]
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-06-02 18:37:22.679771
+
+Pool benchmarks/01_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 198, Time avg: 0.32050959595959594 (1.6595455276801752), Intersection time avg: 0.13764607329842932 (0.06272773105846662), Num steps avg: 0.09595959595959595 (0.8201280008397792) (198)
+Solver score: 191, Solver time avg: 0.14652305123693657 (0.031119162864618067), Intersection time avg: 0.14652305123693657 (0.031119162864618067),
+Steps: [ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 11  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0
+  0  0  0  3  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0]
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-06-02 21:08:30.903411
+
+Pool benchmarks/02_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 3, Time avg: 11.9651 (9.395206770476102), Intersection time avg: 0.1661 (0.0), Num steps avg: 7.666666666666667 (6.128258770283412) (3)
+Solver score: 1, Solver time avg: 0.19395160675048828 (0.0), Intersection time avg: 0.19395160675048828 (0.0),
+Steps: [ 0  8 15]
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-06-02 21:16:04.050225
+
+Pool benchmarks/03_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 136, Time avg: 0.7216889705882352 (2.1726319052108476), Intersection time avg: 0.17155867768595043 (0.06526715811822971), Num steps avg: 0.19117647058823528 (0.7124389125758425) (136)
+Solver score: 121, Solver time avg: 0.16110313628330702 (0.07145306156478494), Intersection time avg: 0.16110313628330702 (0.07145306156478494),
+Steps: [1 0 0 1 0 6 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 2 0 0 0 0 0 1 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 1 0 0 2 0 0 0 0 0 0 0 0 0 0 4]
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-06-02 21:45:27.158918
+
+Pool benchmarks/pool_30_10_5.pth.tar, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 58, Time avg: 4.827758620689656 (6.412074226371264), Intersection time avg: 0.15447692307692307 (0.06354997008830808), Num steps avg: 1.1724137931034482 (1.5771857415212787) (58)
+Solver score: 26, Solver time avg: 0.13133401137131911 (0.049498891649178575), Intersection time avg: 0.13133401137131911 (0.049498891649178575),
+Steps: [0 0 0 0 0 1 0 0 0 3 0 0 0 0 0 1 1 1 0 0 0 1 1 0 2 2 1 0 1 0 0 5 1 0 3 2 2
+ 4 1 0 4 0 1 4 8 2 2 1 0 1 0 1 4 2 1 3 0 1]
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-06-03 00:29:39.306386
+
+Pool benchmarks/pool_50_20_10.pth.tar, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 42, Time avg: 3.386566666666666 (5.361425433180578), Intersection time avg: 0.12268333333333332 (0.011523852075875786), Num steps avg: 1.0952380952380953 (2.0680048333912824) (42)
+Solver score: 18, Solver time avg: 0.127368516392178 (0.02713291239767854), Intersection time avg: 0.127368516392178 (0.02713291239767854),
+Steps: [ 1  0  1  1  0  0  1  0  0  1  0  0  0  1  0  2  0  3  1  0  0  1  1  0
+  1  0  1  0  1  1  2  3  1  3  3 13  0  0  1  1  0  1]
+SIDE_MAX_LEN: 300, num_vars: 26, num_letters: 26
+num_channels: 128, num_residual_blocks: 8
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-06-03 08:29:26.050758
+
+Pool benchmarks/01_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 0, Time avg: nan (nan), Intersection time avg: nan (nan), Num steps avg: nan (nan) (0)
+Solver score: 0, Solver time avg: nan (nan), Intersection time avg: nan (nan),
+Steps: []
+SIDE_MAX_LEN: 20, num_vars: 5, num_letters: 3
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 50
+Max solver time in mcts: 1200
+Comments: 
+Date: 2020-06-27 22:28:51.429496
+
+Pool benchmarks/02_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 0, Time avg: nan (nan), Intersection time avg: nan (nan), Num steps avg: nan (nan) (0)
+Solver score: 0, Solver time avg: nan (nan), Intersection time avg: nan (nan),
+Steps: []
+SIDE_MAX_LEN: 20, num_vars: 5, num_letters: 3
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 50
+Max solver time in mcts: 1200
+Comments: 
+Date: 2020-06-27 22:28:55.703324
+
+Pool benchmarks/03_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 0, Time avg: nan (nan), Intersection time avg: nan (nan), Num steps avg: nan (nan) (0)
+Solver score: 0, Solver time avg: nan (nan), Intersection time avg: nan (nan),
+Steps: []
+SIDE_MAX_LEN: 20, num_vars: 5, num_letters: 3
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 50
+Max solver time in mcts: 1200
+Comments: 
+Date: 2020-06-27 22:29:16.332235
+
+Pool benchmarks/01_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 0, Time avg: nan (nan), Intersection time avg: nan (nan), Num steps avg: nan (nan) (0)
+Solver score: 0, Solver time avg: nan (nan), Intersection time avg: nan (nan),
+Steps: []
+SIDE_MAX_LEN: 20, num_vars: 5, num_letters: 3
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 50
+Max solver time in mcts: 1200
+Comments: 
+Date: 2020-06-28 00:04:57.109664
+
+Pool benchmarks/02_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 0, Time avg: nan (nan), Intersection time avg: nan (nan), Num steps avg: nan (nan) (0)
+Solver score: 0, Solver time avg: nan (nan), Intersection time avg: nan (nan),
+Steps: []
+SIDE_MAX_LEN: 20, num_vars: 5, num_letters: 3
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 50
+Max solver time in mcts: 1200
+Comments: 
+Date: 2020-06-28 00:04:57.825763
+
+Pool benchmarks/03_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 0, Time avg: nan (nan), Intersection time avg: nan (nan), Num steps avg: nan (nan) (0)
+Solver score: 0, Solver time avg: nan (nan), Intersection time avg: nan (nan),
+Steps: []
+SIDE_MAX_LEN: 20, num_vars: 5, num_letters: 3
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 50
+Max solver time in mcts: 1200
+Comments: 
+Date: 2020-06-28 00:05:05.503655
+
+Pool benchmarks/01_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 198, Time avg: 1.3064146464646464 (1.4001696265339816), Intersection time avg: nan (nan), Num steps avg: 2.0 (0.0) (198)
+Solver score: 0, Solver time avg: nan (nan), Intersection time avg: nan (nan),
+Steps: [2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2 2 2 2]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 50
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-06-28 11:48:32.583271
+
+Pool benchmarks/02_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 4, Time avg: 6.6966 (0.014624465802209606), Intersection time avg: nan (nan), Num steps avg: 2.0 (0.0) (4)
+Solver score: 0, Solver time avg: nan (nan), Intersection time avg: nan (nan),
+Steps: [2 2 2 2]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 50
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-06-28 12:19:59.394020
+
+Pool benchmarks/01_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 198, Time avg: 0.34478080808080813 (1.9967196420440698), Intersection time avg: 0.13607539267015709 (0.06559786000633903), Num steps avg: 1.101010101010101 (0.9427549302357576) (198)
+Solver score: 191, Solver time avg: 0.14906280203015393 (0.04409835376055635), Intersection time avg: 0.14906280203015393 (0.04409835376055635),
+Steps: [ 1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+  1  1  3  1  1  1  1  1  1  1  1  1  2  1  1  1  1  1  1  1  1  1  1  1
+  1  2  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+  1  1  1  1  1  1  1  1  1  1  1  1  2  1  1  1  1  1  1  1  1  1  1  1
+  1  1  1  1  2  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+  1  1  1  1  1  1  1  1  1  1  1  1 14  1  1  1  1  1  1  1  1  1  1  1
+  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+  1  1  1  1  1  1  2  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+  1  1  1  1  1  1]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-06-29 17:21:15.707124
+
+Pool benchmarks/02_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 3, Time avg: 11.594333333333333 (9.403092246820842), Intersection time avg: 0.1293 (0.0), Num steps avg: 7.666666666666667 (5.734883511361751) (3)
+Solver score: 1, Solver time avg: 0.20594167709350586 (0.0), Intersection time avg: 0.20594167709350586 (0.0),
+Steps: [15  7  1]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-06-29 17:29:08.618822
+
+Pool benchmarks/03_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 136, Time avg: 0.5879875 (1.6956708949226755), Intersection time avg: 0.16310165289256198 (0.0611291168175018), Num steps avg: 1.1838235294117647 (0.6664458616460832) (136)
+Solver score: 121, Solver time avg: 0.14297179742292923 (0.056485179092569594), Intersection time avg: 0.14297179742292923 (0.056485179092569594),
+Steps: [4 1 1 1 1 1 1 1 1 1 1 3 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 2 1 1 1
+ 1 1 1 1 5 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 2
+ 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1
+ 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 6 1 2 1 1 2]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-06-29 18:20:50.596618
+
+Pool benchmarks/01_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 198, Time avg: 0.383060101010101 (2.112432652437667), Intersection time avg: 0.16099842931937175 (0.07843655085877992), Num steps avg: 1.101010101010101 (0.9427549302357576) (198)
+Solver score: 191, Solver time avg: 0.18203393826309924 (0.06231063596919935), Intersection time avg: 0.18203393826309924 (0.06231063596919935),
+Steps: [ 1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+  1  1  3  1  1  1  1  1  1  1  1  1  2  1  1  1  1  1  1  1  1  1  1  1
+  1  2  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+  1  1  1  1  1  1  1  1  1  1  1  1  2  1  1  1  1  1  1  1  1  1  1  1
+  1  1  1  1  2  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+  1  1  1  1  1  1  1  1  1  1  1  1 14  1  1  1  1  1  1  1  1  1  1  1
+  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+  1  1  1  1  1  1  2  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+  1  1  1  1  1  1]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-07-03 00:17:20.378707
+
+Pool benchmarks/02_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 3, Time avg: 12.509933333333334 (10.175206274513007), Intersection time avg: 0.1266 (0.0), Num steps avg: 7.666666666666667 (5.734883511361751) (3)
+Solver score: 1, Solver time avg: 0.23485016822814941 (0.0), Intersection time avg: 0.23485016822814941 (0.0),
+Steps: [15  7  1]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-07-03 00:25:19.382879
+
+Pool benchmarks/03_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 136, Time avg: 0.7095242647058824 (1.9280771969570956), Intersection time avg: 0.22510661157024794 (0.0844330775489459), Num steps avg: 1.1838235294117647 (0.6664458616460832) (136)
+Solver score: 121, Solver time avg: 0.19538706984401735 (0.09628282751165074), Intersection time avg: 0.19538706984401735 (0.09628282751165074),
+Steps: [4 1 1 1 1 1 1 1 1 1 1 3 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 2 1 1 1
+ 1 1 1 1 5 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 2
+ 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1
+ 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 6 1 2 1 1 2]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-07-03 01:17:51.822026
+
+Pool benchmarks/pool_20_5_3.pth.tar, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 106, Time avg: 3.87435 (5.861634875463903), Intersection time avg: 0.19154754098360652 (0.045933792719798014), Num steps avg: 2.5377358490566038 (2.537174659139373) (106)
+Solver score: 61, Solver time avg: 0.1509813832454994 (0.052090996897787484), Intersection time avg: 0.1509813832454994 (0.052090996897787484),
+Steps: [ 4  1  1  1  1  2  1  1  4  6  3  1  1  8  3  8  1  1  1  4  7  4  1  2
+  1  1  1  1  1  1  1  1  1  1  2  1  1  1  1  1  1  3  1  2  1  5  1  3
+  1  1  1  1  1  4  2  3  6  5 11  5  8  2  4  1  1  1  1  1  1  1  4  1
+  2  1  1  1  4  1  4  1  1  1 12 11  2  1  5  1  7  1  1  1  2  2  1  1
+  2 11  2  1  3  1  1  2  7  6]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-07-03 03:25:28.237097
+
+Pool benchmarks/01_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed15/uniform
+Score: 197, Time avg: 0.2605766497461928 (0.5285286345372705), Intersection time avg: 0.18099528795811518 (0.09110812130854515), Num steps avg: 1.0355329949238579 (0.2107668983962101) (197)
+Solver score: 191, Solver time avg: 0.21468414686113127 (0.06964430773943767), Intersection time avg: 0.21468414686113127 (0.06964430773943767),
+Steps: [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 2
+ 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-07-03 08:43:20.593345
+
+Pool benchmarks/02_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed15/uniform
+Score: 3, Time avg: 13.324666666666667 (10.785949033915477), Intersection time avg: 0.2135 (0.0), Num steps avg: 7.666666666666667 (5.734883511361751) (3)
+Solver score: 1, Solver time avg: 0.31053590774536133 (0.0), Intersection time avg: 0.31053590774536133 (0.0),
+Steps: [15  7  1]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-07-03 08:51:16.153435
+
+Pool benchmarks/03_track/transformed, Seed: 14
+Model: we_alpha0_disc90_smaller_seed15/uniform
+Score: 136, Time avg: 0.7720632352941177 (1.9836623796138837), Intersection time avg: 0.27328677685950414 (0.0887065073895243), Num steps avg: 1.1838235294117647 (0.6664458616460832) (136)
+Solver score: 121, Solver time avg: 0.2242980870333585 (0.10233898075255071), Intersection time avg: 0.2242980870333585 (0.10233898075255071),
+Steps: [4 1 1 1 1 1 1 1 1 1 1 3 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 2 1 1 1
+ 1 1 1 1 5 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 2
+ 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1
+ 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 6 1 2 1 1 2]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-07-03 09:44:09.395610
+
+Pool benchmarks/01_track/transformed, Seed: 15
+Model: we_alpha0_disc90_smaller_seed15/uniform
+Score: 198, Time avg: 0.40470555555555554 (2.162053054325127), Intersection time avg: 0.1783198952879581 (0.08511240440900628), Num steps avg: 1.101010101010101 (0.9427549302357576) (198)
+Solver score: 191, Solver time avg: 0.1991930282552829 (0.07020078324056493), Intersection time avg: 0.1991930282552829 (0.07020078324056493),
+Steps: [ 1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+  1  1  3  1  1  1  1  1  1  1  1  1  2  1  1  1  1  1  1  1  1  1  1  1
+  1  2  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+  1  1  1  1  1  1  1  1  1  1  1  1  2  1  1  1  1  1  1  1  1  1  1  1
+  1  1  1  1  2  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+  1  1  1  1  1  1  1  1  1  1  1  1 14  1  1  1  1  1  1  1  1  1  1  1
+  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+  1  1  1  1  1  1  2  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1  1
+  1  1  1  1  1  1]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-07-03 22:15:28.391908
+
+Pool benchmarks/02_track/transformed, Seed: 15
+Model: we_alpha0_disc90_smaller_seed15/uniform
+Score: 3, Time avg: 13.167666666666667 (10.522582327335604), Intersection time avg: 0.3448 (0.0), Num steps avg: 7.666666666666667 (5.734883511361751) (3)
+Solver score: 1, Solver time avg: 0.13172531127929688 (0.0), Intersection time avg: 0.13172531127929688 (0.0),
+Steps: [15  7  1]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-07-03 22:23:30.980381
+
+Pool benchmarks/03_track/transformed, Seed: 15
+Model: we_alpha0_disc90_smaller_seed15/uniform
+Score: 136, Time avg: 0.7490272058823529 (1.9625293241521), Intersection time avg: 0.2575809917355372 (0.09571186901367479), Num steps avg: 1.1838235294117647 (0.6664458616460832) (136)
+Solver score: 121, Solver time avg: 0.2198286115630599 (0.11108516824762155), Intersection time avg: 0.2198286115630599 (0.11108516824762155),
+Steps: [4 1 1 1 1 1 1 1 1 1 1 3 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 2 1 1 1
+ 1 1 1 1 5 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 2
+ 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1
+ 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 6 1 2 1 1 2]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-07-03 23:16:24.214793
+
+Pool benchmarks/pool_20_5_3.pth.tar, Seed: 15
+Model: we_alpha0_disc90_smaller_seed15/uniform
+Score: 106, Time avg: 3.898552830188679 (5.859430918375007), Intersection time avg: 0.22887049180327873 (0.04687851877682303), Num steps avg: 2.5377358490566038 (2.537174659139373) (106)
+Solver score: 61, Solver time avg: 0.15577764980128553 (0.049610182038055645), Intersection time avg: 0.15577764980128553 (0.049610182038055645),
+Steps: [ 4  1  1  1  1  2  1  1  4  6  3  1  1  8  3  8  1  1  1  4  7  4  1  2
+  1  1  1  1  1  1  1  1  1  1  2  1  1  1  1  1  1  3  1  2  1  5  1  3
+  1  1  1  1  1  4  2  3  6  5 11  5  8  2  4  1  1  1  1  1  1  1  4  1
+  2  1  1  1  4  1  4  1  1  1 12 11  2  1  5  1  7  1  1  1  2  2  1  1
+  2 11  2  1  3  1  1  2  7  6]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-07-04 01:23:55.462249
+
+Pool benchmarks/01_track/transformed, Seed: 16
+Model: we_alpha0_disc90_smaller_seed16/uniform
+Score: 197, Time avg: 0.26135989847715735 (0.5287878165099209), Intersection time avg: 0.17964188481675392 (0.0877925376058506), Num steps avg: 1.0355329949238579 (0.2107668983962101) (197)
+Solver score: 191, Solver time avg: 0.21524722289040452 (0.06733864943481516), Intersection time avg: 0.21524722289040452 (0.06733864943481516),
+Steps: [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 2
+ 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-07-04 01:31:47.226855
+
+Pool benchmarks/02_track/transformed, Seed: 16
+Model: we_alpha0_disc90_smaller_seed16/uniform
+Score: 3, Time avg: 13.2067 (10.61203757092231), Intersection time avg: 0.3032 (0.0), Num steps avg: 7.666666666666667 (5.734883511361751) (3)
+Solver score: 1, Solver time avg: 0.13631033897399902 (0.0), Intersection time avg: 0.13631033897399902 (0.0),
+Steps: [15  7  1]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-07-04 01:39:46.524213
+
+Pool benchmarks/03_track/transformed, Seed: 16
+Model: we_alpha0_disc90_smaller_seed16/uniform
+Score: 136, Time avg: 0.7368544117647059 (1.952382404829141), Intersection time avg: 0.24511322314049583 (0.09095337370754819), Num steps avg: 1.1838235294117647 (0.6664458616460832) (136)
+Solver score: 121, Solver time avg: 0.21693656661293723 (0.10199397512220502), Intersection time avg: 0.21693656661293723 (0.10199397512220502),
+Steps: [4 1 1 1 1 1 1 1 1 1 1 3 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 2 1 1 1
+ 1 1 1 1 5 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 2
+ 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1
+ 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 6 1 2 1 1 2]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-07-04 02:32:37.585449
+
+Pool benchmarks/pool_20_5_3.pth.tar, Seed: 16
+Model: we_alpha0_disc90_smaller_seed16/uniform
+Score: 106, Time avg: 3.897497169811321 (5.839131761245046), Intersection time avg: 0.23658852459016394 (0.05466305162152278), Num steps avg: 2.5377358490566038 (2.537174659139373) (106)
+Solver score: 61, Solver time avg: 0.17207681546445752 (0.07059598830275633), Intersection time avg: 0.17207681546445752 (0.07059598830275633),
+Steps: [ 4  1  1  1  1  2  1  1  4  6  3  1  1  8  3  8  1  1  1  4  7  4  1  2
+  1  1  1  1  1  1  1  1  1  1  2  1  1  1  1  1  1  3  1  2  1  5  1  3
+  1  1  1  1  1  4  2  3  6  5 11  5  8  2  4  1  1  1  1  1  1  1  4  1
+  2  1  1  1  4  1  4  1  1  1 12 11  2  1  5  1  7  1  1  1  2  2  1  1
+  2 11  2  1  3  1  1  2  7  6]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-07-04 04:40:29.122434
+
+Pool benchmarks/pool_20_5_3.pth.tar, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 106, Time avg: 3.5662698113207547 (5.478141952964024), Intersection time avg: nan (nan), Num steps avg: 2.5377358490566038 (2.537174659139373) (106)
+Solver score: 0, Solver time avg: nan (nan), Intersection time avg: nan (nan),
+Steps: [ 4  1  1  1  1  2  1  1  4  6  3  1  1  8  3  8  1  1  1  4  7  4  1  2
+  1  1  1  1  1  1  1  1  1  1  2  1  1  1  1  1  1  3  1  2  1  5  1  3
+  1  1  1  1  1  4  2  3  6  5 11  5  8  2  4  1  1  1  1  1  1  1  4  1
+  2  1  1  1  4  1  4  1  1  1 12 11  2  1  5  1  7  1  1  1  2  2  1  1
+  2 11  2  1  3  1  1  2  7  6]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 10
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-07-04 18:42:28.481042
+
+Pool benchmarks/pool_20_5_3.pth.tar, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 48, Time avg: 2.9450708333333337 (4.7980194459519065), Intersection time avg: 0.17964193548387095 (0.03831329066283908), Num steps avg: 2.1041666666666665 (1.8956043817796535) (48)
+Solver score: 31, Solver time avg: 0.13074127320320375 (0.03461482013512807), Intersection time avg: 0.13074127320320375 (0.03461482013512807),
+Steps: [4 1 1 1 1 2 1 1 4 6 3 1 1 8 3 8 1 1 1 4 7 4 1 2 1 1 1 1 1 1 1 1 1 1 2 1 1
+ 1 1 1 1 3 1 2 1 5 1 3]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-07-05 22:42:59.339884
+
+Pool benchmarks/pool_20_5_3.pth.tar, Seed: 14
+Model: we_alpha0_disc90_smaller_seed14/uniform
+Score: 106, Time avg: 3.6736518867924524 (5.621946720031577), Intersection time avg: 0.12848196721311475 (0.047756299071935064), Num steps avg: 2.5377358490566038 (2.537174659139373) (106)
+Solver score: 61, Solver time avg: 0.11080419040117108 (0.040128646037004834), Intersection time avg: 0.11080419040117108 (0.040128646037004834),
+Steps: [ 4  1  1  1  1  2  1  1  4  6  3  1  1  8  3  8  1  1  1  4  7  4  1  2
+  1  1  1  1  1  1  1  1  1  1  2  1  1  1  1  1  1  3  1  2  1  5  1  3
+  1  1  1  1  1  4  2  3  6  5 11  5  8  2  4  1  1  1  1  1  1  1  4  1
+  2  1  1  1  4  1  4  1  1  1 12 11  2  1  5  1  7  1  1  1  2  2  1  1
+  2 11  2  1  3  1  1  2  7  6]
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-07-07 02:12:06.424165
+
+Pool benchmarks/pool_20_5_3.pth.tar, Seed: 18
+Model: v56/model_train_200_18.pth.tar
+Score: 66, Time avg: 0.16455757575757574 (0.24700225987225674), Intersection time avg: 0.09437868852459017 (0.03139733263576203), Num steps avg: 1.1515151515151516 (0.5571144336621284) (66)
+Solver score: 61, Solver time avg: 0.09498725171949042 (0.03250835037746548), Intersection time avg: 0.09498725171949042 (0.03250835037746548),
+Steps: [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 2 1 4 1 1 3]
+SIDE_MAX_LEN: 20, num_vars: 5, num_letters: 3
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-09-02 02:42:01.540398
+
+Pool benchmarks/pool_20_5_3.pth.tar, Seed: 19
+Model: v56/model_train_200_19.pth.tar
+Score: 61, Time avg: 0.0942016393442623 (0.031033242313043788), Intersection time avg: 0.0942016393442623 (0.031033242313043788), Num steps avg: 1.0 (0.0) (61)
+Solver score: 61, Solver time avg: 0.09654117803104588 (0.03436311695372908), Intersection time avg: 0.09654117803104588 (0.03436311695372908),
+Steps: [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+SIDE_MAX_LEN: 20, num_vars: 5, num_letters: 3
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-09-02 06:25:53.585418
+
+Pool benchmarks/pool_20_5_3.pth.tar, Seed: 20
+Model: v56/model_train_200_20.pth.tar
+Score: 69, Time avg: 0.20655362318840584 (0.300524324212524), Intersection time avg: 0.0983377049180328 (0.03391546464776183), Num steps avg: 1.1304347826086956 (0.37736859612439233) (69)
+Solver score: 61, Solver time avg: 0.09662625437877218 (0.03423456350601888), Intersection time avg: 0.09662625437877218 (0.03423456350601888),
+Steps: [1 1 2 1 1 2 1 1 1 1 2 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 3 1 1 2]
+SIDE_MAX_LEN: 20, num_vars: 5, num_letters: 3
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-09-02 10:11:17.169449
+
+Pool benchmarks/pool_20_5_3.pth.tar, Seed: 18
+Model: v56/model_train_200_18.pth.tar
+Score: 104, Time avg: 3.102357692307692 (5.128723476200042), Intersection time avg: 0.10451311475409834 (0.03478976896624259), Num steps avg: 2.2403846153846154 (2.096220006013078) (104)
+Solver score: 61, Solver time avg: 0.09687295507212154 (0.030505937316211713), Intersection time avg: 0.09687295507212154 (0.030505937316211713),
+Steps: [ 2  1  1  1  1  2  1  1  4  3  1  1  3  5  1  1  1  4  4  7  3  1  2  1
+  1  1  1  1  1  1  1  1  1  2  1  1  1  1  1  1  3  1  3  1  3  1  3  1
+  1  1  4  1  1  4  2  3  3  6 11  5 11  5  2  4  1  1  1  1  1  1  1  3
+  1  2  1  1  1  5  1  4  1  1  1  2  1  1  8  1  8  1  1  2  2  1  1  2
+  2  1  3  1  1  2  8  6]
+SIDE_MAX_LEN: 20, num_vars: 5, num_letters: 3
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-09-03 01:23:56.093502
+
+Pool benchmarks/pool_20_5_3.pth.tar, Seed: 19
+Model: v56/model_train_200_19.pth.tar
+Score: 104, Time avg: 3.321535576923077 (5.377417263014021), Intersection time avg: 0.12237049180327869 (0.05605949516468005), Num steps avg: 2.2403846153846154 (2.096220006013078) (104)
+Solver score: 61, Solver time avg: 0.10851657195169417 (0.04884902074115525), Intersection time avg: 0.10851657195169417 (0.04884902074115525),
+Steps: [ 2  1  1  1  1  2  1  1  4  3  1  1  3  5  1  1  1  4  4  7  3  1  2  1
+  1  1  1  1  1  1  1  1  1  2  1  1  1  1  1  1  3  1  3  1  3  1  3  1
+  1  1  4  1  1  4  2  3  3  6 11  5 11  5  2  4  1  1  1  1  1  1  1  3
+  1  2  1  1  1  5  1  4  1  1  1  2  1  1  8  1  8  1  1  2  2  1  1  2
+  2  1  3  1  1  2  8  6]
+SIDE_MAX_LEN: 20, num_vars: 5, num_letters: 3
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-09-03 07:24:17.447963
+
+Pool benchmarks/pool_20_5_3.pth.tar, Seed: 20
+Model: v56/model_train_200_20.pth.tar
+Score: 104, Time avg: 3.1912874999999996 (5.263566152968031), Intersection time avg: 0.11574098360655738 (0.04648284850985249), Num steps avg: 2.2403846153846154 (2.096220006013078) (104)
+Solver score: 61, Solver time avg: 0.10104107856750488 (0.037893976556342496), Intersection time avg: 0.10104107856750488 (0.037893976556342496),
+Steps: [ 2  1  1  1  1  2  1  1  4  3  1  1  3  5  1  1  1  4  4  7  3  1  2  1
+  1  1  1  1  1  1  1  1  1  2  1  1  1  1  1  1  3  1  3  1  3  1  3  1
+  1  1  4  1  1  4  2  3  3  6 11  5 11  5  2  4  1  1  1  1  1  1  1  3
+  1  2  1  1  1  5  1  4  1  1  1  2  1  1  8  1  8  1  1  2  2  1  1  2
+  2  1  3  1  1  2  8  6]
+SIDE_MAX_LEN: 20, num_vars: 5, num_letters: 3
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Date: 2020-09-03 13:19:34.643049
+
+Pool benchmarks/pool_20_5_3.pth.tar, Seed: 18
+Model: v56/model_train_200_18.pth.tar
+Score: 0, Time avg: nan (nan), Intersection time avg: nan (nan), Num steps avg: -1 (-1) (0)
+Solver score: 61, Solver time avg: 0.08664425083848297 (0.025422945231281257), Intersection time avg: nan (nan),
+Steps: -1
+SIDE_MAX_LEN: 20, num_vars: 5, num_letters: 3
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Details: []
+Date: 2020-09-04 05:19:14.092595
+
+Pool benchmarks/pool_20_5_3.pth.tar, Seed: 19
+Model: v56/model_train_200_19.pth.tar
+Score: 0, Time avg: nan (nan), Intersection time avg: nan (nan), Num steps avg: -1 (-1) (0)
+Solver score: 61, Solver time avg: 0.08929684123054879 (0.02606955621957925), Intersection time avg: nan (nan),
+Steps: -1
+SIDE_MAX_LEN: 20, num_vars: 5, num_letters: 3
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Details: []
+Date: 2020-09-04 08:47:45.812481
+
+Pool benchmarks/pool_20_5_3.pth.tar, Seed: 18
+Model: v56/uniform
+Score: 108, Time avg: 4.122033333333333 (6.547929437983799), Intersection time avg: 0.10570491803278688 (0.03545759150711008), Num steps avg: -1 (-1) (108)
+Solver score: 61, Solver time avg: 0.09221409187942255 (0.02616356546421257), Intersection time avg: 0.09221409187942255 (0.02616356546421257),
+Steps: -1
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Details: [('ZYabXaaacaWcV=YaabacWVaacXZ', 19.7663), ('ZabYXWbbccaVcbbbaaa=bbXbccacbbbaaWYVaaZ', 0.084), ('ZabYbXaWccababbcaV=WYVXbbaccababbcaZa', 0.0901), ('abZcbbaYcXbWabbaabV=XWZVbcbcaYbababbaab', 19.8609), ('ZaaaabbYXcWabcaV=VcaWYZXcabaaaabb', 1.8641), ('abZbcbYaXbbcaWV=YWZVXcbabbcaabb', 0.1121), ('ZabcbccaabbYbXWV=bWVXYcbccaabZabb', 17.2638), ('abaZYccXccbccWccV=VcWcccccbYccXZaba', 6.4482), ('aabZYXcWabcaaV=ZWaVcabaaYbcaX', 8.9911), ('ZabcYXWVbacccabbb=abcbaVccaXbbbWcZY', 14.462), ('ZabYXbWbVcbbbbacc=VWZaYbbbcbbbbaccX', 0.1053), ('abZYXbbWccaVbaacb=VbcWcaaZXbbbaacbY', 0.0862), ('ZaYababXcbcabWaV=cXWYVbZabababaac', 16.4709), ('ZYXWVabcbbbcbcb=bcaZcWVbbbcbXbY', 3.0219), ('ZaYbcXWVab=WcZVabXabY', 0.1685), ('ZYabXbbaWbbaccccV=YbaabWXbbVZbacccc', 11.6875), ('ZaYXbcabWabcVccbab=WbabVXbZcabaabcccY', 0.1925), ('abbacbZcabbabbYXWbV=VZYbbXabbacbcabbabW', 0.0812), ('ZYXabbaWcV=WVXcabbaZY', 0.0859), ('ZabccbcYXbbcWVcbc=ccbcVaYbcXcWbcbbZ', 0.0844), ('ZaaabbcabYXcWVc=XcWVaZbcaaabbcY', 5.9413), ('ZYXWVaaabbc=aXaVWZabbcY', 0.0759), ('ZabcacacbaaabYXWaV=aVZbaabcacacYbaaWX', 3.9431), ('ZYXWaabbVaccbbac=cWXabbacZbbacVaY', 1.9842), ('ZYXabbWaccVbabab=bcabbaXcYbabWVaZ', 1.0374), ('ZabcbbbcbYXbaWbacVc=bacabcVWabbcbbZbcYX', 17.6059), ('ZababcacbaYabcbaXWV=VabZaXbcWacbaaYbcba', 0.0772), ('ZYXabaccaaccWVbb=YXcaaccbbabaVcWZ', 0.0939), ('abaZYbaXaacWV=WacaXbabYVZaa', 0.1133), ('ZYabXWcbccaaVbc=WabXcbccaabcVYZ', 0.0811), ('ZYXabbacacb=cbacYbbaXaZ', 8.1603), ('ZabaacaYccXaWVb=YVcabWabXaacacZ', 0.0846), ('abcZYXccWabV=VaYWZccXbabc', 6.3635), ('ZabcaYacXaWaabccccV=cccWbXVYcaacaaaabZc', 7.4093), ('aZbbYXWaacaccV=VYbaacaXcZcabW', 0.1122), ('ZYXWaVbaacacacab=acXacaYWcaVbabaZ', 0.0833), ('ZYaXaWVbbcaacc=XVaZYabbcaaccW', 0.0806), ('ZYXabcccbcWaabaV=XabWVcZcYcbcaaba', 0.0753), ('abZacaccbcYXWV=VWZXabacaccbYc', 0.0918), ('ZabaccacbYcacXacWbV=ccaYWXVbaZccacacbba', 4.5583), ('ZabYXaccccbW=WYbXaZaccccb', 1.8936), ('ZYXabWaacababaacV=abaXZbaacWVabaacY', 0.1022), ('aaZaYXWbccVbacb=VabaZYcbbXccaaW', 0.0901), ('ZYXWVabacbbbbba=bbbbbWVYaXabacZ', 0.0914), ('aabccZYcbaccabaXWaV=VWXYbacbacZcaccaaab', 16.2011), ('ZaYabbccXWVbcbcb=WVXbYccababcbcbZ', 12.5637), ('ZaYbccaXcabbWbabbcV=bcXcacVaYbbbabbWaZc', 0.086), ('ZYXWabaVbabbaabacab=abbaabacabXWVYababZ', 0.0951), ('ZaabYXWbVbccaaaacaa=XaaaacWVaYaaabbbccZ', 0.0927), ('ZYXWaVbbbccaccbbaa=XVZbbbccacaYcbbaaW', 0.0873), ('ZYabXccabccWacaVa=abccabWccVXacaZaY', 0.0967), ('ZabYbbXWVbbabcabac=WVacYabbbbbabcZabX', 0.0893), ('ZYXabcaabbacabbWacV=VWaYbbXZacabbcaacab', 18.9451), ('ZabbaaaYaXWVacbbacb=VbaWbaaaaZacbYbacbX', 26.0371), ('ababZcbcYXWcbbcccaV=ZVcbbYcccaabXWabcbc', 0.1545), ('ZabYcXWaV=WVYXZcaba', 0.0822), ('ZYXaaWabcbbcbcVc=VbcaaabWcZbbcXcY', 0.0821), ('abaccaZbaYXaW=YWXbaaaZabacc', 12.7179), ('abZYXWcccaccbVcbab=VccWbaZbccccaYbabX', 0.1187), ('ZabaYaXbaWbbV=bbWVbXaZabaaY', 0.0929), ('ZYXababcbbacbWabacV=babcbbacbYaVWXZabac', 1.8799), ('ZYabacbXcWbcV=VWYXZcabacbbc', 1.883), ('abacacccZYXWaVcbcba=VbaWaaZbacacYcccbcX', 0.0905), ('ZabbbccbYbbaXbbWV=abWVXbbaYbbZbbccb', 0.0827), ('ZYabcXbbcbaccbbacW=aaXWbcbZccbbacbcYb', 0.089), ('abccZYcbcbaXcWbcbbV=XbWVZaaYbccbccbcbbc', 25.2451), ('ZaYXbbbWccbcbcbV=accbcbVWbXbYbZcb', 1.8682), ('ZYXabcbW=aWbZXYcb', 0.0962), ('ZYXWabcabcaVb=caaVbYZbcaWbX', 0.081), ('ZabcbYbcabcccbXaWaV=WXabcbYbcaVZbcccbaa', 0.0757), ('aabaZYccaXacWVa=VaWbaaXccYaacaZ', 3.6563), ('aZbabaaYXacWbcabVb=VXbcababYaZbaaacbW', 0.085), ('ZYXWVabccbccbccbbbc=bccbbbaYVccbccZbXcW', 8.8887), ('ZabccYbbacbXacca=XabccbbaZcbaccaY', 0.1583), ('aabaZaaYaXaabbW=WXaababaaaYZbaa', 4.8868), ('abcabZYXbbWcaVbab=VYcaabcabbbbaXZbW', 0.1842), ('ZYXWVabbbcbb=bWXbbcZabYbV', 2.9659), ('ZabaYbcabccbaX=aXYbabcabccbaZ', 0.1663), ('ZYaXbaacWbV=XaZWaVbaYcb', 17.5035), ('ZaaYbXbbabacbcWV=XaYWVbbabacbcaZb', 0.0856), ('abZYcXWVcbcabaab=YVbcabaZXcbcabaW', 1.0482), ('aaZYbbXWVacaca=VYZcaaabXbacaW', 0.1978), ('ZYXWabbaaVbacbabab=VZcbabXabWabbaabaY', 0.0839), ('ZYabaXccacaacacaW=abWXYaccacaacacaZ', 0.0735), ('ZYaXWbbbbaaabbV=XWYVbbbbZaaabba', 0.0856), ('ZabYcbXbWcbVbcaaaa=VXZWbcbabcbbcaaaaY', 0.0848), ('ZaYbbXcbacbWbaccV=XWVZcbacbbbabYacc', 9.7614), ('ZaaYaXWbccaabacbbaV=VaabaWYcbZbaaXaabcc', 0.084), ('ZYaXbcbcbcbbbbWb=cXbcbWcbbabZbbbY', 0.103), ('abacZYXaWbabacaV=WVbacZaabYabacaX', 0.1798), ('ZYXWaabacVbcccbcbb=ccbVaabYaWcbcZcbbX', 0.1547), ('abccbcZababbYXcccWV=VWXZYcbcababbcccabc', 0.1293), ('ZYabacbaaXbaac=abaaYcXbacbaaZ', 10.95), ('aabcZbaYbXaW=XWYZbaaabcba', 1.9887), ('aaZYbbbccbXbacabaW=WXbacabbbccZbaYbaa', 3.0556), ('ZaabaaabccaYcbaX=bXcYaaZcaaabacba', 1.0714), ('abZbcaYabccabbX=ZYXbcaababccabb', 0.1836), ('abccaabbZbaY=YZbaabccaabb', 0.0782), ('ZabYaXWbbbaccaVccab=WbVababbbZaccaccYaX', 0.1028), ('abaZbYcaaXaabWV=WXcVYZaabaababa', 15.5319), ('ZYaXWbcaVccacca=cXcWVbcaaZaccaY', 22.494), ('aZabYXWcbaVbccc=VXZcWcbaaabbccY', 0.2), ('ZYaabXWbbcaccbVc=ccVbbcXaYZbaabcW', 0.0919), ('ZabcccYbcXWbV=cccVWYXZbbcba', 5.9353), ('ZYXWabbabcbVa=XYaVbWabbabcZ', 4.0297), ('ZabcaabYaccacXbbW=WZXYbaaaccaccbbab', 15.9425), ('abZcabYXaW=XZYWabbcaa', 8.8999), ('abZbbYbaacX=ZXYbbabaacb', 4.0471)]
+Date: 2020-09-04 15:07:09.931967
+
+Pool benchmarks/pool_20_5_3.pth.tar, Seed: 19
+Model: v56/uniform
+Score: 108, Time avg: 4.222678703703704 (6.792015853041892), Intersection time avg: 0.10088032786885244 (0.03306861629247676), Num steps avg: -1 (-1) (108)
+Solver score: 61, Solver time avg: 0.09574224909798043 (0.03419979442035649), Intersection time avg: 0.09574224909798043 (0.03419979442035649),
+Steps: -1
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Details: [('ZYabXaaacaWcV=YaabacWVaacXZ', 20.3403), ('ZabYXWbbccaVcbbbaaa=bbXbccacbbbaaWYVaaZ', 0.0846), ('ZabYbXaWccababbcaV=WYVXbbaccababbcaZa', 0.0864), ('abZcbbaYcXbWabbaabV=XWZVbcbcaYbababbaab', 20.327), ('ZaaaabbYXcWabcaV=VcaWYZXcabaaaabb', 1.9218), ('abZbcbYaXbbcaWV=YWZVXcbabbcaabb', 0.0946), ('ZabcbccaabbYbXWV=bWVXYcbccaabZabb', 18.6891), ('abaZYccXccbccWccV=VcWcccccbYccXZaba', 6.54), ('aabZYXcWabcaaV=ZWaVcabaaYbcaX', 9.2818), ('ZabcYXWVbacccabbb=abcbaVccaXbbbWcZY', 14.7961), ('ZabYXbWbVcbbbbacc=VWZaYbbbcbbbbaccX', 0.0841), ('abZYXbbWccaVbaacb=VbcWcaaZXbbbaacbY', 0.0848), ('ZaYababXcbcabWaV=cXWYVbZabababaac', 15.7158), ('ZYXWVabcbbbcbcb=bcaZcWVbbbcbXbY', 2.8234), ('ZaYbcXWVab=WcZVabXabY', 0.0873), ('ZYabXbbaWbbaccccV=YbaabWXbbVZbacccc', 11.0577), ('ZaYXbcabWabcVccbab=WbabVXbZcabaabcccY', 0.0981), ('abbacbZcabbabbYXWbV=VZYbbXabbacbcabbabW', 0.0855), ('ZYXabbaWcV=WVXcabbaZY', 0.0827), ('ZabccbcYXbbcWVcbc=ccbcVaYbcXcWbcbbZ', 0.0854), ('ZaaabbcabYXcWVc=XcWVaZbcaaabbcY', 5.6135), ('ZYXWVaaabbc=aXaVWZabbcY', 0.0785), ('ZabcacacbaaabYXWaV=aVZbaabcacacYbaaWX', 3.7634), ('ZYXWaabbVaccbbac=cWXabbacZbbacVaY', 1.9043), ('ZYXabbWaccVbabab=bcabbaXcYbabWVaZ', 1.0108), ('ZabcbbbcbYXbaWbacVc=bacabcVWabbcbbZbcYX', 16.6778), ('ZababcacbaYabcbaXWV=VabZaXbcWacbaaYbcba', 0.0797), ('ZYXabaccaaccWVbb=YXcaaccbbabaVcWZ', 0.0848), ('abaZYbaXaacWV=WacaXbabYVZaa', 0.1198), ('ZYabXWcbccaaVbc=WabXcbccaabcVYZ', 0.0768), ('ZYXabbacacb=cbacYbbaXaZ', 8.3973), ('ZabaacaYccXaWVb=YVcabWabXaacacZ', 0.0842), ('abcZYXccWabV=VaYWZccXbabc', 6.468), ('ZabcaYacXaWaabccccV=cccWbXVYcaacaaaabZc', 7.538), ('aZbbYXWaacaccV=VYbaacaXcZcabW', 0.093), ('ZYXWaVbaacacacab=acXacaYWcaVbabaZ', 0.0838), ('ZYaXaWVbbcaacc=XVaZYabbcaaccW', 0.0754), ('ZYXabcccbcWaabaV=XabWVcZcYcbcaaba', 0.0774), ('abZacaccbcYXWV=VWZXabacaccbYc', 0.0778), ('ZabaccacbYcacXacWbV=ccaYWXVbaZccacacbba', 4.681), ('ZabYXaccccbW=WYbXaZaccccb', 1.9312), ('ZYXabWaacababaacV=abaXZbaacWVabaacY', 0.0968), ('aaZaYXWbccVbacb=VabaZYcbbXccaaW', 0.0934), ('ZYXWVabacbbbbba=bbbbbWVYaXabacZ', 0.0862), ('aabccZYcbaccabaXWaV=VWXYbacbacZcaccaaab', 16.5829), ('ZaYabbccXWVbcbcb=WVXbYccababcbcbZ', 12.9137), ('ZaYbccaXcabbWbabbcV=bcXcacVaYbbbabbWaZc', 0.0969), ('ZYXWabaVbabbaabacab=abbaabacabXWVYababZ', 0.0921), ('ZaabYXWbVbccaaaacaa=XaaaacWVaYaaabbbccZ', 0.0844), ('ZYXWaVbbbccaccbbaa=XVZbbbccacaYcbbaaW', 0.0863), ('ZYabXccabccWacaVa=abccabWccVXacaZaY', 0.132), ('ZabYbbXWVbbabcabac=WVacYabbbbbabcZabX', 0.0944), ('ZYXabcaabbacabbWacV=VWaYbbXZacabbcaacab', 20.9253), ('ZabbaaaYaXWVacbbacb=VbaWbaaaaZacbYbacbX', 28.8061), ('ababZcbcYXWcbbcccaV=ZVcbbYcccaabXWabcbc', 0.089), ('ZabYcXWaV=WVYXZcaba', 0.083), ('ZYXaaWabcbbcbcVc=VbcaaabWcZbbcXcY', 0.0829), ('abaccaZbaYXaW=YWXbaaaZabacc', 13.9415), ('abZYXWcccaccbVcbab=VccWbaZbccccaYbabX', 0.1286), ('ZabaYaXbaWbbV=bbWVbXaZabaaY', 0.0912), ('ZYXababcbbacbWabacV=babcbbacbYaVWXZabac', 2.0756), ('ZYabacbXcWbcV=VWYXZcabacbbc', 2.0585), ('abacacccZYXWaVcbcba=VbaWaaZbacacYcccbcX', 0.0918), ('ZabbbccbYbbaXbbWV=abWVXbbaYbbZbbccb', 0.0824), ('ZYabcXbbcbaccbbacW=aaXWbcbZccbbacbcYb', 0.0895), ('abccZYcbcbaXcWbcbbV=XbWVZaaYbccbccbcbbc', 27.9115), ('ZaYXbbbWccbcbcbV=accbcbVWbXbYbZcb', 2.0342), ('ZYXabcbW=aWbZXYcb', 0.1693), ('ZYXWabcabcaVb=caaVbYZbcaWbX', 0.0831), ('ZabcbYbcabcccbXaWaV=WXabcbYbcaVZbcccbaa', 0.0794), ('aabaZYccaXacWVa=VaWbaaXccYaacaZ', 4.0384), ('aZbabaaYXacWbcabVb=VXbcababYaZbaaacbW', 0.0903), ('ZYXWVabccbccbccbbbc=bccbbbaYVccbccZbXcW', 9.002), ('ZabccYbbacbXacca=XabccbbaZcbaccaY', 0.1628), ('aabaZaaYaXaabbW=WXaababaaaYZbaa', 4.9743), ('abcabZYXbbWcaVbab=VYcaabcabbbbaXZbW', 0.1847), ('ZYXWVabbbcbb=bWXbbcZabYbV', 3.0674), ('ZabaYbcabccbaX=aXYbabcabccbaZ', 0.1519), ('ZYaXbaacWbV=XaZWaVbaYcb', 17.8187), ('ZaaYbXbbabacbcWV=XaYWVbbabacbcaZb', 0.0832), ('abZYcXWVcbcabaab=YVbcabaZXcbcabaW', 1.0743), ('aaZYbbXWVacaca=VYZcaaabXbacaW', 0.2173), ('ZYXWabbaaVbacbabab=VZcbabXabWabbaabaY', 0.0833), ('ZYabaXccacaacacaW=abWXYaccacaacacaZ', 0.0778), ('ZYaXWbbbbaaabbV=XWYVbbbbZaaabba', 0.0878), ('ZabYcbXbWcbVbcaaaa=VXZWbcbabcbbcaaaaY', 0.0868), ('ZaYbbXcbacbWbaccV=XWVZcbacbbbabYacc', 9.8825), ('ZaaYaXWbccaabacbbaV=VaabaWYcbZbaaXaabcc', 0.0875), ('ZYaXbcbcbcbbbbWb=cXbcbWcbbabZbbbY', 0.0836), ('abacZYXaWbabacaV=WVbacZaabYabacaX', 0.1742), ('ZYXWaabacVbcccbcbb=ccbVaabYaWcbcZcbbX', 0.0849), ('abccbcZababbYXcccWV=VWXZYcbcababbcccabc', 0.1165), ('ZYabacbaaXbaac=abaaYcXbacbaaZ', 11.1086), ('aabcZbaYbXaW=XWYZbaaabcba', 2.0688), ('aaZYbbbccbXbacabaW=WXbacabbbccZbaYbaa', 3.0701), ('ZaabaaabccaYcbaX=bXcYaaZcaaabacba', 1.1003), ('abZbcaYabccabbX=ZYXbcaababccabb', 0.183), ('abccaabbZbaY=YZbaabccaabb', 0.0775), ('ZabYaXWbbbaccaVccab=WbVababbbZaccaccYaX', 0.0981), ('abaZbYcaaXaabWV=WXcVYZaabaababa', 15.9685), ('ZYaXWbcaVccacca=cXcWVbcaaZaccaY', 20.8516), ('aZabYXWcbaVbccc=VXZcWcbaaabbccY', 0.1917), ('ZYaabXWbbcaccbVc=ccVbbcXaYZbaabcW', 0.0934), ('ZabcccYbcXWbV=cccVWYXZbbcba', 5.9856), ('ZYXWabbabcbVa=XYaVbWabbabcZ', 4.0119), ('ZabcaabYaccacXbbW=WZXYbaaaccaccbbab', 16.0683), ('abZcabYXaW=XZYWabbcaa', 8.9836), ('abZbbYbaacX=ZXYbbabaacb', 4.0931)]
+Date: 2020-09-04 20:49:43.718415
+
+Pool benchmarks/pool_20_5_3.pth.tar, Seed: 20
+Model: v56/uniform
+Score: 108, Time avg: 4.349755555555556 (6.9570372279032755), Intersection time avg: 0.11838852459016395 (0.04679288547001617), Num steps avg: -1 (-1) (108)
+Solver score: 61, Solver time avg: 0.10413584552827429 (0.03874138489838229), Intersection time avg: 0.10413584552827429 (0.03874138489838229),
+Steps: -1
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Details: [('ZYabXaaacaWcV=YaabacWVaacXZ', 21.7013), ('ZabYXWbbccaVcbbbaaa=bbXbccacbbbaaWYVaaZ', 0.086), ('ZabYbXaWccababbcaV=WYVXbbaccababbcaZa', 0.085), ('abZcbbaYcXbWabbaabV=XWZVbcbcaYbababbaab', 23.7106), ('ZaaaabbYXcWabcaV=VcaWYZXcabaaaabb', 2.0231), ('abZbcbYaXbbcaWV=YWZVXcbabbcaabb', 0.2016), ('ZabcbccaabbYbXWV=bWVXYcbccaabZabb', 18.6599), ('abaZYccXccbccWccV=VcWcccccbYccXZaba', 7.0802), ('aabZYXcWabcaaV=ZWaVcabaaYbcaX', 9.8174), ('ZabcYXWVbacccabbb=abcbaVccaXbbbWcZY', 15.861), ('ZabYXbWbVcbbbbacc=VWZaYbbbcbbbbaccX', 0.1709), ('abZYXbbWccaVbaacb=VbcWcaaZXbbbaacbY', 0.0879), ('ZaYababXcbcabWaV=cXWYVbZabababaac', 16.8226), ('ZYXWVabcbbbcbcb=bcaZcWVbbbcbXbY', 3.0516), ('ZaYbcXWVab=WcZVabXabY', 0.1837), ('ZYabXbbaWbbaccccV=YbaabWXbbVZbacccc', 11.8615), ('ZaYXbcabWabcVccbab=WbabVXbZcabaabcccY', 0.1986), ('abbacbZcabbabbYXWbV=VZYbbXabbacbcabbabW', 0.0861), ('ZYXabbaWcV=WVXcabbaZY', 0.0842), ('ZabccbcYXbbcWVcbc=ccbcVaYbcXcWbcbbZ', 0.0894), ('ZaaabbcabYXcWVc=XcWVaZbcaaabbcY', 5.9696), ('ZYXWVaaabbc=aXaVWZabbcY', 0.0773), ('ZabcacacbaaabYXWaV=aVZbaabcacacYbaaWX', 4.0307), ('ZYXWaabbVaccbbac=cWXabbacZbbacVaY', 2.1254), ('ZYXabbWaccVbabab=bcabbaXcYbabWVaZ', 1.0691), ('ZabcbbbcbYXbaWbacVc=bacabcVWabbcbbZbcYX', 17.7477), ('ZababcacbaYabcbaXWV=VabZaXbcWacbaaYbcba', 0.08), ('ZYXabaccaaccWVbb=YXcaaccbbabaVcWZ', 0.085), ('abaZYbaXaacWV=WacaXbabYVZaa', 0.2139), ('ZYabXWcbccaaVbc=WabXcbccaabcVYZ', 0.0767), ('ZYXabbacacb=cbacYbbaXaZ', 9.0341), ('ZabaacaYccXaWVb=YVcabWabXaacacZ', 0.1853), ('abcZYXccWabV=VaYWZccXbabc', 6.8891), ('ZabcaYacXaWaabccccV=cccWbXVYcaacaaaabZc', 7.9731), ('aZbbYXWaacaccV=VYbaacaXcZcabW', 0.1939), ('ZYXWaVbaacacacab=acXacaYWcaVbabaZ', 0.0852), ('ZYaXaWVbbcaacc=XVaZYabbcaaccW', 0.0765), ('ZYXabcccbcWaabaV=XabWVcZcYcbcaaba', 0.077), ('abZacaccbcYXWV=VWZXabacaccbYc', 0.095), ('ZabaccacbYcacXacWbV=ccaYWXVbaZccacacbba', 5.0372), ('ZabYXaccccbW=WYbXaZaccccb', 1.9914), ('ZYXabWaacababaacV=abaXZbaacWVabaacY', 0.1713), ('aaZaYXWbccVbacb=VabaZYcbbXccaaW', 0.1664), ('ZYXWVabacbbbbba=bbbbbWVYaXabacZ', 0.1388), ('aabccZYcbaccabaXWaV=VWXYbacbacZcaccaaab', 17.7678), ('ZaYabbccXWVbcbcb=WVXbYccababcbcbZ', 13.709), ('ZaYbccaXcabbWbabbcV=bcXcacVaYbbbabbWaZc', 0.0895), ('ZYXWabaVbabbaabacab=abbaabacabXWVYababZ', 0.0988), ('ZaabYXWbVbccaaaacaa=XaaaacWVaYaaabbbccZ', 0.0859), ('ZYXWaVbbbccaccbbaa=XVZbbbccacaYcbbaaW', 0.0844), ('ZYabXccabccWacaVa=abccabWccVXacaZaY', 0.18), ('ZabYbbXWVbbabcabac=WVacYabbbbbabcZabX', 0.0915), ('ZYXabcaabbacabbWacV=VWaYbbXZacabbcaacab', 20.6837), ('ZabbaaaYaXWVacbbacb=VbaWbaaaaZacbYbacbX', 28.4773), ('ababZcbcYXWcbbcccaV=ZVcbbYcccaabXWabcbc', 0.0852), ('ZabYcXWaV=WVYXZcaba', 0.0872), ('ZYXaaWabcbbcbcVc=VbcaaabWcZbbcXcY', 0.0839), ('abaccaZbaYXaW=YWXbaaaZabacc', 13.8884), ('abZYXWcccaccbVcbab=VccWbaZbccccaYbabX', 0.2074), ('ZabaYaXbaWbbV=bbWVbXaZabaaY', 0.092), ('ZYXababcbbacbWabacV=babcbbacbYaVWXZabac', 2.0636), ('ZYabacbXcWbcV=VWYXZcabacbbc', 2.0149), ('abacacccZYXWaVcbcba=VbaWaaZbacacYcccbcX', 0.0958), ('ZabbbccbYbbaXbbWV=abWVXbbaYbbZbbccb', 0.083), ('ZYabcXbbcbaccbbacW=aaXWbcbZccbbacbcYb', 0.0944), ('abccZYcbcbaXcWbcbbV=XbWVZaaYbccbccbcbbc', 27.5491), ('ZaYXbbbWccbcbcbV=accbcbVWbXbYbZcb', 2.0514), ('ZYXabcbW=aWbZXYcb', 0.1679), ('ZYXWabcabcaVb=caaVbYZbcaWbX', 0.0891), ('ZabcbYbcabcccbXaWaV=WXabcbYbcaVZbcccbaa', 0.0799), ('aabaZYccaXacWVa=VaWbaaXccYaacaZ', 4.0282), ('aZbabaaYXacWbcabVb=VXbcababYaZbaaacbW', 0.0859), ('ZYXWVabccbccbccbbbc=bccbbbaYVccbccZbXcW', 8.9205), ('ZabccYbbacbXacca=XabccbbaZcbaccaY', 0.17), ('aabaZaaYaXaabbW=WXaababaaaYZbaa', 4.995), ('abcabZYXbbWcaVbab=VYcaabcabbbbaXZbW', 0.1934), ('ZYXWVabbbcbb=bWXbbcZabYbV', 3.0484), ('ZabaYbcabccbaX=aXYbabcabccbaZ', 0.1492), ('ZYaXbaacWbV=XaZWaVbaYcb', 17.602), ('ZaaYbXbbabacbcWV=XaYWVbbabacbcaZb', 0.0842), ('abZYcXWVcbcabaab=YVbcabaZXcbcabaW', 1.0572), ('aaZYbbXWVacaca=VYZcaaabXbacaW', 0.2015), ('ZYXWabbaaVbacbabab=VZcbabXabWabbaabaY', 0.0851), ('ZYabaXccacaacacaW=abWXYaccacaacacaZ', 0.0773), ('ZYaXWbbbbaaabbV=XWYVbbbbZaaabba', 0.0967), ('ZabYcbXbWcbVbcaaaa=VXZWbcbabcbbcaaaaY', 0.0984), ('ZaYbbXcbacbWbaccV=XWVZcbacbbbabYacc', 9.8066), ('ZaaYaXWbccaabacbbaV=VaabaWYcbZbaaXaabcc', 0.0863), ('ZYaXbcbcbcbbbbWb=cXbcbWcbbabZbbbY', 0.085), ('abacZYXaWbabacaV=WVbacZaabYabacaX', 0.1838), ('ZYXWaabacVbcccbcbb=ccbVaabYaWcbcZcbbX', 0.0865), ('abccbcZababbYXcccWV=VWXZYcbcababbcccabc', 0.086), ('ZYabacbaaXbaac=abaaYcXbacbaaZ', 11.0137), ('aabcZbaYbXaW=XWYZbaaabcba', 2.0279), ('aaZYbbbccbXbacabaW=WXbacabbbccZbaYbaa', 3.0521), ('ZaabaaabccaYcbaX=bXcYaaZcaaabacba', 1.0724), ('abZbcaYabccabbX=ZYXbcaababccabb', 0.1866), ('abccaabbZbaY=YZbaabccaabb', 0.0811), ('ZabYaXWbbbaccaVccab=WbVababbbZaccaccYaX', 0.1001), ('abaZbYcaaXaabWV=WXcVYZaabaababa', 15.7114), ('ZYaXWbcaVccacca=cXcWVbcaaZaccaY', 20.714), ('aZabYXWcbaVbccc=VXZcWcbaaabbccY', 0.1996), ('ZYaabXWbbcaccbVc=ccVbbcXaYZbaabcW', 0.0934), ('ZabcccYbcXWbV=cccVWYXZbbcba', 5.9211), ('ZYXWabbabcbVa=XYaVbWabbabcZ', 3.9768), ('ZabcaabYaccacXbbW=WZXYbaaaccaccbbab', 16.0154), ('abZcabYXaW=XZYWabbcaa', 8.9106), ('abZbbYbaacX=ZXYbbabaacb', 4.0168)]
+Date: 2020-09-05 02:32:37.076195
+
+Pool benchmarks/01_track/transformed, Seed: 18
+Model: v56/uniform
+Score: 199, Time avg: 0.4130341708542714 (2.046489313897749), Intersection time avg: 0.15670994764397905 (0.0652338769111257), Num steps avg: -1 (-1) (199)
+Solver score: 191, Solver time avg: 0.14426894212892544 (0.04462274895594963), Intersection time avg: 0.14426894212892544 (0.04462274895594963),
+Steps: -1
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Details: [('aadbabccceabfffdcbdaadffeGfdeccdddefededcdbeecfabcAfbcbEefcceeaadbadcfacddbffddcadeed=aadbabccceabfffdcbdaadffeGfdeccdddefededcdDdbffddcadeed', 0.1036), ('FaaaaaaBFaaaaaaEaaaaa=BaaaaaaFFGaaaaaaaaaaaaa', 0.1934), ('aajebfAjaediebbjgjabhefg=aajebfBbhefg', 0.1435), ('aeceebcddfccabfeebbefdaCbefefecddecdefc=aeceebcddfccabfeebbefdadeddfbeebcfbbafabdcdbfdbcbbedGceeecefaeabdffbfbeafecfbbefefecddecdefc', 0.1846), ('abcdAcebdcAccbfebdfaaeeaecfeea=AcdAcebdcabccbfebdfaaeeaecfeea', 0.1194), ('hgeaacdieigieifggeJigiaeagaifaiaf=hgeaacdieigieifggeedaeccMdahhaLhcceiibhigiaeagaifaiaf', 0.2011), ('bccbacccacacbbcbbacaCaaacabccabcbbababcaaaaabcabccbbccbababbc=bccbacccaAaacacbbaccababaaacabccabcbbababcaaaaabcabccbbccbababbc', 0.114), ('abbaFbbaaabaaaaabaBabbbaabaFFbbbabbabaaFaaaaFaaaaabbabaaabab=abbaababbaaFaaaFabbFbabaaabaabaabbaababbbaabaFFbbbabbabaaabaaaaaabaaaaaabbFaabab', 0.1892), ('fEaagdcafbagfa=fbabdddgLffOfAggbccgfdfbfcddgafccfaagdcafbagfa', 0.1), ('B=G', 0.1527), ('dcdcebN=dcdcebMcbMaeGdeecaebedea', 0.1487), ('AdAeeHcA=bdAFcA', 0.1301), ('hdcbeciaedcahahgafJggcgbaaiebfcdi=hdcbeciaedcahahgafacidagiFhgdcafggcgbaaiebfcdi', 0.1599), ('cBabbabBabBbBcbabcbcbb=cCBcbabcbcbb', 0.1021), ('aKaaAfadMdbbeMebebfdddacMMadceeecbcbfee=afedbbaMbaaeecdMeMdMcafddbbIfdbbeMebebMDdacfMadceeecbcbMee', 2.367), ('CAaaEEaaaaaaaAA=GEaaaaa', 0.206), ('abfbdegbhhNcCbKbegcabbgMeafgghcaC=abfbdegbhhNcdJegcabbgMeafgghcaC', 0.2303), ('fiOOEK=ficcdONOdgcgh', 0.1412), ('aabcbcbabaaabbbcacbbcccbcbbcaabbabcacccbAaacccaaaacbbabccc=aabcbcbabBaabcacccaaaaacccaaaacbbabccc', 0.1743), ('feefdAgfeaceebadcefdbddfgdbgcAAddfcecbaabacgdadeceaeabfbbAfebeffadbffdgcfgbgdaedgccedcbdgaccbdfdefabadf=feefdeggfeaceebadcefdbddfgdbgcegAddfcecbaabacgdadeceaeabfbbegfebeffadbffdgcfgbgdaedgccedcbdgaccbdfdefabadf', 0.1248), ('JaaaaaaBaaBaaaaaaBBaaaaB=GaaBaaBaaBaGBBBBBBaG', 0.1751), ('DefBc=DefAc', 0.1025), ('gEgdbdccbcfcgaFab=gddeBcfcgaFab', 0.1856), ('aecaDacdffebcdcbdddfabcecfaacaeebabcaDdeAafcaddfbcaecbbcfeadddacdbceca=aecaDacdffeJacaeebabcaDdefdbdaeeafeGddfbcaecbbcfeadddacdbceca', 0.161), ('bbbaGbaabaaaaBababbbbababbaaabb=bbbaGCabbaaabb', 0.0991), ('caaccCcaaccbcBbacabbccbcaccababc=caGJbccbcaccababc', 0.1932), ('aciJjaiijJehfhccbbJjaecdfAcdchciicdiedjbgeaechciiecjh=acibjaiijbDechciiecjh', 0.2193), ('abbbcaabbabccbcabaacbcbacabHccabbcacbbbcaaLaacc=abbbcaabbabccbcabaacbcLFbaabcaabacabbcacbccaaccbabbbccbccabbcacbbbcaabacaacc', 7.645), ('cbccAc=cbcccbbbcbbcabc', 0.0226), ('hhfihhhgjgdEaaebaaH=hhfihhhgjNbiaaebaaOifibehed', 0.1171), ('dffddgcefafggbeafadafbcacfdfcdffbfcbeeaegbaegcdEfeecegffcfeaagfcadfcffdeddbgdbbgceeb=dffddgcefafggbeafadafbcacfdfcdffbfcbeeaegbaegcdbddcaddgfgadacdgfgbdbccDffcecbaefcfegebadbfagecfbdbfafeecegffcfeaagfcadfcffdeddbgdbbgceeb', 0.2094), ('dabcfdcadfaccfccdbbBCcbeddebceedfdbaccdfeeaebeecaecddbeaced=dabcfdcadfaccfIdfdbaccdfeeaebeecaecddbeaced', 0.1857), ('cggbffJeaaadfeebbceagd=cggbffeecggbabEgGdfdbdcdcgdcegbcegeaaadfeebbceagd', 0.1843), ('adeegdbbDdhaDcChfagaggadaeacecgdbcddeh=adeegdbbDdhafecHdfcfbdfgcfcbcbGddeh', 0.2517), ('fjeeejdcficBgadjbid=fjeeejdcficDdjbid', 0.1507), ('gadfgfdabgCgcefaecbgddefbefcfbf=gadfgfdabgaaacbdgcefbbgeegfdcdcdacfaddeegdegcccaedcAgddefbefcfbf', 0.1985), ('aeeeeedbaDeaeBddabcdcbbdbeddee=aeeeeeFbcdecbadcdbeaaddabcdcbbdbeddee', 0.1988), ('gfbhbefgbadbhebdddghdgEhCedcdcb=EbhbefgFDacbdfEbchfcdegcecedcdcb', 26.7815), ('bccHcagdjdaebDicicaccdeadfeacehdc=bccecijbbifhciibcfaaebecagdjdaebFjaachbbbcbiicicaccdeadfeacehdc', 0.2488), ('ffAbAeagacdebfegegdbeaeggdaegeegebfcgbfgefeAedafbAdddfEbbbaaAdaaccabAdfedffeea=ffcbceagaAdebfegegdbeaeggdaegeegebfcgDAdddfEbbbaacdaaAcabAdfedffeea', 0.2155), ('igfbFAJbFhd=iMd', 0.1888), ('gaeaiiEcgcjagjeffgghaff=gaIbjgfbeadhbehdifeijieadddjaidjhgMjjajjjhebcedeifhiaiejfdcdfcgcjagjeffgghaff', 0.2134), ('acabAbccbccabacbcccbabbbbaaccaccbacbcacabcbaaabcabacacaaccbcccacaaabaaa=acabccbacbbbbbcbbcccbbaacabbDccaccbacbcacabcbaaabcabacacaaccbcccacaaabaaa', 0.1691), ('hbgdjgabehbcihfhggfdijbjcBgiedhcjcibfffacgbgejibbgjadjeddhjehjj=hbgdjgabehbcihfhggfdijbjchjjfbfeijebfjabciadjchegiiedjdiihifdbfebiechbegiedhcjcibfffacgbgejibbgjadjeddhjehjj', 0.0269), ('ccdegdegecdfbbfdgeedcaHafacbdfaeegdbaJeaacaEgefffccecfddcddcbgffcdaagebfeafddedegcdfe=ccdegdegecdfbbfdgeedcafacafacbdfaeegdbaJeaacaEgefffccecfddcddcbgffcdaagebfeafddedegcdfe', 0.0224), ('cEAiifgade=ceifeceFcifibiiifgade', 0.1594), ('cebhhefgdhhfdbdhcghaadfhagcgceeffahfeeaecgeaafgebecchabcaaecefgAdecbaadbaghchcfcgdbhchfbcfehbefgehgfadhdfhebfebdfhce=cebhhefgdhhfdbdhcghaadfhagcgceeffahfeeaecgeaafgebecchabcaCbfebdfhce', 0.21), ('eafBjgfaihdfcbgffCgebgjgfdebeajefbe=eafbgieagfdcahedjjjdcjgfaihdfcbgffbafedhbebghehgfehibbjdejbdafiidcbbecDiahceaggigheiebjecfgebgjgfdebeajefbe', 0.2248), ('AdAijjahaafgie=AdD', 0.1495), ('EEEEEEEEFEFaaaaaa=FFEFaaaaaaEFDaF', 0.2403), ('cefcdfBbgcdfedbGfgafbGgefdgcbadf=GefIdcbbfGfGbbgFgefdgGbadf', 1.3216), ('eJjcAh=efEG', 0.1824), ('HaccFcddcaebbaacabecdbbcecceacbacbcecbcHabedceaaeeadebadeHeaeac=dbaccGbbaacabeIbeaeac', 0.2186), ('BDDaaDaaDDaaAADaaaaaaDDaaDDDaaaaDaaDDaaaaa=FFFFa', 0.1428), ('bcecceddbdAbddbC=bcecceddbdAbddbacaababdcdadcebbbbdcbbebbdceedebcceedacdadbb', 0.0516), ('fdfafeafegAcbgcdbgbfbgfeacegbcddgagbebgeadbbacdfaefaeffffbfgagaggebbcccddacecaddfed=fdfafeafegbbfbgegffgedegdfcgebgecgccadgdaefbfCdbbacdfaefaeffffbfgagaggebbcccddacecaddfed', 0.2352), ('bEadcbbdbdddbabdca=bbbdaaaaAcbdAdIdbdddbabdca', 0.1734), ('dIdedacdcccbecaeaddbcbccdebababbbbecadeddHec=dIdedacdcccbecaeaddbcbccdebababbbbecadeddbaeaFabbecabcbec', 0.2066), ('hbBCidhcffeghdie=hbBdggEebdehidhcffeghdie', 0.124), ('aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaBBaaaaaaaa=ABaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', 0.2059), ('ccbccafdefdbfbcecefefbbbfefCdebEcbdfcbedcafaebbcdebdafdcbbedbbaeaadcaccbebcfffdccbfbabfcafe=ccbccafdefdbfbcecefefbbbfefCdebcbfbdefcbdfcbedcafaebbcdebdafdcbbedbbaeaadcaccbebcfffdccbfbabfcafe', 0.0558), ('KaaaMbJaccbcbbbNaccbaa=aNbcaaaaaabaacbcaabNabaDabacaaccbcbbbNaccbaa', 0.1222), ('aaaaaaaaaaaaCa=Aaaaaaaaaaaaa', 0.2023), ('hDegCjJedfc=hjeIcedfc', 0.1462), ('EHAEEHa=GGHA', 0.1384), ('baaaaaaabaaaBbaabbbbbbbaababbaabbbaaabbbbb=baaaaaaabaaaabbbbbbabbbabbabbbaabbaaaababbabbbabbaaGbaabbbbbbbaababbaabbbaaabbbbb', 0.1883), ('bcagfbaecAeffdaabdgfdeaff=bcagfbaecabcefffgdeaccfcegaaacdacedafccfddefeffdaabdgfdeaff', 0.0218), ('dcffhHcfebEi=dcfCDi', 0.2238), ('fgaAeedihbjhcei=fgagefiaidbgcafigeedihbjhcei', 0.0215), ('cbbbbbabcacabcbcJccccbacccaccaccaaaaaaabbbaccccaaabbacaacaaabbc=cbIbbbabbMaaaaaabbbaccccaaabbacaacaaabbc', 0.1579), ('aibejbhifjegjacgdBEjfbjefjbddhdbaejegdigdbg=aibejbhifjegjacgdbihfeDefjbddhdbaejegdigdbg', 0.1387), ('bCbbKEOOCCbacaCO=bCbGbaEabc', 0.1458), ('fabeafbgdaggecacdcadgfbgegfdfeebcggecaaebcefabgaaecdbddcfdBfccabggdaedcafgcbadaagdaaebc=fabeafbgdaggecacdcadgfbgegfdfeebcggecaaebcefabCecfdecdcfaagfaeeaccbafccabggdaedcafgcbadaagdaaebc', 0.1634), ('efdcffabAfdcb=efdcffabaeCbcecfdBddacBffdcb', 0.115), ('bhebfdeeccfCbcaahjiDjciahhejiheacfgaibhfbdbeedf=bhebfdeeccfagbjiigfgecfdbcaahjiDjciahhejiheacfgaibhfbdbeedf', 0.0585), ('aecaabedddcfaeBfcacbedffadfbbdbddbef=aecaabAcfcacbedffadfbbdbddbef', 0.2242), ('ebcgadKdiecfaiifeeafffgafbhgdccdhfffdeffiebhieiefhHhhbehehbbgeghiggcdfbgadbgcdfcfdhhcfhfdcfcifefhggifheggbebfcca=ebcgLecfaiifeeafffgafbhEeggbebfcca', 0.2281), ('ABaaaa=CB', 0.1995), ('deHfahgfEHbgHdfchjgbjhgafiagegfcijeJHdg=deifahGidg', 0.2357), ('ieafbhdibeaghgcgaEafJbebgfbLegdfbfJffaahbdeegJiifbiJidJfafg=ieaFbiJidcfafg', 0.2155), ('adcaccbaAecdbgadadafefdfffdfd=adcaccDggebcgdcbbecdbgadadafefdfffdfd', 0.2207), ('hhadbcdiiidcficcdhgaiegaEeebbgdhcbaeigbfggcceiehce=hhadbcdiiBgfhechbfFbgdhcbaeigbfggcceiehce', 0.2242), ('aabccbcNcJ=aabccbcccbcaaDacMabbacccbbbHbaabLccacbbaa', 0.2265), ('defefcbeebbbdcfeaeadabfaaeeaddddeaaefddfaffbdcfbaefbfadeb=defefcbeeAaaefddfaffbdcfbaefbfadeb', 0.0217), ('caccabbccEabbbcbcababbcbbbbbcabcbaa=caccabbccabacbbcCbcbbbbbcabcbaa', 0.1299), ('dbebgddbecfcbbAadeeaecAgebegeecafegebdbagddaadbddcaeeebfabfefabfacdgAgaabgegagf=dbebgddbeAfcbbAaIegeeAaDegagf', 1.2744), ('gbcfhagdhfhBhbaebihgbGdegbacgh=gbcfhFhBhbaebihgbGdegbacgh', 0.0217), ('jcjDhadca=jAieecghadca', 0.114), ('aaaccbabaaccccaabbBaccaaaacbbbccccbccacacb=aaaccFcaaaacbbbccccbccacacb', 0.1856), ('Ebbbdbcdddbbdbdabaccdddbcbccdbd=cabbcacNcdaddbbacbOdddbcbccdbd', 0.1432), ('aababbaabbaaaabbbabaaabbbbbabbbaabbbbabbbAaaba=aabBbabbaaaabbbaabbababbaaabbaababababaabbaabababbabaaabbabbaaba', 0.1355), ('hhegdcaaggibgfhggichggiciiggdficiehhihaigaa=hhegdcaaggibgfhggiBhaigaa', 0.0552), ('gdaafhhaebdagfaefcbdffbcfdcfEgddbbegcbgeaacfdb=gdaafhhaebdagfaefcbdffbcfdcffeeFaegbbdecahdfdefdcdbaahafegddbbegcbgeaacfdb', 0.2073), ('baeeaaaeebbbdcddcbdcbcbAbbddaacebccdaaedeccbdbeeedaacddedacdbcedbbabcdbbccb=baeeaaaeebbbdcddcbdcbcbcdccbebdabceecacceaeabbddaacebccdaaedeccbdbeeedaacddedacdbcedbbabcdbbccb', 0.0218), ('eccGgiafdaeCbdaebcdheefccbbadiihhiBgheghihfceciagbggeecedbhdfggeadccfdichdcecdfg=eccGgiaDhfgheghihfceciagbggeecedbhdfggeadccfdichdcecdfg', 0.1393), ('eafbebbfeebfecgfc=eafbebbAfecgfc', 0.0496), ('cdacdeceecacedddeaedaebdcababaedbbddeeceaecccbdeecbdcecbaedbacacdebecedcabccdabccabbddbcbbacebcbbabcbdabaadebecabaccbaaceaecaabebcada=cdacdeceecacedddeaedaebdcababaedbbddeeceaecccbdeecbdAcdabccabbddbcbbacebcbbabcbdabaadebecabaccbaaceaecaabebcada', 0.023), ('icgaiHfhCf=HcgaiiFhfcdcHfifbcf', 0.1869), ('bbaaabbbabBbabbbbbabbbbbabbbabbBbbbaEaaabbBaaaaaBbbaabbbaabbbbbbbbaabababaa=bbaaabbbabbabBbbbbabbbbbabbBbbabbbbaaabbBbabaabaaaababbFaabbbabaaaaababbbaabbbaabbbbbbbbaabababaa', 0.2792), ('dcbgbggeagdfbbgdfebffacgEgcedacebdfabcbfafgacggebbfegfdceeabecgdgbcd=dcbgbggeagdfJbBfbffgbegacfdbdIbdfabcbfafgacggebbfegfdceeabecgdgbcd', 0.2459), ('igEehEbjadCideeeEgbifechcheid=igfehEbjFeideeefgbifechcheid', 0.3027), ('aJaaaaLacbbbabbJccGJaJaaLaaaJLbaLcabaaLabLa=aJaaaaGaGbJJaJbbLLGIabGJaGLaJaaGaJLa', 3.7585), ('KMaNaaaaa=MIaaaaaaMaaMaaMMMaaaaMaaMMMMa', 0.2292), ('edffcbeeagAbdgbfaedcfecdbJbggcefgdfecedceeccedcec=edffcbeeagcgecbGffbbdebbcbcbcacedebabbggcefgdfecedceeccedcec', 0.2313), ('bbcddbeghhbcfhefhgehgggfdgcahbBdbcgafgccf=bbcddbeghhAfgecacffbbgggebcgfgcfgbaddcdbbfggdegddbcgafgccf', 0.1956), ('CaaababCbbCabbabbabbababbCabaaaabaaaabCbbbbabbbabaaabbCbCaabababaabaaabaabbbaaabb=baFCbbaaaabababaaCaCbbCabb', 0.2288), ('aacadcacdabddadbdabG=aaCabddcaccbccaacaadbccababbacc', 0.1675), ('fbcadfffcabbcefaccaddaeefbdadfedebebcadcBdebdfcdaabaaadbfab=fbcadfffcabbcefaccaddaeefbdadfedGcbeafceaaefdaeefedebdfcdaabaaadbfab', 0.2104), ('dbbdcabbcacedceBaccaaedeaedeaeccbbedcdcbebdaabbbabbdaaaddbbcbaadeedaceadcabaabebddeacdddaabbbaececebbcbedab=dbbdcabbcacedceebceedebceeeeaebcdbceaacdbcbbdaccaaedeaedeaeccbbedcdcbebdaabbbabbdaaaddbbcbaadeedaceadcabaabebddeacdddaabbbaececebbcbedab', 0.0223), ('abcccacbEabcabcca=abcccacbaGbcacbbbaaaacbbabcabcca', 0.1426), ('aCg=ajccDjg', 0.1493), ('gcfedcedggeedcfedgfcgbabgcgAgacaedgdeaeddafdcdefgbafdabfeaddbgfeddefadaeddcdaegbbbccdbffdfbefbdgcdbfggfcdffgfcabebdgabdg=gcfedcedggeedcfedgfcgbabgcgdccffccddcffgacaedgdeaeddafdcdefgbafdabfeaddbgfeddefadaeddcdaegbbbccdbffdfbefbdgcdbfggfcdffgfcabebdgabdg', 0.0361), ('cccabGbaacbGbbAacbcbbccbbaaacabcacab=cccabGbaacbGbbcaGacbcbbccbbaaacabcacab', 0.1466), ('bcccaccbaaaabbcbcEccbbbccc=bcccaccbaaaabbcbcbDbbccc', 0.1899), ('fgdgbgeaafLfabfafbefgbdcaffcaagbccbHagdbfabbcceccgcecefeadeagddgeebdedbcfgabgeagfggdebecccecfcgf=fgdgbgeaafbfeeedefeCabbcceccgcecefeadeagddgeebdedbcfgabgeagfggdebecccecfcgf', 0.1404), ('J=M', 0.1505), ('gbDcEhAggf=gbhgceghFhggf', 0.1202), ('dcA=dcaB', 0.1666), ('EEEG=FFIaaaaaaaaaGGaaaaaaaaaaGaaaaaaaa', 0.1562), ('abdcbddabcddaHccdcdaaaccddbcaacaacacccabbbbcbbc=abdcbddabcddFaacaacacccabbbbcbbc', 0.1346), ('fbaiigcfaggfiehhgbacfbccafcbaebecbhfbdidaedhbgfcddfcbAfhgbfcfcccgfdafeehaibhficaedfficcdgae=fbaiigcfaggfiehhgbacfbccafcbaebecbhfbdidaedhbgfcddfcbcffbcdabhgahehfdecfaffdedafgicdacdcgebecagchdccgfacadbahgiagfhgbfcfcccgfdafeehaibhficaedfficcdgae', 0.0513), ('bbeeeaefaddddcfdbJe=bbeeeaefaddddcfdGeDfedfdcbccfccadacbaaffcffbce', 0.2216), ('babbbaabaaababbEaaaababbabb=babbbaabaaababbbabababaaabababbaaababbbabbaaababaaaabbGabbbbbabbbbbaaaaaababbabb', 0.1922), ('gjB=A', 0.1002), ('dFbddddaaaaabacaddbdbacaFcEcadF=dbFddddaaaaabacaddFdFacabcFabaFcaaddbdaFacadaFbabaaabdabcdacadF', 0.1984), ('abeDHafbde=abCMheecafbde', 0.1263), ('A=C', 0.1934), ('bbaaaEaaababbbabaaaabaaaabbba=bbBbbbbaaaaCbabbbaaabbbabbaaabaababaaabbbaaaabaaababbbabaaaabaaaabbba', 0.1165), ('cJcbgagcdddcGbgebeIcdgdafegbccedfaeefa=cJcbgagcIdcGbgebeIcdgdafegbccedfaeefa', 0.0667), ('bcabbbcbccbccccccaCcbaabccabbcaccbaaaaba=bcabFcbccccccaCcbaabccabbcaccbaaaaba', 0.0542), ('aijebibadgbbbgebhfjaieeagjfeeceibFghjEeddhiffcgbdibgheacdijbgighgaiibhgachdjj=aijebibadgbbbgebhfjaieeagjfeeceibcffjjfdbciciaefighjEeddhiffcgbdibgheacdijbgighgaiibhgachdjj', 0.0767), ('dgcfachbfadadbcbedchiabgdEecdbbbicefadie=dgcfaBadbcbedchiCbbbicefadie', 0.2186), ('dgabddihghgafhhdhiigiffddgbgcbihhfaiccbicchihaddbfficdbdhdbibifceaceifbifadcfeacdfhefhacehiicbgiedhhcbhbicfdbiehfgaadhcahecicbchcdbabfiidfbdf=dgabddihghgafhhdhiigiffdChhfaicAacehiicbgiedhhcbhbicfdbiehfgaadhcahecicbchcdbabfiidfbdf', 0.1886), ('ebfEjihfchDdaJcHJcDjgcDaciDhhhhJDiDajfefccghiahgdbjddD=OjafijihfchjdaJcahaecjjgMhhJjiDaDfJfccghiahgdbjddD', 7.8398), ('bbaabbbacbJccbccccbabaacbabaabbaacbbacaaaaabcbabccccbccaabacbbccbcbaaD=bbaabbbacbbbbbcbcbcacbbabDaabaaabacDbbcbbcacccbbDaccabbaabccccDaccbccccbabaacbabaabbaacbbacaaaaabcbabccccbcDabacbbccbcbaaca', 0.1567), ('AAAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa=AaaaaaaaaaaaaaaaaaaaAaaaaaaCaaa', 0.132), ('bJbEdfd=bD', 0.1814), ('CGGaaaaaaaaaaa=FGaaaaaaaaaaaaaa', 0.1116), ('dbdeIbbbJedbbedaaaecdeaabedeabIabcbccbcdd=dbdeIbbbdadbcceecGbbebbCcbccbcdd', 0.1942), ('cac=cA', 0.0216), ('chagiagcijeaibgdfifiBgdcabfcdbdgajdahhfggb=chagiagcijeaibgdfifibicdjAcdbdgajdahhfggb', 0.2154), ('ghaiehabecigefgibdchcidcbhchagdgchiacdchcghfcaafbfgaghcgedddaaghchgdhgghibegagghaiciacdgbcadhbcgfifefgcbfcagddebddbeibedfecbh=ghaiehabecigefgibdchcidcbhchagdgAbddbeibedfecbh', 0.0218), ('debgjbaigeeijejgaJgiicHjegjjbeiidhebbgifjcgigejeddaiahageajjfiejajdajfbcjehgeec=debgjbaigeeijejgabfcgecjfaGfjcgigejeddaiahageajjfiejajdajfbcjehgeec', 0.1556), ('aEcaAccbccaabaccbbbcbbaabccbccbbabcbab=abCGab', 0.1839), ('cfaeggdifAiigbacihegbhifichcbJahBcfbcfideggigdfigciibeefhigcegaeiaefihgdffbaicfiehfhai=cfaeggdifefhahcciigbacihegbhifichMfdhicfbcfideggigdfigciibeefhigcegaeiaefihgdffbaicfiehfhai', 0.1249), ('abcaccccccabEbcEccacbcaEcaaaaEcbacccacbcbccaaaEabccccacH=abcG', 0.1893), ('fcFfCccd=fcFfghehahcaaaccd', 0.0217), ('abadcaaebeaeaeebadDeCeeeeeebbbcbddeabdcec=abadcaaebeaeaeebadDeabbFebbbcbddeabdcec', 0.1685), ('ihchaibihfegfefjhhfehbCgefbgigbjdCdbjidfjadhiaeaca=ihchaibihfeCfFgiCbjdgdbjidfjadhiaeaca', 0.2168), ('defcfacdggfKcfbeddecfcgegddagccbbbeebcdegadcddbcbcfbadeeadafcBbbfgebdbeeabdaaabffageddg=defcfacdggfcddcfGaccfafcdgdefffacfecdfedbagacfgefgeabbfgebdbeeabdaaabffageddg', 0.267), ('baaabCabba=bBabbGBbBbBbaabba', 0.1927), ('jdbebdbbfegbeBhhdeihadg=jdbebdbbfegbegffeiddigihAfjfeghhdeihadg', 0.2045), ('bcAaabAaaaacAbabbbcAabbbAabcA=bAAaabAaCbbbcabAc', 0.213), ('gAh=Dfhffhhgccgcddhegfhbh', 0.2145), ('aecfddedeebEdbcaedadcabceffcffecfbcbfabccbedfdfbeec=aecfFebaebbcbbbaccfacdcdaccbfcbaaDdfbeec', 0.2291), ('FhbaahhegbFEcbaaedcgdfgedeFgbegebf=fhbaahhegbFcbFhhcbFcFFeedhhecbaaedcgdFgedefgbegebf', 0.217), ('efacfebffaaddcbdffbedffcfdcdccffdecaaaBdcaafebeefdfeacfcaabefaa=efacfebffaaCcdccffdecaaaBdcaafebeefdfeacfcaabefaa', 0.0216), ('bggfadfebcbcddebgbadgabffeegcbbgceaceaefefeababacedfcafdbEbgc=bggfadfebcbcddebgbadgabffeegcbbgcMafbeegcfafgbfbceadaeecaegfadgebbfdcddafcaeadaafdeabgeccceagaecdbgc', 0.1679), ('aabbhChCfcbcdCEibbeaeibih=aabbhChfCcbcdfegebCbbcheiGbbeaeibih', 0.1662), ('bDbbbabbabbaabababababbabaabbbbaaDDbabbbbbaDDAbbabababbbaabaababaaaaabDbbbababbDababaaaaaabbbabbaabbab=baabbbbabbabbDababababbabaabbbbaaaabaabbabbbbbaDaabbbbbbababaabaababbaDbbDbbbDbabababbbDDabaaaaabaabbbbababbaabababaaaaaabbbabbDbab', 0.1347), ('cBbdebEcbacbabadd=ceeecbcbbcebdebbbbeeMbacbabadd', 0.1543), ('eddecfagdfggaffadcJae=eddecfaMdbggbfeaae', 0.1624), ('ehajgfedff=eAgfedff', 0.0251), ('cddabcbbdbbbaaabbdaaaabadadbabbddabdACbacbdcb=cddabcbbdbbbaaabbdaaaabadadbabbddabdcbdCbaAcb', 0.1846), ('ebdEccdebcdcecbeceecceEbEddEdEEecbeebbbbdbEaebdcbbcdecbdaeeacbEEbcaEdcceedEbeddcEacdd=Gd', 0.2059), ('deecbcgcfgbebdccagageBegbAfdddbaabfegbbggcadfaaeagdf=deecbcgcfgbebdccagageBegbebcaeccedbedefbfdFgbagebcbfacgadbefcffcgceeeddfdddbaabfegbbggcadfaaeagdf', 0.151), ('caaacJbababcbabaaccaabbabaaacabcababcaaaabaaccEcccabbbabccacabccaacbbabcbbcbacbccbccbaaacba=caaacJbababcbabaaccaabbabaaaGcbbcbacbccbccbaaacba', 0.1987), ('cbabFabaacbcacb=cbabaccccEbbbaabaacbcacb', 0.1009), ('IMbdghehfc=gbhffMbdghehfc', 0.05), ('ehbfhaffcgchhdbeffgaEFfhe=ehMdedeefhe', 0.2044), ('N=GM', 0.1001), ('bcbabcaabbabbcbcbcaabbcccbabBaaaababba=bcbabAcaabbcccbabcabcabcbbcacbbccccbcabaaabbabbbaacccbbaaacbaaaccacbacccabcacabcbaaaaababba', 0.1205), ('geiebjgigEajfdjbgijciabdefeedcc=geiebjgigiacbdjddcdcbibcaabejbghcegibigbceaaefghbdehhfcbbecjhfgigfDgijciabdefeedcc', 0.2147), ('jddfbcgidjajfjebjiejjiiddecigbhhigbdjbdjabjdjaigCidegjjajgedciad=jddfbcgidjajfjebjiejjiiddecigbhhigbdjbdF', 0.2002), ('adaebhihggahhgdfdifhBhdfhcdibhihegaciggice=adaebhihggahhgdfdifhehbfbddbhcfahehcfggcegabdddcgacdfgeFgaciggice', 0.2023), ('cabeBdccbAbaBBedcafdBedeefeaaeb=cabefdGcBabeacbccedbcdbbdddbedbaBfedcaBdfedeefeaaeb', 1.2744), ('acbbFbaFEcbcbaF=acbbcbacaabcbFabcabbcFFFbaaFFcabbFababbaaaFcaFabFbFbaF', 0.2224), ('ehcaCjdbIcc=ehcabgFefhgaejjgadebdgcdabjdbcII', 0.2009), ('E=G', 0.1739), ('bbbaaabbaaaaaaabCabbbabbaababbababaaabbbbbbbbaabbbbaabbabbaabbabaaabbbbbaababaaaba=bbbaaabbaaaaaaabaabaabbaabFbbababaaabbbbbbbbaabbbbaabbabbaabbabaaabbbbbaababaaaba', 0.2099), ('ebiihfddacgjhfEiadIfgcbejhijahfigeehggifbdi=ebiihfddacgjhfEiadaaieigfgcbejhijahfigeehggifbdi', 0.0219), ('bebedhdDfcadechdaddffaebfhdeBchdegeecbbacggbgcbefcfhbgabhcgecfgeehaeafaaaahchbegehchegbcegbcdhbcd=bebedhdDfcadechdaddffaebfhdegccchcbdcehedcehaeachghehhededaddhcehgbchdegeecbbacggbgcbefcfhbgabhcgecfgeehaeafaaaahchbegehchegbcegbcdhbcd', 0.0483), ('dddchdDffcabffabdebachhafcdaeefdbcdaegeahcchghhbh=dddchdbgffcabffabdebacAhcchghhbh', 0.2184), ('baaccbadaEaaccdcaabcbdcb=baaccbadaadddcaabaccacaaccdcaabcbdcb', 0.0217), ('ceedcbeadAcccbfdd=ceedcbeadgahehbbdgbaebceCchcdabcccbfdd', 0.148), ('bdbccabdddadadbccdacAbcbdabBaadaddbabac=bdbccabdddadadbccdacabdacdCbBaadaddbabac', 0.114), ('gjegbbbihOdgagchhihgbjbbacjJjejfacddficgcjgfc=BieggMjhfafeicfbghbbjejfacddficgcjgfc', 0.2525), ('ccacbbcbcaaBbbcaa=ccacbbcbcaabaaacbabcccbcbbbccabFccbcbcbabbcaccbbaaccacacccaabcccaaaaaabcbbcaa', 0.1658), ('dbcAhAhhcahiigibAieAdgcgacihfifdALeAdahgeeibhhfiaeehhaAfccgfeagegg=dbcADiffAaggAAAbafeAdaAgeeibhhfiaeeAAaAfccgfeagegg', 0.2315), ('E=M', 0.1657), ('AccAbccB=CccAbDbcCcA', 0.1914), ('caaabbbbbcbbAc=caaabbbbbcbbbbcacacabcbbbabababbaaabaabc', 0.0517), ('cdebedDccceebddbbadbDdeebadabaaacdebcce=cdebedebdcccAce', 0.232), ('bAAAcbc=bFbc', 0.1863), ('aaadbcbAccdcccdebbcffcbbadAfafcbccbAedfaAccaacffaaAfeafacdccadabbdbAeccbcbcdedecaaddaebfddbaabcabffadcaeAaababfaeed=aaadbcbfccdcccdebbcAAcbbadAfaAcbccCdabbdbAeccbcbcdedecaaddaebAddbaabcabAAadcaefaababfaeed', 0.2566), ('efbghbcgghaidgbajjigfjbaffeidgjiajeaigigcbaicejjchhEihghgdbgihegecaidjefhcijdgdbhh=efbghbcggBajeaiFjefhcijdgdbhh', 0.2161), ('fCE=DG', 0.146), ('DabbAccbbcbcb=DabbDacabababbccbaaccDabcaaabDcabcbbcbcbbaaDcbbcbcb', 0.1613), ('BaaaaJAAaa=FAaaaaaaGaaaaaaaaaaaaaaaGIAAa', 0.1544)]
+Date: 2020-09-05 11:44:02.640153
+
+Pool benchmarks/02_track/transformed, Seed: 18
+Model: v56/uniform
+Score: 2, Time avg: 10.5167 (10.2793), Intersection time avg: 0.2374 (0.0), Num steps avg: -1 (-1) (2)
+Solver score: 1, Solver time avg: 0.13721561431884766 (0.0), Intersection time avg: 0.13721561431884766 (0.0),
+Steps: -1
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Details: [('AaAbBbC=aABBbCCbaa', 20.796), ('AaAbB=aABBbaa', 0.2374)]
+Date: 2020-09-05 12:16:01.301571
+
+Pool benchmarks/01_track/transformed, Seed: 18
+Model: v56/uniform
+Score: 199, Time avg: 0.4113874371859297 (2.020592974782817), Intersection time avg: 0.15912722513089003 (0.06911673252035017), Num steps avg: -1 (-1) (199)
+Solver score: 191, Solver time avg: 0.13779041405123565 (0.04384629101161341), Intersection time avg: 0.13779041405123565 (0.04384629101161341),
+Steps: -1
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Details: [('aadbabccceabfffdcbdaadffeGfdeccdddefededcdbeecfabcAfbcbEefcceeaadbadcfacddbffddcadeed=aadbabccceabfffdcbdaadffeGfdeccdddefededcdDdbffddcadeed', 0.1282), ('FaaaaaaBFaaaaaaEaaaaa=BaaaaaaFFGaaaaaaaaaaaaa', 0.1998), ('aajebfAjaediebbjgjabhefg=aajebfBbhefg', 0.1058), ('aeceebcddfccabfeebbefdaCbefefecddecdefc=aeceebcddfccabfeebbefdadeddfbeebcfbbafabdcdbfdbcbbedGceeecefaeabdffbfbeafecfbbefefecddecdefc', 0.1169), ('abcdAcebdcAccbfebdfaaeeaecfeea=AcdAcebdcabccbfebdfaaeeaecfeea', 0.1795), ('hgeaacdieigieifggeJigiaeagaifaiaf=hgeaacdieigieifggeedaeccMdahhaLhcceiibhigiaeagaifaiaf', 0.1009), ('bccbacccacacbbcbbacaCaaacabccabcbbababcaaaaabcabccbbccbababbc=bccbacccaAaacacbbaccababaaacabccabcbbababcaaaaabcabccbbccbababbc', 0.233), ('abbaFbbaaabaaaaabaBabbbaabaFFbbbabbabaaFaaaaFaaaaabbabaaabab=abbaababbaaFaaaFabbFbabaaabaabaabbaababbbaabaFFbbbabbabaaabaaaaaabaaaaaabbFaabab', 0.236), ('fEaagdcafbagfa=fbabdddgLffOfAggbccgfdfbfcddgafccfaagdcafbagfa', 0.1226), ('B=G', 0.2092), ('dcdcebN=dcdcebMcbMaeGdeecaebedea', 0.1376), ('AdAeeHcA=bdAFcA', 0.2529), ('hdcbeciaedcahahgafJggcgbaaiebfcdi=hdcbeciaedcahahgafacidagiFhgdcafggcgbaaiebfcdi', 0.1687), ('cBabbabBabBbBcbabcbcbb=cCBcbabcbcbb', 0.1827), ('aKaaAfadMdbbeMebebfdddacMMadceeecbcbfee=afedbbaMbaaeecdMeMdMcafddbbIfdbbeMebebMDdacfMadceeecbcbMee', 2.3618), ('CAaaEEaaaaaaaAA=GEaaaaa', 0.1952), ('abfbdegbhhNcCbKbegcabbgMeafgghcaC=abfbdegbhhNcdJegcabbgMeafgghcaC', 0.2109), ('fiOOEK=ficcdONOdgcgh', 0.2104), ('aabcbcbabaaabbbcacbbcccbcbbcaabbabcacccbAaacccaaaacbbabccc=aabcbcbabBaabcacccaaaaacccaaaacbbabccc', 0.2082), ('feefdAgfeaceebadcefdbddfgdbgcAAddfcecbaabacgdadeceaeabfbbAfebeffadbffdgcfgbgdaedgccedcbdgaccbdfdefabadf=feefdeggfeaceebadcefdbddfgdbgcegAddfcecbaabacgdadeceaeabfbbegfebeffadbffdgcfgbgdaedgccedcbdgaccbdfdefabadf', 0.2157), ('JaaaaaaBaaBaaaaaaBBaaaaB=GaaBaaBaaBaGBBBBBBaG', 0.236), ('DefBc=DefAc', 0.1655), ('gEgdbdccbcfcgaFab=gddeBcfcgaFab', 0.2234), ('aecaDacdffebcdcbdddfabcecfaacaeebabcaDdeAafcaddfbcaecbbcfeadddacdbceca=aecaDacdffeJacaeebabcaDdefdbdaeeafeGddfbcaecbbcfeadddacdbceca', 0.2236), ('bbbaGbaabaaaaBababbbbababbaaabb=bbbaGCabbaaabb', 0.1775), ('caaccCcaaccbcBbacabbccbcaccababc=caGJbccbcaccababc', 0.2522), ('aciJjaiijJehfhccbbJjaecdfAcdchciicdiedjbgeaechciiecjh=acibjaiijbDechciiecjh', 0.2199), ('abbbcaabbabccbcabaacbcbacabHccabbcacbbbcaaLaacc=abbbcaabbabccbcabaacbcLFbaabcaabacabbcacbccaaccbabbbccbccabbcacbbbcaabacaacc', 7.5053), ('cbccAc=cbcccbbbcbbcabc', 0.0216), ('hhfihhhgjgdEaaebaaH=hhfihhhgjNbiaaebaaOifibehed', 0.2223), ('dffddgcefafggbeafadafbcacfdfcdffbfcbeeaegbaegcdEfeecegffcfeaagfcadfcffdeddbgdbbgceeb=dffddgcefafggbeafadafbcacfdfcdffbfcbeeaegbaegcdbddcaddgfgadacdgfgbdbccDffcecbaefcfegebadbfagecfbdbfafeecegffcfeaagfcadfcffdeddbgdbbgceeb', 0.1358), ('dabcfdcadfaccfccdbbBCcbeddebceedfdbaccdfeeaebeecaecddbeaced=dabcfdcadfaccfIdfdbaccdfeeaebeecaecddbeaced', 0.1571), ('cggbffJeaaadfeebbceagd=cggbffeecggbabEgGdfdbdcdcgdcegbcegeaaadfeebbceagd', 0.1231), ('adeegdbbDdhaDcChfagaggadaeacecgdbcddeh=adeegdbbDdhafecHdfcfbdfgcfcbcbGddeh', 0.165), ('fjeeejdcficBgadjbid=fjeeejdcficDdjbid', 0.1077), ('gadfgfdabgCgcefaecbgddefbefcfbf=gadfgfdabgaaacbdgcefbbgeegfdcdcdacfaddeegdegcccaedcAgddefbefcfbf', 0.217), ('aeeeeedbaDeaeBddabcdcbbdbeddee=aeeeeeFbcdecbadcdbeaaddabcdcbbdbeddee', 0.2026), ('gfbhbefgbadbhebdddghdgEhCedcdcb=EbhbefgFDacbdfEbchfcdegcecedcdcb', 26.4986), ('bccHcagdjdaebDicicaccdeadfeacehdc=bccecijbbifhciibcfaaebecagdjdaebFjaachbbbcbiicicaccdeadfeacehdc', 0.2247), ('ffAbAeagacdebfegegdbeaeggdaegeegebfcgbfgefeAedafbAdddfEbbbaaAdaaccabAdfedffeea=ffcbceagaAdebfegegdbeaeggdaegeegebfcgDAdddfEbbbaacdaaAcabAdfedffeea', 0.2212), ('igfbFAJbFhd=iMd', 0.2075), ('gaeaiiEcgcjagjeffgghaff=gaIbjgfbeadhbehdifeijieadddjaidjhgMjjajjjhebcedeifhiaiejfdcdfcgcjagjeffgghaff', 0.2087), ('acabAbccbccabacbcccbabbbbaaccaccbacbcacabcbaaabcabacacaaccbcccacaaabaaa=acabccbacbbbbbcbbcccbbaacabbDccaccbacbcacabcbaaabcabacacaaccbcccacaaabaaa', 0.2112), ('hbgdjgabehbcihfhggfdijbjcBgiedhcjcibfffacgbgejibbgjadjeddhjehjj=hbgdjgabehbcihfhggfdijbjchjjfbfeijebfjabciadjchegiiedjdiihifdbfebiechbegiedhcjcibfffacgbgejibbgjadjeddhjehjj', 0.022), ('ccdegdegecdfbbfdgeedcaHafacbdfaeegdbaJeaacaEgefffccecfddcddcbgffcdaagebfeafddedegcdfe=ccdegdegecdfbbfdgeedcafacafacbdfaeegdbaJeaacaEgefffccecfddcddcbgffcdaagebfeafddedegcdfe', 0.0235), ('cEAiifgade=ceifeceFcifibiiifgade', 0.1584), ('cebhhefgdhhfdbdhcghaadfhagcgceeffahfeeaecgeaafgebecchabcaaecefgAdecbaadbaghchcfcgdbhchfbcfehbefgehgfadhdfhebfebdfhce=cebhhefgdhhfdbdhcghaadfhagcgceeffahfeeaecgeaafgebecchabcaCbfebdfhce', 0.2182), ('eafBjgfaihdfcbgffCgebgjgfdebeajefbe=eafbgieagfdcahedjjjdcjgfaihdfcbgffbafedhbebghehgfehibbjdejbdafiidcbbecDiahceaggigheiebjecfgebgjgfdebeajefbe', 0.2191), ('AdAijjahaafgie=AdD', 0.1259), ('EEEEEEEEFEFaaaaaa=FFEFaaaaaaEFDaF', 0.157), ('cefcdfBbgcdfedbGfgafbGgefdgcbadf=GefIdcbbfGfGbbgFgefdgGbadf', 1.3022), ('eJjcAh=efEG', 0.22), ('HaccFcddcaebbaacabecdbbcecceacbacbcecbcHabedceaaeeadebadeHeaeac=dbaccGbbaacabeIbeaeac', 0.2472), ('BDDaaDaaDDaaAADaaaaaaDDaaDDDaaaaDaaDDaaaaa=FFFFa', 0.2366), ('bcecceddbdAbddbC=bcecceddbdAbddbacaababdcdadcebbbbdcbbebbdceedebcceedacdadbb', 0.0232), ('fdfafeafegAcbgcdbgbfbgfeacegbcddgagbebgeadbbacdfaefaeffffbfgagaggebbcccddacecaddfed=fdfafeafegbbfbgegffgedegdfcgebgecgccadgdaefbfCdbbacdfaefaeffffbfgagaggebbcccddacecaddfed', 0.1194), ('bEadcbbdbdddbabdca=bbbdaaaaAcbdAdIdbdddbabdca', 0.1771), ('dIdedacdcccbecaeaddbcbccdebababbbbecadeddHec=dIdedacdcccbecaeaddbcbccdebababbbbecadeddbaeaFabbecabcbec', 0.1014), ('hbBCidhcffeghdie=hbBdggEebdehidhcffeghdie', 0.1733), ('aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaBBaaaaaaaa=ABaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', 0.1351), ('ccbccafdefdbfbcecefefbbbfefCdebEcbdfcbedcafaebbcdebdafdcbbedbbaeaadcaccbebcfffdccbfbabfcafe=ccbccafdefdbfbcecefefbbbfefCdebcbfbdefcbdfcbedcafaebbcdebdafdcbbedbbaeaadcaccbebcfffdccbfbabfcafe', 0.052), ('KaaaMbJaccbcbbbNaccbaa=aNbcaaaaaabaacbcaabNabaDabacaaccbcbbbNaccbaa', 0.213), ('aaaaaaaaaaaaCa=Aaaaaaaaaaaaa', 0.1303), ('hDegCjJedfc=hjeIcedfc', 0.1464), ('EHAEEHa=GGHA', 0.158), ('baaaaaaabaaaBbaabbbbbbbaababbaabbbaaabbbbb=baaaaaaabaaaabbbbbbabbbabbabbbaabbaaaababbabbbabbaaGbaabbbbbbbaababbaabbbaaabbbbb', 0.1039), ('bcagfbaecAeffdaabdgfdeaff=bcagfbaecabcefffgdeaccfcegaaacdacedafccfddefeffdaabdgfdeaff', 0.0492), ('dcffhHcfebEi=dcfCDi', 0.1994), ('fgaAeedihbjhcei=fgagefiaidbgcafigeedihbjhcei', 0.0219), ('cbbbbbabcacabcbcJccccbacccaccaccaaaaaaabbbaccccaaabbacaacaaabbc=cbIbbbabbMaaaaaabbbaccccaaabbacaacaaabbc', 0.1486), ('aibejbhifjegjacgdBEjfbjefjbddhdbaejegdigdbg=aibejbhifjegjacgdbihfeDefjbddhdbaejegdigdbg', 0.1256), ('bCbbKEOOCCbacaCO=bCbGbaEabc', 0.1291), ('fabeafbgdaggecacdcadgfbgegfdfeebcggecaaebcefabgaaecdbddcfdBfccabggdaedcafgcbadaagdaaebc=fabeafbgdaggecacdcadgfbgegfdfeebcggecaaebcefabCecfdecdcfaagfaeeaccbafccabggdaedcafgcbadaagdaaebc', 0.1508), ('efdcffabAfdcb=efdcffabaeCbcecfdBddacBffdcb', 0.1038), ('bhebfdeeccfCbcaahjiDjciahhejiheacfgaibhfbdbeedf=bhebfdeeccfagbjiigfgecfdbcaahjiDjciahhejiheacfgaibhfbdbeedf', 0.0653), ('aecaabedddcfaeBfcacbedffadfbbdbddbef=aecaabAcfcacbedffadfbbdbddbef', 0.2228), ('ebcgadKdiecfaiifeeafffgafbhgdccdhfffdeffiebhieiefhHhhbehehbbgeghiggcdfbgadbgcdfcfdhhcfhfdcfcifefhggifheggbebfcca=ebcgLecfaiifeeafffgafbhEeggbebfcca', 0.2184), ('ABaaaa=CB', 0.2058), ('deHfahgfEHbgHdfchjgbjhgafiagegfcijeJHdg=deifahGidg', 0.216), ('ieafbhdibeaghgcgaEafJbebgfbLegdfbfJffaahbdeegJiifbiJidJfafg=ieaFbiJidcfafg', 0.2312), ('adcaccbaAecdbgadadafefdfffdfd=adcaccDggebcgdcbbecdbgadadafefdfffdfd', 0.2215), ('hhadbcdiiidcficcdhgaiegaEeebbgdhcbaeigbfggcceiehce=hhadbcdiiBgfhechbfFbgdhcbaeigbfggcceiehce', 0.2166), ('aabccbcNcJ=aabccbcccbcaaDacMabbacccbbbHbaabLccacbbaa', 0.26), ('defefcbeebbbdcfeaeadabfaaeeaddddeaaefddfaffbdcfbaefbfadeb=defefcbeeAaaefddfaffbdcfbaefbfadeb', 0.0217), ('caccabbccEabbbcbcababbcbbbbbcabcbaa=caccabbccabacbbcCbcbbbbbcabcbaa', 0.1152), ('dbebgddbecfcbbAadeeaecAgebegeecafegebdbagddaadbddcaeeebfabfefabfacdgAgaabgegagf=dbebgddbeAfcbbAaIegeeAaDegagf', 1.2693), ('gbcfhagdhfhBhbaebihgbGdegbacgh=gbcfhFhBhbaebihgbGdegbacgh', 0.0222), ('jcjDhadca=jAieecghadca', 0.1392), ('aaaccbabaaccccaabbBaccaaaacbbbccccbccacacb=aaaccFcaaaacbbbccccbccacacb', 0.1358), ('Ebbbdbcdddbbdbdabaccdddbcbccdbd=cabbcacNcdaddbbacbOdddbcbccdbd', 0.1671), ('aababbaabbaaaabbbabaaabbbbbabbbaabbbbabbbAaaba=aabBbabbaaaabbbaabbababbaaabbaababababaabbaabababbabaaabbabbaaba', 0.1215), ('hhegdcaaggibgfhggichggiciiggdficiehhihaigaa=hhegdcaaggibgfhggiBhaigaa', 0.0526), ('gdaafhhaebdagfaefcbdffbcfdcfEgddbbegcbgeaacfdb=gdaafhhaebdagfaefcbdffbcfdcffeeFaegbbdecahdfdefdcdbaahafegddbbegcbgeaacfdb', 0.2026), ('baeeaaaeebbbdcddcbdcbcbAbbddaacebccdaaedeccbdbeeedaacddedacdbcedbbabcdbbccb=baeeaaaeebbbdcddcbdcbcbcdccbebdabceecacceaeabbddaacebccdaaedeccbdbeeedaacddedacdbcedbbabcdbbccb', 0.0223), ('eccGgiafdaeCbdaebcdheefccbbadiihhiBgheghihfceciagbggeecedbhdfggeadccfdichdcecdfg=eccGgiaDhfgheghihfceciagbggeecedbhdfggeadccfdichdcecdfg', 0.1185), ('eafbebbfeebfecgfc=eafbebbAfecgfc', 0.0651), ('cdacdeceecacedddeaedaebdcababaedbbddeeceaecccbdeecbdcecbaedbacacdebecedcabccdabccabbddbcbbacebcbbabcbdabaadebecabaccbaaceaecaabebcada=cdacdeceecacedddeaedaebdcababaedbbddeeceaecccbdeecbdAcdabccabbddbcbbacebcbbabcbdabaadebecabaccbaaceaecaabebcada', 0.0522), ('icgaiHfhCf=HcgaiiFhfcdcHfifbcf', 0.2633), ('bbaaabbbabBbabbbbbabbbbbabbbabbBbbbaEaaabbBaaaaaBbbaabbbaabbbbbbbbaabababaa=bbaaabbbabbabBbbbbabbbbbabbBbbabbbbaaabbBbabaabaaaababbFaabbbabaaaaababbbaabbbaabbbbbbbbaabababaa', 0.2897), ('dcbgbggeagdfbbgdfebffacgEgcedacebdfabcbfafgacggebbfegfdceeabecgdgbcd=dcbgbggeagdfJbBfbffgbegacfdbdIbdfabcbfafgacggebbfegfdceeabecgdgbcd', 0.2162), ('igEehEbjadCideeeEgbifechcheid=igfehEbjFeideeefgbifechcheid', 0.3249), ('aJaaaaLacbbbabbJccGJaJaaLaaaJLbaLcabaaLabLa=aJaaaaGaGbJJaJbbLLGIabGJaGLaJaaGaJLa', 3.648), ('KMaNaaaaa=MIaaaaaaMaaMaaMMMaaaaMaaMMMMa', 0.2024), ('edffcbeeagAbdgbfaedcfecdbJbggcefgdfecedceeccedcec=edffcbeeagcgecbGffbbdebbcbcbcacedebabbggcefgdfecedceeccedcec', 0.2201), ('bbcddbeghhbcfhefhgehgggfdgcahbBdbcgafgccf=bbcddbeghhAfgecacffbbgggebcgfgcfgbaddcdbbfggdegddbcgafgccf', 0.2016), ('CaaababCbbCabbabbabbababbCabaaaabaaaabCbbbbabbbabaaabbCbCaabababaabaaabaabbbaaabb=baFCbbaaaabababaaCaCbbCabb', 0.2358), ('aacadcacdabddadbdabG=aaCabddcaccbccaacaadbccababbacc', 0.1709), ('fbcadfffcabbcefaccaddaeefbdadfedebebcadcBdebdfcdaabaaadbfab=fbcadfffcabbcefaccaddaeefbdadfedGcbeafceaaefdaeefedebdfcdaabaaadbfab', 0.1882), ('dbbdcabbcacedceBaccaaedeaedeaeccbbedcdcbebdaabbbabbdaaaddbbcbaadeedaceadcabaabebddeacdddaabbbaececebbcbedab=dbbdcabbcacedceebceedebceeeeaebcdbceaacdbcbbdaccaaedeaedeaeccbbedcdcbebdaabbbabbdaaaddbbcbaadeedaceadcabaabebddeacdddaabbbaececebbcbedab', 0.022), ('abcccacbEabcabcca=abcccacbaGbcacbbbaaaacbbabcabcca', 0.1173), ('aCg=ajccDjg', 0.1894), ('gcfedcedggeedcfedgfcgbabgcgAgacaedgdeaeddafdcdefgbafdabfeaddbgfeddefadaeddcdaegbbbccdbffdfbefbdgcdbfggfcdffgfcabebdgabdg=gcfedcedggeedcfedgfcgbabgcgdccffccddcffgacaedgdeaeddafdcdefgbafdabfeaddbgfeddefadaeddcdaegbbbccdbffdfbefbdgcdbfggfcdffgfcabebdgabdg', 0.022), ('cccabGbaacbGbbAacbcbbccbbaaacabcacab=cccabGbaacbGbbcaGacbcbbccbbaaacabcacab', 0.1224), ('bcccaccbaaaabbcbcEccbbbccc=bcccaccbaaaabbcbcbDbbccc', 0.2198), ('fgdgbgeaafLfabfafbefgbdcaffcaagbccbHagdbfabbcceccgcecefeadeagddgeebdedbcfgabgeagfggdebecccecfcgf=fgdgbgeaafbfeeedefeCabbcceccgcecefeadeagddgeebdedbcfgabgeagfggdebecccecfcgf', 0.2063), ('J=M', 0.1189), ('gbDcEhAggf=gbhgceghFhggf', 0.2043), ('dcA=dcaB', 0.1078), ('EEEG=FFIaaaaaaaaaGGaaaaaaaaaaGaaaaaaaa', 0.1555), ('abdcbddabcddaHccdcdaaaccddbcaacaacacccabbbbcbbc=abdcbddabcddFaacaacacccabbbbcbbc', 0.1085), ('fbaiigcfaggfiehhgbacfbccafcbaebecbhfbdidaedhbgfcddfcbAfhgbfcfcccgfdafeehaibhficaedfficcdgae=fbaiigcfaggfiehhgbacfbccafcbaebecbhfbdidaedhbgfcddfcbcffbcdabhgahehfdecfaffdedafgicdacdcgebecagchdccgfacadbahgiagfhgbfcfcccgfdafeehaibhficaedfficcdgae', 0.057), ('bbeeeaefaddddcfdbJe=bbeeeaefaddddcfdGeDfedfdcbccfccadacbaaffcffbce', 0.2449), ('babbbaabaaababbEaaaababbabb=babbbaabaaababbbabababaaabababbaaababbbabbaaababaaaabbGabbbbbabbbbbaaaaaababbabb', 0.1298), ('gjB=A', 0.188), ('dFbddddaaaaabacaddbdbacaFcEcadF=dbFddddaaaaabacaddFdFacabcFabaFcaaddbdaFacadaFbabaaabdabcdacadF', 0.3275), ('abeDHafbde=abCMheecafbde', 0.2008), ('A=C', 0.186), ('bbaaaEaaababbbabaaaabaaaabbba=bbBbbbbaaaaCbabbbaaabbbabbaaabaababaaabbbaaaabaaababbbabaaaabaaaabbba', 0.2115), ('cJcbgagcdddcGbgebeIcdgdafegbccedfaeefa=cJcbgagcIdcGbgebeIcdgdafegbccedfaeefa', 0.0217), ('bcabbbcbccbccccccaCcbaabccabbcaccbaaaaba=bcabFcbccccccaCcbaabccabbcaccbaaaaba', 0.0509), ('aijebibadgbbbgebhfjaieeagjfeeceibFghjEeddhiffcgbdibgheacdijbgighgaiibhgachdjj=aijebibadgbbbgebhfjaieeagjfeeceibcffjjfdbciciaefighjEeddhiffcgbdibgheacdijbgighgaiibhgachdjj', 0.0292), ('dgcfachbfadadbcbedchiabgdEecdbbbicefadie=dgcfaBadbcbedchiCbbbicefadie', 0.1192), ('dgabddihghgafhhdhiigiffddgbgcbihhfaiccbicchihaddbfficdbdhdbibifceaceifbifadcfeacdfhefhacehiicbgiedhhcbhbicfdbiehfgaadhcahecicbchcdbabfiidfbdf=dgabddihghgafhhdhiigiffdChhfaicAacehiicbgiedhhcbhbicfdbiehfgaadhcahecicbchcdbabfiidfbdf', 0.1721), ('ebfEjihfchDdaJcHJcDjgcDaciDhhhhJDiDajfefccghiahgdbjddD=OjafijihfchjdaJcahaecjjgMhhJjiDaDfJfccghiahgdbjddD', 7.6229), ('bbaabbbacbJccbccccbabaacbabaabbaacbbacaaaaabcbabccccbccaabacbbccbcbaaD=bbaabbbacbbbbbcbcbcacbbabDaabaaabacDbbcbbcacccbbDaccabbaabccccDaccbccccbabaacbabaabbaacbbacaaaaabcbabccccbcDabacbbccbcbaaca', 0.1818), ('AAAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa=AaaaaaaaaaaaaaaaaaaaAaaaaaaCaaa', 0.1146), ('bJbEdfd=bD', 0.2388), ('CGGaaaaaaaaaaa=FGaaaaaaaaaaaaaa', 0.1983), ('dbdeIbbbJedbbedaaaecdeaabedeabIabcbccbcdd=dbdeIbbbdadbcceecGbbebbCcbccbcdd', 0.2064), ('cac=cA', 0.0217), ('chagiagcijeaibgdfifiBgdcabfcdbdgajdahhfggb=chagiagcijeaibgdfifibicdjAcdbdgajdahhfggb', 0.1196), ('ghaiehabecigefgibdchcidcbhchagdgchiacdchcghfcaafbfgaghcgedddaaghchgdhgghibegagghaiciacdgbcadhbcgfifefgcbfcagddebddbeibedfecbh=ghaiehabecigefgibdchcidcbhchagdgAbddbeibedfecbh', 0.0636), ('debgjbaigeeijejgaJgiicHjegjjbeiidhebbgifjcgigejeddaiahageajjfiejajdajfbcjehgeec=debgjbaigeeijejgabfcgecjfaGfjcgigejeddaiahageajjfiejajdajfbcjehgeec', 0.1669), ('aEcaAccbccaabaccbbbcbbaabccbccbbabcbab=abCGab', 0.2232), ('cfaeggdifAiigbacihegbhifichcbJahBcfbcfideggigdfigciibeefhigcegaeiaefihgdffbaicfiehfhai=cfaeggdifefhahcciigbacihegbhifichMfdhicfbcfideggigdfigciibeefhigcegaeiaefihgdffbaicfiehfhai', 0.2097), ('abcaccccccabEbcEccacbcaEcaaaaEcbacccacbcbccaaaEabccccacH=abcG', 0.1308), ('fcFfCccd=fcFfghehahcaaaccd', 0.0363), ('abadcaaebeaeaeebadDeCeeeeeebbbcbddeabdcec=abadcaaebeaeaeebadDeabbFebbbcbddeabdcec', 0.1998), ('ihchaibihfegfefjhhfehbCgefbgigbjdCdbjidfjadhiaeaca=ihchaibihfeCfFgiCbjdgdbjidfjadhiaeaca', 0.2175), ('defcfacdggfKcfbeddecfcgegddagccbbbeebcdegadcddbcbcfbadeeadafcBbbfgebdbeeabdaaabffageddg=defcfacdggfcddcfGaccfafcdgdefffacfecdfedbagacfgefgeabbfgebdbeeabdaaabffageddg', 0.2178), ('baaabCabba=bBabbGBbBbBbaabba', 0.1909), ('jdbebdbbfegbeBhhdeihadg=jdbebdbbfegbegffeiddigihAfjfeghhdeihadg', 0.1837), ('bcAaabAaaaacAbabbbcAabbbAabcA=bAAaabAaCbbbcabAc', 0.2137), ('gAh=Dfhffhhgccgcddhegfhbh', 0.2452), ('aecfddedeebEdbcaedadcabceffcffecfbcbfabccbedfdfbeec=aecfFebaebbcbbbaccfacdcdaccbfcbaaDdfbeec', 0.2122), ('FhbaahhegbFEcbaaedcgdfgedeFgbegebf=fhbaahhegbFcbFhhcbFcFFeedhhecbaaedcgdFgedefgbegebf', 0.2164), ('efacfebffaaddcbdffbedffcfdcdccffdecaaaBdcaafebeefdfeacfcaabefaa=efacfebffaaCcdccffdecaaaBdcaafebeefdfeacfcaabefaa', 0.0218), ('bggfadfebcbcddebgbadgabffeegcbbgceaceaefefeababacedfcafdbEbgc=bggfadfebcbcddebgbadgabffeegcbbgcMafbeegcfafgbfbceadaeecaegfadgebbfdcddafcaeadaafdeabgeccceagaecdbgc', 0.1144), ('aabbhChCfcbcdCEibbeaeibih=aabbhChfCcbcdfegebCbbcheiGbbeaeibih', 0.1844), ('bDbbbabbabbaabababababbabaabbbbaaDDbabbbbbaDDAbbabababbbaabaababaaaaabDbbbababbDababaaaaaabbbabbaabbab=baabbbbabbabbDababababbabaabbbbaaaabaabbabbbbbaDaabbbbbbababaabaababbaDbbDbbbDbabababbbDDabaaaaabaabbbbababbaabababaaaaaabbbabbDbab', 0.1491), ('cBbdebEcbacbabadd=ceeecbcbbcebdebbbbeeMbacbabadd', 0.1201), ('eddecfagdfggaffadcJae=eddecfaMdbggbfeaae', 0.1763), ('ehajgfedff=eAgfedff', 0.0222), ('cddabcbbdbbbaaabbdaaaabadadbabbddabdACbacbdcb=cddabcbbdbbbaaabbdaaaabadadbabbddabdcbdCbaAcb', 0.2101), ('ebdEccdebcdcecbeceecceEbEddEdEEecbeebbbbdbEaebdcbbcdecbdaeeacbEEbcaEdcceedEbeddcEacdd=Gd', 0.2157), ('deecbcgcfgbebdccagageBegbAfdddbaabfegbbggcadfaaeagdf=deecbcgcfgbebdccagageBegbebcaeccedbedefbfdFgbagebcbfacgadbefcffcgceeeddfdddbaabfegbbggcadfaaeagdf', 0.1822), ('caaacJbababcbabaaccaabbabaaacabcababcaaaabaaccEcccabbbabccacabccaacbbabcbbcbacbccbccbaaacba=caaacJbababcbabaaccaabbabaaaGcbbcbacbccbccbaaacba', 0.1733), ('cbabFabaacbcacb=cbabaccccEbbbaabaacbcacb', 0.1901), ('IMbdghehfc=gbhffMbdghehfc', 0.0217), ('ehbfhaffcgchhdbeffgaEFfhe=ehMdedeefhe', 0.1248), ('N=GM', 0.2479), ('bcbabcaabbabbcbcbcaabbcccbabBaaaababba=bcbabAcaabbcccbabcabcabcbbcacbbccccbcabaaabbabbbaacccbbaaacbaaaccacbacccabcacabcbaaaaababba', 0.2118), ('geiebjgigEajfdjbgijciabdefeedcc=geiebjgigiacbdjddcdcbibcaabejbghcegibigbceaaefghbdehhfcbbecjhfgigfDgijciabdefeedcc', 0.1733), ('jddfbcgidjajfjebjiejjiiddecigbhhigbdjbdjabjdjaigCidegjjajgedciad=jddfbcgidjajfjebjiejjiiddecigbhhigbdjbdF', 0.1988), ('adaebhihggahhgdfdifhBhdfhcdibhihegaciggice=adaebhihggahhgdfdifhehbfbddbhcfahehcfggcegabdddcgacdfgeFgaciggice', 0.219), ('cabeBdccbAbaBBedcafdBedeefeaaeb=cabefdGcBabeacbccedbcdbbdddbedbaBfedcaBdfedeefeaaeb', 1.2647), ('acbbFbaFEcbcbaF=acbbcbacaabcbFabcabbcFFFbaaFFcabbFababbaaaFcaFabFbFbaF', 0.2168), ('ehcaCjdbIcc=ehcabgFefhgaejjgadebdgcdabjdbcII', 0.236), ('E=G', 0.1065), ('bbbaaabbaaaaaaabCabbbabbaababbababaaabbbbbbbbaabbbbaabbabbaabbabaaabbbbbaababaaaba=bbbaaabbaaaaaaabaabaabbaabFbbababaaabbbbbbbbaabbbbaabbabbaabbabaaabbbbbaababaaaba', 0.2011), ('ebiihfddacgjhfEiadIfgcbejhijahfigeehggifbdi=ebiihfddacgjhfEiadaaieigfgcbejhijahfigeehggifbdi', 0.022), ('bebedhdDfcadechdaddffaebfhdeBchdegeecbbacggbgcbefcfhbgabhcgecfgeehaeafaaaahchbegehchegbcegbcdhbcd=bebedhdDfcadechdaddffaebfhdegccchcbdcehedcehaeachghehhededaddhcehgbchdegeecbbacggbgcbefcfhbgabhcgecfgeehaeafaaaahchbegehchegbcegbcdhbcd', 0.0557), ('dddchdDffcabffabdebachhafcdaeefdbcdaegeahcchghhbh=dddchdbgffcabffabdebacAhcchghhbh', 0.2115), ('baaccbadaEaaccdcaabcbdcb=baaccbadaadddcaabaccacaaccdcaabcbdcb', 0.0307), ('ceedcbeadAcccbfdd=ceedcbeadgahehbbdgbaebceCchcdabcccbfdd', 0.1154), ('bdbccabdddadadbccdacAbcbdabBaadaddbabac=bdbccabdddadadbccdacabdacdCbBaadaddbabac', 0.1841), ('gjegbbbihOdgagchhihgbjbbacjJjejfacddficgcjgfc=BieggMjhfafeicfbghbbjejfacddficgcjgfc', 0.1201), ('ccacbbcbcaaBbbcaa=ccacbbcbcaabaaacbabcccbcbbbccabFccbcbcbabbcaccbbaaccacacccaabcccaaaaaabcbbcaa', 0.1371), ('dbcAhAhhcahiigibAieAdgcgacihfifdALeAdahgeeibhhfiaeehhaAfccgfeagegg=dbcADiffAaggAAAbafeAdaAgeeibhhfiaeeAAaAfccgfeagegg', 0.1609), ('E=M', 0.1225), ('AccAbccB=CccAbDbcCcA', 0.1551), ('caaabbbbbcbbAc=caaabbbbbcbbbbcacacabcbbbabababbaaabaabc', 0.035), ('cdebedDccceebddbbadbDdeebadabaaacdebcce=cdebedebdcccAce', 0.2153), ('bAAAcbc=bFbc', 0.1124), ('aaadbcbAccdcccdebbcffcbbadAfafcbccbAedfaAccaacffaaAfeafacdccadabbdbAeccbcbcdedecaaddaebfddbaabcabffadcaeAaababfaeed=aaadbcbfccdcccdebbcAAcbbadAfaAcbccCdabbdbAeccbcbcdedecaaddaebAddbaabcabAAadcaefaababfaeed', 0.1876), ('efbghbcgghaidgbajjigfjbaffeidgjiajeaigigcbaicejjchhEihghgdbgihegecaidjefhcijdgdbhh=efbghbcggBajeaiFjefhcijdgdbhh', 0.1215), ('fCE=DG', 0.1904), ('DabbAccbbcbcb=DabbDacabababbccbaaccDabcaaabDcabcbbcbcbbaaDcbbcbcb', 0.1172), ('BaaaaJAAaa=FAaaaaaaGaaaaaaaaaaaaaaaGIAAa', 0.2058)]
+Date: 2020-09-05 14:16:55.150471
+
+Pool benchmarks/02_track/transformed, Seed: 18
+Model: v56/uniform
+Score: 2, Time avg: 10.52465 (10.273249999999999), Intersection time avg: 0.2514 (0.0), Num steps avg: -1 (-1) (2)
+Solver score: 1, Solver time avg: 0.11057758331298828 (0.0), Intersection time avg: 0.11057758331298828 (0.0),
+Steps: -1
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Details: [('AaAbBbC=aABBbCCbaa', 20.7979), ('AaAbB=aABBbaa', 0.2514)]
+Date: 2020-09-05 14:48:16.795593
+
+Pool benchmarks/03_track/transformed, Seed: 18
+Model: v56/uniform
+Score: 134, Time avg: 0.8017880597014925 (2.6220048072819524), Intersection time avg: 0.226702479338843 (0.07132195477917232), Num steps avg: -1 (-1) (134)
+Solver score: 121, Solver time avg: 0.18923091100267142 (0.08102413175808681), Intersection time avg: 0.18923091100267142 (0.08102413175808681),
+Steps: -1
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Details: [('aaaaFaaaaaaaFaabGHbaHbI=aGFaGGGGbHaHabaabaa', 13.611), ('JGGaaJGGabLLbPPbV=aGaGaHaGHMMMMbQNQNbRRbaa', 0.1738), ('GaGGGGGGGaGGaGaGaGaGGGGGGGaGGaGaGbKaKaKaKKbMLbMObO=aGaaaHGaGGGaaaJKKaaJKKaabLaaLaabMMMMbQQbaa', 0.184), ('EFaEFbG=aaEJJbaa', 0.2522), ('aaIaaIIaaaaIaaaIaaIIaaaaIbJaaaJJJabaMOabQSbV=aJHIIaaIaaJaaaMJaaaMbNNMNNNMNbSSSSbTTbaa', 0.2856), ('FFaFFaaaaFFaFFaaabaaaabIIbI=aGFFaaFFHaHabHIHIbJJbaa', 0.2409), ('FGGGaFGGGbKaabLbR=aHaaGLLbMMbQQbaa', 0.1595), ('HaaaaaaaaHaaHaHaaaaaaaaHaaHbaaaaIbLaaLbNMbP=aHaaHHaaaaHaaJaaaaJaaaabLaLaLaLabMNMNbQQbaa', 0.1872), ('FaFbGIbK=aGGHHbJJbaa', 0.161), ('FaaFabaFbH=aEaaGFGFbGGbaa', 0.137), ('DaDbK=aFHJJbaa', 0.1391), ('HaaHIGaHaaHIGbOMaaMbPRSbSSbY=aHHHHHaaHaaaaMMaaaaMMaabQRRRQRRRbVTVTbZZbaa', 11.1511), ('FaFaaFaFabGGbJ=aaFEaaaabIIbaa', 0.188), ('HHFHaHHFHbKbK=aFGEEHJHJbNNbaa', 0.2611), ('GGGGGaaGGGGGabIaaabIbJJbL=aGaaaaaaaaaaaaaHHaHaaaHHHaHaaaHbaJaaaJaabJKJKbKKbaa', 3.5143), ('JIaJIbLabPPbS=aHGaNNbQQQQbVVbaa', 0.249), ('aEaaEbF=aDDEEbaa', 0.2622), ('GFaGFbG=aEEHHbaa', 0.1875), ('GaaaaaaGaaGaaaGaaaaaaGaaGaabaKIKKIKKbKKbMObQ=aHaaGGaaJJaIKIJJaIKIbMLMLbNMNMbPPbaa', 0.1713), ('HFaGGGGaHFaGGGGbLbNbP=aFGHHGFIaaIaabLLLLbOObaa', 0.3435), ('GGGGGaaGGGGGabKaKKKaKIbKKbaNbQ=aaHHHaHaaaGHaaHJJIKJJIKbMMMMbMMbPPbaa', 0.1957), ('EaEbLbN=aHHHaJJJJbMMbaa', 0.1757), ('HaaaaHaaabHHbaabN=aGaaaaaaJaJaJaJabKaKabMMbaa', 0.1693), ('GaaaGaabKKbPaPPbSbS=aHaaaLJaLJabPaMPaMbQRQRbaabaa', 0.2521), ('EEaEEbKKbN=aFHIJIJbQQbaa', 0.2374), ('aaaaaaGIaaaaaaaaGIabaJKMKbMOOPbPSbV=aHGMLMaJMLMaJbOOMOOOMObQPQPbaabaa', 0.2399), ('DaD=aCaa', 0.2522), ('EFaaEFabLKbN=aHEKJKJbQQbaa', 0.1429), ('GaGbKLbRRbS=aaaFJILLaLLLaLbRNRNbUUbaa', 0.1759), ('EDaEDbF=aEaEEbaa', 1.4581), ('EaaEabE=aEEaabaa', 0.24), ('GHaGHbJKaabLLbNNbO=aHGJJaaJJaabMaaMaabMMMMbQQbaa', 0.2979), ('EaEbK=aHHLLbaa', 0.2237), ('HEGaHEGbIKbK=aaEaGHHHHbMMbaa', 1.3177), ('HFFaHFFbKKbK=aGEHHHHbLLbaa', 0.1888), ('JaaHaJaaHbKJbPNbS=aJJMMMMMMMMbRRRRbRRbaa', 0.3053), ('aaFIaFaaaFIaFbJaabLLbO=aHFaLLLLbMMMMbPPbaa', 0.2577), ('DaDbG=aEFJJbaa', 0.1862), ('IFaaaIFaabKJbRNbV=aHHaaMNJMNJbRRRRbRRbaa', 0.154), ('EGGGaEGGGbKKbN=aEEEaaMaMbMMbaa', 0.634), ('EDaEDbH=aFFFFbaa', 0.2378), ('EGFaEGFbKIbM=aEFIIMIMbQQbaa', 0.2301), ('FFEaFFEbKKbN=aaFEJJJJbLLbaa', 0.2531), ('HaaHabKabL=aEaGHHbMMbaa', 0.1742), ('FaaaFaabaHHHbaKbM=aGaaHaJHaJbaLaLbaabaa', 0.259), ('FDaFDbH=aDGJJbaa', 0.2305), ('GIIaaaaIaGIIaaaaIbKKKJbOPbPSbV=aHIaaaIaMMMJMMMJbMMMaMMMabRaRabUUbaa', 0.1564), ('aaaaaaGaaaGaaaaaaaaGaaaGabKKaaKbaaaMbMNbO=aHaaaaHHaaaJKaaaJKbaaaaaaaabMMMMbQQbaa', 0.435), ('aaaaaaaaaaaaaaaaabaaHbKbN=aHJaJJJaJJbLJLJbMMbaa', 1.4697), ('HHaaaaaHHaaaabKaaKaKKabKKbMabQ=aIGJJaKJJaKbLLLLbMMMMbOObaa', 0.2595), ('EDaEDbF=aFGGbaa', 0.2399), ('DFaDFbG=aaDFFbaa', 0.2404), ('EaE=aDaa', 0.2398), ('FaFbF=aDEGGbaa', 0.2552), ('aaaaaJJaaaaaaaJJabaaaLMabSSSSbSTbY=aHGIaMMMMNaaMMMMNabSRQaSRQabSWSWbXXbaa', 0.2738), ('CaC=aDaa', 0.2154), ('JaaaIaaJaaaIabJLKbPRbV=aHIMLMLbORORbTTbaa', 0.2718), ('DDaDDbH=aEEaabaa', 0.2468), ('aDaaDbE=aDEaabaa', 0.2386), ('HaHaaHaHabHHbL=aGIHIHbNNbaa', 0.236), ('IHHIHHIaHIHHIHIHaIHHIHHIaHIHHIHIHbLaMMLLbPPbPQbT=aHIaIIIIIIGIHHIKLaKLabaNMaaNMabRRbUUbaa', 0.2884), ('EaE=aCaa', 0.2277), ('IaaaaaaIaaaaabKKKaaaKKbPaabSSbT=aaaaaaaaJaaLKaMLKaMbMaMabaQaQbUUbaa', 0.1681), ('DEaDEbL=aHHHbaa', 0.1306), ('DaaDabF=aEaaabaa', 0.1397), ('DaDbG=aGHHbaa', 0.1586), ('FFaFFbaabH=aaaaaaGaGbaabaa', 0.1988), ('aFFFaaaaaaFFFaaaabHGaGbHabI=aGFaFGGHHGGHHbIIbJJbaa', 1.6223), ('EEEGaEEEGbIIbI=aGGGGGGGGbJJbaa', 0.2735), ('GaHFGaGaHFGbIILLbLLbO=aGHHaHaHJJJJbMLMLbPPbaa', 0.2591), ('FaIHIaFaIHIbaaIIbLLbR=aaIHHIaLaILaIbLaLabPPbaa', 0.149), ('DDaDDbG=aDEIIbaa', 0.1752), ('FaaFFaFaaFFbHHbJJbL=aFFGHaJHaJbKLKLbMMbaa', 3.6158), ('aFaaFbF=aaDHHbaa', 0.1772), ('EEaEEbGIbI=aEFHHHHbJJbaa', 0.2519), ('aaEEaaaEEbHabK=aaGGGaHaHbIIbaa', 0.2799), ('EEaEEbK=aHHJJbaa', 0.2539), ('DFaDFbG=aDEHHbaa', 0.2155), ('JaaaJJaaaJaaaJJaabJMbaPbV=aFFLMLMbQPQPbSSbaa', 0.3408), ('HIaaHIabKKaaaabLKbNbP=aGGIaaIIKIIKbKKaKKKaKbMOMObOObaa', 0.2044), ('IGaaaaaIGaaaabaaaaKKaabLMabOObP=aaaaaaaaaaaaaaaaaJaKaJaKabMaMMMaMMbOMOMbQQbaa', 0.22), ('GFaaGFabGIbI=aFaGGHGHbJJbaa', 2.4044), ('GGGGaGIaGGGGaGIbKaLLbaPbV=aHFGMaMabRRbRRbaa', 0.1871), ('IaaaaHaaIaaaaHabKIaaIIbLaabONbP=aHHGaJKIJKIbaaLaaLbaMaMbQQbaa', 0.1512), ('FFaFFbH=aGGJJbaa', 0.161), ('FaGaFaGbaJbL=aEGGHJHJbNNbaa', 0.1393), ('aaaHaaaaaaHaabHJbJKbN=aHaGHIHIbaJaJbMMbaa', 0.2374), ('aaEaaaEbGGbK=aGaIHIHbIIbaa', 0.3328), ('EEEEaEEEEbGabK=aFaEEHGHGbIIbaa', 0.2317), ('JaHKKKJaJaHKKKJbaaLLKbSaSSbSSbX=aaHHHaHHaHGHHHHHMLaMLMMMMLaMLMMMbRRRRbUVUVbZZbaa', 0.2124), ('aaa=aCaa', 0.0267), ('GJKKKaaKaGJKKKaaKbKaabRRbTWbY=aKaaKaaKaaKaaMaMLMaMaMLMabSPSPbTVTVbZZbaa', 0.3146), ('FaaFabaIKbLbO=aIHaaLLbMNMNbRRbaa', 0.2441), ('FFFFFFaaaFFFFFFaabaaIbLObO=aHaFaaaaaJaaJbNLNLbaabaa', 0.313), ('FaF=aEaa', 0.2195), ('FFFFaFFFFbIabJ=aEGHGHGbKKbaa', 0.2325), ('GaaGabG=aEFHHbaa', 0.2424), ('GGHGaGaGGHGaGbIabNbQ=aIFGaFLaaLaabLLLLbOObaa', 0.2499), ('IHaaaIHaabIIbMabNNbO=aHIaaJJaaJJJaaJbLLLLbaMaMbPPbaa', 0.3339), ('JaJbLLLLbNPbS=aHHaINMMMNMMMbRRRRbTTbaa', 0.1708), ('GaG=aCaa', 0.1277), ('JGaJGbJaaJMaJbPOPbQPbT=aaaaaaGaaaaaaLLbNaaNaabQRQRbVVbaa', 0.4299), ('FFFFaFFFFbKKbL=aGaFHHbMMbaa', 0.2476), ('DaaDabF=aEaabaa', 0.2185), ('JGIaJaJGIaJbJJbPNbV=aHaIJaaaMaaaMbNPNPbRRbaa', 0.1941), ('GGFGaGGFGbLbN=aHFaHIJIJbaabaa', 0.1565), ('FaaaFaabIaIIbLLbP=aGHKLLKLLbMMMMbRRbaa', 0.1585), ('IaaaaaaIaaaaabKaIKbLObP=aHaaLILIbMMbRRbaa', 0.1442), ('JaJaGaGaaJaJaGaGabLJJbORbV=aFFMMJMMMJMbaRaRbTTbaa', 0.1836), ('HaaHabKJbK=aaaGaHIHIbMMbaa', 0.2522), ('EaE=aFaa', 0.1273), ('HHaHHbIIIabKKbM=aHFaFaJJJJJJJJbLLLLbLLbaa', 0.1648), ('EEaEEbKLbN=aHHMMMMbOObaa', 0.1315), ('EaEbL=aFHHbaa', 0.1634), ('GaaIIIIIaaGaaIIIIIabJMbPPbPRbS=aHHHaMKaaMKaabaNaNaNaNbRRRRbVVbaa', 0.3211), ('IIaIaaGGGaaIIaIaaGGGabKJabPabSSbV=aJGIIaIJJMaMaJJMaMabaaMaaMbRRRRbUUbaa', 6.7885), ('GIaaaaaaaaGIaaaaaaabKaaKJJbMLLabOObQ=aHaaaaaaaaaJKaaKaaJKaaKbMMLaMMLabNNbOObaa', 0.2506), ('GDaGDbI=aGEHHbaa', 0.2193), ('DaD=aEaa', 0.226), ('FIaaIaFIaaIbKKJKbLbP=aGIIGGLJLJbNMNMbQQbaa', 0.2682), ('JKKaaaaJKKaaabNLbOPabaTTabTbZ=aIaaaaaaaKNaaaaMMNaaaaMMbQQQQbRRbUaUabWWbaa', 0.2473), ('EaEbLLbM=aFHMMMMbQQbaa', 0.3345), ('IIIaFaIIIaFbLJNKbNObV=aHFFHaaNNKNNNKNbRNRNbRRbaa', 0.2306), ('EEaEaEEaEbGGbK=aaEaEGIGIbJJbaa', 0.227), ('aaaKJKaJaaJaaJJJaaJaaaaaaKJKaJaaJaaJJJaaJaabLaaaaaaaaaaLaabQabTTbWTbY=aIaaaaaaJNaaLaNaaLabNaaaaNaaaabSaRaSaRabVUVUbWWbaa', 0.2714), ('GaaJJaaaaaGaaJJaaaabKKaKKaaKbPPPMbSSbV=aJaaaaJHLLKaMLLKaMbaMPPaMPPbRaRabaabaa', 0.1819), ('FHaFHbIMbQ=aaaGJLJLbPPbaa', 0.2548), ('FaF=aCaa', 0.2235), ('HHHaGHHHaHHHaGHHHbaaIabKJbN=aGHGGHaGaHaIHaIbJKJKbMMbaa', 23.4851), ('aaGaaGaaaGaaGbaaIabJabN=aFGGaHHbaJaJbMMbaa', 0.2363), ('JKHaJKHbLKKbPbSUbY=aGaGGHHGaGaNaKKNaKKbRRRRbUTUTbXXbaa', 2.8296), ('GGGIaGGGIbKaJaKKJabMMbSPbS=aHaaaaIaIaaMMKaMMKabMNMNbRQRQbUUbaa', 0.2486), ('FFaaaFFaabaLIbOObQ=aaaGGGKLaKLabLMLMbRRbaa', 0.2726), ('EaaaEaabGGbK=aGaGIGIbJJbaa', 6.741)]
+Date: 2020-09-05 18:19:57.372281
+
+Pool benchmarks/01_track/transformed, Seed: 19
+Model: v56/uniform
+Score: 199, Time avg: 0.44396884422110555 (2.0928071512914546), Intersection time avg: 0.18264397905759164 (0.08055977165619321), Num steps avg: -1 (-1) (199)
+Solver score: 191, Solver time avg: 0.15858059278957506 (0.05246299688947872), Intersection time avg: 0.15858059278957506 (0.05246299688947872),
+Steps: -1
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Details: [('aadbabccceabfffdcbdaadffeGfdeccdddefededcdbeecfabcAfbcbEefcceeaadbadcfacddbffddcadeed=aadbabccceabfffdcbdaadffeGfdeccdddefededcdDdbffddcadeed', 0.2459), ('FaaaaaaBFaaaaaaEaaaaa=BaaaaaaFFGaaaaaaaaaaaaa', 0.2197), ('aajebfAjaediebbjgjabhefg=aajebfBbhefg', 0.2226), ('aeceebcddfccabfeebbefdaCbefefecddecdefc=aeceebcddfccabfeebbefdadeddfbeebcfbbafabdcdbfdbcbbedGceeecefaeabdffbfbeafecfbbefefecddecdefc', 0.2261), ('abcdAcebdcAccbfebdfaaeeaecfeea=AcdAcebdcabccbfebdfaaeeaecfeea', 0.2477), ('hgeaacdieigieifggeJigiaeagaifaiaf=hgeaacdieigieifggeedaeccMdahhaLhcceiibhigiaeagaifaiaf', 0.2353), ('bccbacccacacbbcbbacaCaaacabccabcbbababcaaaaabcabccbbccbababbc=bccbacccaAaacacbbaccababaaacabccabcbbababcaaaaabcabccbbccbababbc', 0.2505), ('abbaFbbaaabaaaaabaBabbbaabaFFbbbabbabaaFaaaaFaaaaabbabaaabab=abbaababbaaFaaaFabbFbabaaabaabaabbaababbbaabaFFbbbabbabaaabaaaaaabaaaaaabbFaabab', 0.2748), ('fEaagdcafbagfa=fbabdddgLffOfAggbccgfdfbfcddgafccfaagdcafbagfa', 0.2187), ('B=G', 0.229), ('dcdcebN=dcdcebMcbMaeGdeecaebedea', 0.205), ('AdAeeHcA=bdAFcA', 0.2777), ('hdcbeciaedcahahgafJggcgbaaiebfcdi=hdcbeciaedcahahgafacidagiFhgdcafggcgbaaiebfcdi', 0.1918), ('cBabbabBabBbBcbabcbcbb=cCBcbabcbcbb', 0.2443), ('aKaaAfadMdbbeMebebfdddacMMadceeecbcbfee=afedbbaMbaaeecdMeMdMcafddbbIfdbbeMebebMDdacfMadceeecbcbMee', 2.4607), ('CAaaEEaaaaaaaAA=GEaaaaa', 0.2468), ('abfbdegbhhNcCbKbegcabbgMeafgghcaC=abfbdegbhhNcdJegcabbgMeafgghcaC', 0.2244), ('fiOOEK=ficcdONOdgcgh', 0.2203), ('aabcbcbabaaabbbcacbbcccbcbbcaabbabcacccbAaacccaaaacbbabccc=aabcbcbabBaabcacccaaaaacccaaaacbbabccc', 0.2351), ('feefdAgfeaceebadcefdbddfgdbgcAAddfcecbaabacgdadeceaeabfbbAfebeffadbffdgcfgbgdaedgccedcbdgaccbdfdefabadf=feefdeggfeaceebadcefdbddfgdbgcegAddfcecbaabacgdadeceaeabfbbegfebeffadbffdgcfgbgdaedgccedcbdgaccbdfdefabadf', 0.2372), ('JaaaaaaBaaBaaaaaaBBaaaaB=GaaBaaBaaBaGBBBBBBaG', 0.2608), ('DefBc=DefAc', 0.1959), ('gEgdbdccbcfcgaFab=gddeBcfcgaFab', 0.2271), ('aecaDacdffebcdcbdddfabcecfaacaeebabcaDdeAafcaddfbcaecbbcfeadddacdbceca=aecaDacdffeJacaeebabcaDdefdbdaeeafeGddfbcaecbbcfeadddacdbceca', 0.2828), ('bbbaGbaabaaaaBababbbbababbaaabb=bbbaGCabbaaabb', 0.2032), ('caaccCcaaccbcBbacabbccbcaccababc=caGJbccbcaccababc', 0.2263), ('aciJjaiijJehfhccbbJjaecdfAcdchciicdiedjbgeaechciiecjh=acibjaiijbDechciiecjh', 0.2385), ('abbbcaabbabccbcabaacbcbacabHccabbcacbbbcaaLaacc=abbbcaabbabccbcabaacbcLFbaabcaabacabbcacbccaaccbabbbccbccabbcacbbbcaabacaacc', 7.8116), ('cbccAc=cbcccbbbcbbcabc', 0.0216), ('hhfihhhgjgdEaaebaaH=hhfihhhgjNbiaaebaaOifibehed', 0.1443), ('dffddgcefafggbeafadafbcacfdfcdffbfcbeeaegbaegcdEfeecegffcfeaagfcadfcffdeddbgdbbgceeb=dffddgcefafggbeafadafbcacfdfcdffbfcbeeaegbaegcdbddcaddgfgadacdgfgbdbccDffcecbaefcfegebadbfagecfbdbfafeecegffcfeaagfcadfcffdeddbgdbbgceeb', 0.177), ('dabcfdcadfaccfccdbbBCcbeddebceedfdbaccdfeeaebeecaecddbeaced=dabcfdcadfaccfIdfdbaccdfeeaebeecaecddbeaced', 0.1177), ('cggbffJeaaadfeebbceagd=cggbffeecggbabEgGdfdbdcdcgdcegbcegeaaadfeebbceagd', 0.1471), ('adeegdbbDdhaDcChfagaggadaeacecgdbcddeh=adeegdbbDdhafecHdfcfbdfgcfcbcbGddeh', 0.1448), ('fjeeejdcficBgadjbid=fjeeejdcficDdjbid', 0.1508), ('gadfgfdabgCgcefaecbgddefbefcfbf=gadfgfdabgaaacbdgcefbbgeegfdcdcdacfaddeegdegcccaedcAgddefbefcfbf', 0.1551), ('aeeeeedbaDeaeBddabcdcbbdbeddee=aeeeeeFbcdecbadcdbeaaddabcdcbbdbeddee', 0.1432), ('gfbhbefgbadbhebdddghdgEhCedcdcb=EbhbefgFDacbdfEbchfcdegcecedcdcb', 27.4559), ('bccHcagdjdaebDicicaccdeadfeacehdc=bccecijbbifhciibcfaaebecagdjdaebFjaachbbbcbiicicaccdeadfeacehdc', 0.2404), ('ffAbAeagacdebfegegdbeaeggdaegeegebfcgbfgefeAedafbAdddfEbbbaaAdaaccabAdfedffeea=ffcbceagaAdebfegegdbeaeggdaegeegebfcgDAdddfEbbbaacdaaAcabAdfedffeea', 0.2432), ('igfbFAJbFhd=iMd', 0.2196), ('gaeaiiEcgcjagjeffgghaff=gaIbjgfbeadhbehdifeijieadddjaidjhgMjjajjjhebcedeifhiaiejfdcdfcgcjagjeffgghaff', 0.271), ('acabAbccbccabacbcccbabbbbaaccaccbacbcacabcbaaabcabacacaaccbcccacaaabaaa=acabccbacbbbbbcbbcccbbaacabbDccaccbacbcacabcbaaabcabacacaaccbcccacaaabaaa', 0.2351), ('hbgdjgabehbcihfhggfdijbjcBgiedhcjcibfffacgbgejibbgjadjeddhjehjj=hbgdjgabehbcihfhggfdijbjchjjfbfeijebfjabciadjchegiiedjdiihifdbfebiechbegiedhcjcibfffacgbgejibbgjadjeddhjehjj', 0.0218), ('ccdegdegecdfbbfdgeedcaHafacbdfaeegdbaJeaacaEgefffccecfddcddcbgffcdaagebfeafddedegcdfe=ccdegdegecdfbbfdgeedcafacafacbdfaeegdbaJeaacaEgefffccecfddcddcbgffcdaagebfeafddedegcdfe', 0.0219), ('cEAiifgade=ceifeceFcifibiiifgade', 0.2211), ('cebhhefgdhhfdbdhcghaadfhagcgceeffahfeeaecgeaafgebecchabcaaecefgAdecbaadbaghchcfcgdbhchfbcfehbefgehgfadhdfhebfebdfhce=cebhhefgdhhfdbdhcghaadfhagcgceeffahfeeaecgeaafgebecchabcaCbfebdfhce', 0.2382), ('eafBjgfaihdfcbgffCgebgjgfdebeajefbe=eafbgieagfdcahedjjjdcjgfaihdfcbgffbafedhbebghehgfehibbjdejbdafiidcbbecDiahceaggigheiebjecfgebgjgfdebeajefbe', 0.2367), ('AdAijjahaafgie=AdD', 0.1996), ('EEEEEEEEFEFaaaaaa=FFEFaaaaaaEFDaF', 0.1899), ('cefcdfBbgcdfedbGfgafbGgefdgcbadf=GefIdcbbfGfGbbgFgefdgGbadf', 1.344), ('eJjcAh=efEG', 0.1339), ('HaccFcddcaebbaacabecdbbcecceacbacbcecbcHabedceaaeeadebadeHeaeac=dbaccGbbaacabeIbeaeac', 0.1654), ('BDDaaDaaDDaaAADaaaaaaDDaaDDDaaaaDaaDDaaaaa=FFFFa', 0.1591), ('bcecceddbdAbddbC=bcecceddbdAbddbacaababdcdadcebbbbdcbbebbdceedebcceedacdadbb', 0.0227), ('fdfafeafegAcbgcdbgbfbgfeacegbcddgagbebgeadbbacdfaefaeffffbfgagaggebbcccddacecaddfed=fdfafeafegbbfbgegffgedegdfcgebgecgccadgdaefbfCdbbacdfaefaeffffbfgagaggebbcccddacecaddfed', 0.2362), ('bEadcbbdbdddbabdca=bbbdaaaaAcbdAdIdbdddbabdca', 0.269), ('dIdedacdcccbecaeaddbcbccdebababbbbecadeddHec=dIdedacdcccbecaeaddbcbccdebababbbbecadeddbaeaFabbecabcbec', 0.2373), ('hbBCidhcffeghdie=hbBdggEebdehidhcffeghdie', 0.2557), ('aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaBBaaaaaaaa=ABaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', 0.2273), ('ccbccafdefdbfbcecefefbbbfefCdebEcbdfcbedcafaebbcdebdafdcbbedbbaeaadcaccbebcfffdccbfbabfcafe=ccbccafdefdbfbcecefefbbbfefCdebcbfbdefcbdfcbedcafaebbcdebdafdcbbedbbaeaadcaccbebcfffdccbfbabfcafe', 0.0678), ('KaaaMbJaccbcbbbNaccbaa=aNbcaaaaaabaacbcaabNabaDabacaaccbcbbbNaccbaa', 0.2555), ('aaaaaaaaaaaaCa=Aaaaaaaaaaaaa', 0.2049), ('hDegCjJedfc=hjeIcedfc', 0.1964), ('EHAEEHa=GGHA', 0.1327), ('baaaaaaabaaaBbaabbbbbbbaababbaabbbaaabbbbb=baaaaaaabaaaabbbbbbabbbabbabbbaabbaaaababbabbbabbaaGbaabbbbbbbaababbaabbbaaabbbbb', 0.1632), ('bcagfbaecAeffdaabdgfdeaff=bcagfbaecabcefffgdeaccfcegaaacdacedafccfddefeffdaabdgfdeaff', 0.0262), ('dcffhHcfebEi=dcfCDi', 0.225), ('fgaAeedihbjhcei=fgagefiaidbgcafigeedihbjhcei', 0.0218), ('cbbbbbabcacabcbcJccccbacccaccaccaaaaaaabbbaccccaaabbacaacaaabbc=cbIbbbabbMaaaaaabbbaccccaaabbacaacaaabbc', 0.1642), ('aibejbhifjegjacgdBEjfbjefjbddhdbaejegdigdbg=aibejbhifjegjacgdbihfeDefjbddhdbaejegdigdbg', 0.1354), ('bCbbKEOOCCbacaCO=bCbGbaEabc', 0.1391), ('fabeafbgdaggecacdcadgfbgegfdfeebcggecaaebcefabgaaecdbddcfdBfccabggdaedcafgcbadaagdaaebc=fabeafbgdaggecacdcadgfbgegfdfeebcggecaaebcefabCecfdecdcfaagfaeeaccbafccabggdaedcafgcbadaagdaaebc', 0.1305), ('efdcffabAfdcb=efdcffabaeCbcecfdBddacBffdcb', 0.1489), ('bhebfdeeccfCbcaahjiDjciahhejiheacfgaibhfbdbeedf=bhebfdeeccfagbjiigfgecfdbcaahjiDjciahhejiheacfgaibhfbdbeedf', 0.0308), ('aecaabedddcfaeBfcacbedffadfbbdbddbef=aecaabAcfcacbedffadfbbdbddbef', 0.2356), ('ebcgadKdiecfaiifeeafffgafbhgdccdhfffdeffiebhieiefhHhhbehehbbgeghiggcdfbgadbgcdfcfdhhcfhfdcfcifefhggifheggbebfcca=ebcgLecfaiifeeafffgafbhEeggbebfcca', 0.2607), ('ABaaaa=CB', 0.2303), ('deHfahgfEHbgHdfchjgbjhgafiagegfcijeJHdg=deifahGidg', 0.2748), ('ieafbhdibeaghgcgaEafJbebgfbLegdfbfJffaahbdeegJiifbiJidJfafg=ieaFbiJidcfafg', 0.2486), ('adcaccbaAecdbgadadafefdfffdfd=adcaccDggebcgdcbbecdbgadadafefdfffdfd', 0.2236), ('hhadbcdiiidcficcdhgaiegaEeebbgdhcbaeigbfggcceiehce=hhadbcdiiBgfhechbfFbgdhcbaeigbfggcceiehce', 0.2529), ('aabccbcNcJ=aabccbcccbcaaDacMabbacccbbbHbaabLccacbbaa', 0.2275), ('defefcbeebbbdcfeaeadabfaaeeaddddeaaefddfaffbdcfbaefbfadeb=defefcbeeAaaefddfaffbdcfbaefbfadeb', 0.0217), ('caccabbccEabbbcbcababbcbbbbbcabcbaa=caccabbccabacbbcCbcbbbbbcabcbaa', 0.1297), ('dbebgddbecfcbbAadeeaecAgebegeecafegebdbagddaadbddcaeeebfabfefabfacdgAgaabgegagf=dbebgddbeAfcbbAaIegeeAaDegagf', 1.3441), ('gbcfhagdhfhBhbaebihgbGdegbacgh=gbcfhFhBhbaebihgbGdegbacgh', 0.0217), ('jcjDhadca=jAieecghadca', 0.1298), ('aaaccbabaaccccaabbBaccaaaacbbbccccbccacacb=aaaccFcaaaacbbbccccbccacacb', 0.1699), ('Ebbbdbcdddbbdbdabaccdddbcbccdbd=cabbcacNcdaddbbacbOdddbcbccdbd', 0.1371), ('aababbaabbaaaabbbabaaabbbbbabbbaabbbbabbbAaaba=aabBbabbaaaabbbaabbababbaaabbaababababaabbaabababbabaaabbabbaaba', 0.1574), ('hhegdcaaggibgfhggichggiciiggdficiehhihaigaa=hhegdcaaggibgfhggiBhaigaa', 0.0259), ('gdaafhhaebdagfaefcbdffbcfdcfEgddbbegcbgeaacfdb=gdaafhhaebdagfaefcbdffbcfdcffeeFaegbbdecahdfdefdcdbaahafegddbbegcbgeaacfdb', 0.2172), ('baeeaaaeebbbdcddcbdcbcbAbbddaacebccdaaedeccbdbeeedaacddedacdbcedbbabcdbbccb=baeeaaaeebbbdcddcbdcbcbcdccbebdabceecacceaeabbddaacebccdaaedeccbdbeeedaacddedacdbcedbbabcdbbccb', 0.0219), ('eccGgiafdaeCbdaebcdheefccbbadiihhiBgheghihfceciagbggeecedbhdfggeadccfdichdcecdfg=eccGgiaDhfgheghihfceciagbggeecedbhdfggeadccfdichdcecdfg', 0.1341), ('eafbebbfeebfecgfc=eafbebbAfecgfc', 0.0396), ('cdacdeceecacedddeaedaebdcababaedbbddeeceaecccbdeecbdcecbaedbacacdebecedcabccdabccabbddbcbbacebcbbabcbdabaadebecabaccbaaceaecaabebcada=cdacdeceecacedddeaedaebdcababaedbbddeeceaecccbdeecbdAcdabccabbddbcbbacebcbbabcbdabaadebecabaccbaaceaecaabebcada', 0.0222), ('icgaiHfhCf=HcgaiiFhfcdcHfifbcf', 0.1917), ('bbaaabbbabBbabbbbbabbbbbabbbabbBbbbaEaaabbBaaaaaBbbaabbbaabbbbbbbbaabababaa=bbaaabbbabbabBbbbbabbbbbabbBbbabbbbaaabbBbabaabaaaababbFaabbbabaaaaababbbaabbbaabbbbbbbbaabababaa', 0.3023), ('dcbgbggeagdfbbgdfebffacgEgcedacebdfabcbfafgacggebbfegfdceeabecgdgbcd=dcbgbggeagdfJbBfbffgbegacfdbdIbdfabcbfafgacggebbfegfdceeabecgdgbcd', 0.2512), ('igEehEbjadCideeeEgbifechcheid=igfehEbjFeideeefgbifechcheid', 0.3851), ('aJaaaaLacbbbabbJccGJaJaaLaaaJLbaLcabaaLabLa=aJaaaaGaGbJJaJbbLLGIabGJaGLaJaaGaJLa', 3.839), ('KMaNaaaaa=MIaaaaaaMaaMaaMMMaaaaMaaMMMMa', 0.2291), ('edffcbeeagAbdgbfaedcfecdbJbggcefgdfecedceeccedcec=edffcbeeagcgecbGffbbdebbcbcbcacedebabbggcefgdfecedceeccedcec', 0.2547), ('bbcddbeghhbcfhefhgehgggfdgcahbBdbcgafgccf=bbcddbeghhAfgecacffbbgggebcgfgcfgbaddcdbbfggdegddbcgafgccf', 0.236), ('CaaababCbbCabbabbabbababbCabaaaabaaaabCbbbbabbbabaaabbCbCaabababaabaaabaabbbaaabb=baFCbbaaaabababaaCaCbbCabb', 0.2618), ('aacadcacdabddadbdabG=aaCabddcaccbccaacaadbccababbacc', 0.236), ('fbcadfffcabbcefaccaddaeefbdadfedebebcadcBdebdfcdaabaaadbfab=fbcadfffcabbcefaccaddaeefbdadfedGcbeafceaaefdaeefedebdfcdaabaaadbfab', 0.2505), ('dbbdcabbcacedceBaccaaedeaedeaeccbbedcdcbebdaabbbabbdaaaddbbcbaadeedaceadcabaabebddeacdddaabbbaececebbcbedab=dbbdcabbcacedceebceedebceeeeaebcdbceaacdbcbbdaccaaedeaedeaeccbbedcdcbebdaabbbabbdaaaddbbcbaadeedaceadcabaabebddeacdddaabbbaececebbcbedab', 0.0218), ('abcccacbEabcabcca=abcccacbaGbcacbbbaaaacbbabcabcca', 0.1173), ('aCg=ajccDjg', 0.1531), ('gcfedcedggeedcfedgfcgbabgcgAgacaedgdeaeddafdcdefgbafdabfeaddbgfeddefadaeddcdaegbbbccdbffdfbefbdgcdbfggfcdffgfcabebdgabdg=gcfedcedggeedcfedgfcgbabgcgdccffccddcffgacaedgdeaeddafdcdefgbafdabfeaddbgfeddefadaeddcdaegbbbccdbffdfbefbdgcdbfggfcdffgfcabebdgabdg', 0.0251), ('cccabGbaacbGbbAacbcbbccbbaaacabcacab=cccabGbaacbGbbcaGacbcbbccbbaaacabcacab', 0.2021), ('bcccaccbaaaabbcbcEccbbbccc=bcccaccbaaaabbcbcbDbbccc', 0.2443), ('fgdgbgeaafLfabfafbefgbdcaffcaagbccbHagdbfabbcceccgcecefeadeagddgeebdedbcfgabgeagfggdebecccecfcgf=fgdgbgeaafbfeeedefeCabbcceccgcecefeadeagddgeebdedbcfgabgeagfggdebecccecfcgf', 0.2329), ('J=M', 0.1752), ('gbDcEhAggf=gbhgceghFhggf', 0.188), ('dcA=dcaB', 0.1177), ('EEEG=FFIaaaaaaaaaGGaaaaaaaaaaGaaaaaaaa', 0.1956), ('abdcbddabcddaHccdcdaaaccddbcaacaacacccabbbbcbbc=abdcbddabcddFaacaacacccabbbbcbbc', 0.1344), ('fbaiigcfaggfiehhgbacfbccafcbaebecbhfbdidaedhbgfcddfcbAfhgbfcfcccgfdafeehaibhficaedfficcdgae=fbaiigcfaggfiehhgbacfbccafcbaebecbhfbdidaedhbgfcddfcbcffbcdabhgahehfdecfaffdedafgicdacdcgebecagchdccgfacadbahgiagfhgbfcfcccgfdafeehaibhficaedfficcdgae', 0.0423), ('bbeeeaefaddddcfdbJe=bbeeeaefaddddcfdGeDfedfdcbccfccadacbaaffcffbce', 0.2531), ('babbbaabaaababbEaaaababbabb=babbbaabaaababbbabababaaabababbaaababbbabbaaababaaaabbGabbbbbabbbbbaaaaaababbabb', 0.2206), ('gjB=A', 0.2355), ('dFbddddaaaaabacaddbdbacaFcEcadF=dbFddddaaaaabacaddFdFacabcFabaFcaaddbdaFacadaFbabaaabdabcdacadF', 0.3126), ('abeDHafbde=abCMheecafbde', 0.2576), ('A=C', 0.1664), ('bbaaaEaaababbbabaaaabaaaabbba=bbBbbbbaaaaCbabbbaaabbbabbaaabaababaaabbbaaaabaaababbbabaaaabaaaabbba', 0.1487), ('cJcbgagcdddcGbgebeIcdgdafegbccedfaeefa=cJcbgagcIdcGbgebeIcdgdafegbccedfaeefa', 0.0293), ('bcabbbcbccbccccccaCcbaabccabbcaccbaaaaba=bcabFcbccccccaCcbaabccabbcaccbaaaaba', 0.0218), ('aijebibadgbbbgebhfjaieeagjfeeceibFghjEeddhiffcgbdibgheacdijbgighgaiibhgachdjj=aijebibadgbbbgebhfjaieeagjfeeceibcffjjfdbciciaefighjEeddhiffcgbdibgheacdijbgighgaiibhgachdjj', 0.0222), ('dgcfachbfadadbcbedchiabgdEecdbbbicefadie=dgcfaBadbcbedchiCbbbicefadie', 0.2381), ('dgabddihghgafhhdhiigiffddgbgcbihhfaiccbicchihaddbfficdbdhdbibifceaceifbifadcfeacdfhefhacehiicbgiedhhcbhbicfdbiehfgaadhcahecicbchcdbabfiidfbdf=dgabddihghgafhhdhiigiffdChhfaicAacehiicbgiedhhcbhbicfdbiehfgaadhcahecicbchcdbabfiidfbdf', 0.2437), ('ebfEjihfchDdaJcHJcDjgcDaciDhhhhJDiDajfefccghiahgdbjddD=OjafijihfchjdaJcahaecjjgMhhJjiDaDfJfccghiahgdbjddD', 7.8866), ('bbaabbbacbJccbccccbabaacbabaabbaacbbacaaaaabcbabccccbccaabacbbccbcbaaD=bbaabbbacbbbbbcbcbcacbbabDaabaaabacDbbcbbcacccbbDaccabbaabccccDaccbccccbabaacbabaabbaacbbacaaaaabcbabccccbcDabacbbccbcbaaca', 0.2219), ('AAAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa=AaaaaaaaaaaaaaaaaaaaAaaaaaaCaaa', 0.2423), ('bJbEdfd=bD', 0.2038), ('CGGaaaaaaaaaaa=FGaaaaaaaaaaaaaa', 0.2297), ('dbdeIbbbJedbbedaaaecdeaabedeabIabcbccbcdd=dbdeIbbbdadbcceecGbbebbCcbccbcdd', 0.2557), ('cac=cA', 0.0227), ('chagiagcijeaibgdfifiBgdcabfcdbdgajdahhfggb=chagiagcijeaibgdfifibicdjAcdbdgajdahhfggb', 0.1527), ('ghaiehabecigefgibdchcidcbhchagdgchiacdchcghfcaafbfgaghcgedddaaghchgdhgghibegagghaiciacdgbcadhbcgfifefgcbfcagddebddbeibedfecbh=ghaiehabecigefgibdchcidcbhchagdgAbddbeibedfecbh', 0.0438), ('debgjbaigeeijejgaJgiicHjegjjbeiidhebbgifjcgigejeddaiahageajjfiejajdajfbcjehgeec=debgjbaigeeijejgabfcgecjfaGfjcgigejeddaiahageajjfiejajdajfbcjehgeec', 0.227), ('aEcaAccbccaabaccbbbcbbaabccbccbbabcbab=abCGab', 0.3359), ('cfaeggdifAiigbacihegbhifichcbJahBcfbcfideggigdfigciibeefhigcegaeiaefihgdffbaicfiehfhai=cfaeggdifefhahcciigbacihegbhifichMfdhicfbcfideggigdfigciibeefhigcegaeiaefihgdffbaicfiehfhai', 0.2537), ('abcaccccccabEbcEccacbcaEcaaaaEcbacccacbcbccaaaEabccccacH=abcG', 0.2161), ('fcFfCccd=fcFfghehahcaaaccd', 0.0218), ('abadcaaebeaeaeebadDeCeeeeeebbbcbddeabdcec=abadcaaebeaeaeebadDeabbFebbbcbddeabdcec', 0.1304), ('ihchaibihfegfefjhhfehbCgefbgigbjdCdbjidfjadhiaeaca=ihchaibihfeCfFgiCbjdgdbjidfjadhiaeaca', 0.1413), ('defcfacdggfKcfbeddecfcgegddagccbbbeebcdegadcddbcbcfbadeeadafcBbbfgebdbeeabdaaabffageddg=defcfacdggfcddcfGaccfafcdgdefffacfecdfedbagacfgefgeabbfgebdbeeabdaaabffageddg', 0.1438), ('baaabCabba=bBabbGBbBbBbaabba', 0.1746), ('jdbebdbbfegbeBhhdeihadg=jdbebdbbfegbegffeiddigihAfjfeghhdeihadg', 0.1181), ('bcAaabAaaaacAbabbbcAabbbAabcA=bAAaabAaCbbbcabAc', 0.1523), ('gAh=Dfhffhhgccgcddhegfhbh', 0.1477), ('aecfddedeebEdbcaedadcabceffcffecfbcbfabccbedfdfbeec=aecfFebaebbcbbbaccfacdcdaccbfcbaaDdfbeec', 0.1645), ('FhbaahhegbFEcbaaedcgdfgedeFgbegebf=fhbaahhegbFcbFhhcbFcFFeedhhecbaaedcgdFgedefgbegebf', 0.142), ('efacfebffaaddcbdffbedffcfdcdccffdecaaaBdcaafebeefdfeacfcaabefaa=efacfebffaaCcdccffdecaaaBdcaafebeefdfeacfcaabefaa', 0.0323), ('bggfadfebcbcddebgbadgabffeegcbbgceaceaefefeababacedfcafdbEbgc=bggfadfebcbcddebgbadgabffeegcbbgcMafbeegcfafgbfbceadaeecaegfadgebbfdcddafcaeadaafdeabgeccceagaecdbgc', 0.2327), ('aabbhChCfcbcdCEibbeaeibih=aabbhChfCcbcdfegebCbbcheiGbbeaeibih', 0.2286), ('bDbbbabbabbaabababababbabaabbbbaaDDbabbbbbaDDAbbabababbbaabaababaaaaabDbbbababbDababaaaaaabbbabbaabbab=baabbbbabbabbDababababbabaabbbbaaaabaabbabbbbbaDaabbbbbbababaabaababbaDbbDbbbDbabababbbDDabaaaaabaabbbbababbaabababaaaaaabbbabbDbab', 0.2503), ('cBbdebEcbacbabadd=ceeecbcbbcebdebbbbeeMbacbabadd', 0.2472), ('eddecfagdfggaffadcJae=eddecfaMdbggbfeaae', 0.2666), ('ehajgfedff=eAgfedff', 0.0217), ('cddabcbbdbbbaaabbdaaaabadadbabbddabdACbacbdcb=cddabcbbdbbbaaabbdaaaabadadbabbddabdcbdCbaAcb', 0.1345), ('ebdEccdebcdcecbeceecceEbEddEdEEecbeebbbbdbEaebdcbbcdecbdaeeacbEEbcaEdcceedEbeddcEacdd=Gd', 0.1643), ('deecbcgcfgbebdccagageBegbAfdddbaabfegbbggcadfaaeagdf=deecbcgcfgbebdccagageBegbebcaeccedbedefbfdFgbagebcbfacgadbefcffcgceeeddfdddbaabfegbbggcadfaaeagdf', 0.1239), ('caaacJbababcbabaaccaabbabaaacabcababcaaaabaaccEcccabbbabccacabccaacbbabcbbcbacbccbccbaaacba=caaacJbababcbabaaccaabbabaaaGcbbcbacbccbccbaaacba', 0.1408), ('cbabFabaacbcacb=cbabaccccEbbbaabaacbcacb', 0.1433), ('IMbdghehfc=gbhffMbdghehfc', 0.0397), ('ehbfhaffcgchhdbeffgaEFfhe=ehMdedeefhe', 0.2557), ('N=GM', 0.1809), ('bcbabcaabbabbcbcbcaabbcccbabBaaaababba=bcbabAcaabbcccbabcabcabcbbcacbbccccbcabaaabbabbbaacccbbaaacbaaaccacbacccabcacabcbaaaaababba', 0.2442), ('geiebjgigEajfdjbgijciabdefeedcc=geiebjgigiacbdjddcdcbibcaabejbghcegibigbceaaefghbdehhfcbbecjhfgigfDgijciabdefeedcc', 0.2371), ('jddfbcgidjajfjebjiejjiiddecigbhhigbdjbdjabjdjaigCidegjjajgedciad=jddfbcgidjajfjebjiejjiiddecigbhhigbdjbdF', 0.2405), ('adaebhihggahhgdfdifhBhdfhcdibhihegaciggice=adaebhihggahhgdfdifhehbfbddbhcfahehcfggcegabdddcgacdfgeFgaciggice', 0.2471), ('cabeBdccbAbaBBedcafdBedeefeaaeb=cabefdGcBabeacbccedbcdbbdddbedbaBfedcaBdfedeefeaaeb', 1.3229), ('acbbFbaFEcbcbaF=acbbcbacaabcbFabcabbcFFFbaaFFcabbFababbaaaFcaFabFbFbaF', 0.2537), ('ehcaCjdbIcc=ehcabgFefhgaejjgadebdgcdabjdbcII', 0.26), ('E=G', 0.1585), ('bbbaaabbaaaaaaabCabbbabbaababbababaaabbbbbbbbaabbbbaabbabbaabbabaaabbbbbaababaaaba=bbbaaabbaaaaaaabaabaabbaabFbbababaaabbbbbbbbaabbbbaabbabbaabbabaaabbbbbaababaaaba', 0.2415), ('ebiihfddacgjhfEiadIfgcbejhijahfigeehggifbdi=ebiihfddacgjhfEiadaaieigfgcbejhijahfigeehggifbdi', 0.0332), ('bebedhdDfcadechdaddffaebfhdeBchdegeecbbacggbgcbefcfhbgabhcgecfgeehaeafaaaahchbegehchegbcegbcdhbcd=bebedhdDfcadechdaddffaebfhdegccchcbdcehedcehaeachghehhededaddhcehgbchdegeecbbacggbgcbefcfhbgabhcgecfgeehaeafaaaahchbegehchegbcegbcdhbcd', 0.0339), ('dddchdDffcabffabdebachhafcdaeefdbcdaegeahcchghhbh=dddchdbgffcabffabdebacAhcchghhbh', 0.1719), ('baaccbadaEaaccdcaabcbdcb=baaccbadaadddcaabaccacaaccdcaabcbdcb', 0.0217), ('ceedcbeadAcccbfdd=ceedcbeadgahehbbdgbaebceCchcdabcccbfdd', 0.2169), ('bdbccabdddadadbccdacAbcbdabBaadaddbabac=bdbccabdddadadbccdacabdacdCbBaadaddbabac', 0.2448), ('gjegbbbihOdgagchhihgbjbbacjJjejfacddficgcjgfc=BieggMjhfafeicfbghbbjejfacddficgcjgfc', 0.2423), ('ccacbbcbcaaBbbcaa=ccacbbcbcaabaaacbabcccbcbbbccabFccbcbcbabbcaccbbaaccacacccaabcccaaaaaabcbbcaa', 0.2227), ('dbcAhAhhcahiigibAieAdgcgacihfifdALeAdahgeeibhhfiaeehhaAfccgfeagegg=dbcADiffAaggAAAbafeAdaAgeeibhhfiaeeAAaAfccgfeagegg', 0.2753), ('E=M', 0.196), ('AccAbccB=CccAbDbcCcA', 0.2539), ('caaabbbbbcbbAc=caaabbbbbcbbbbcacacabcbbbabababbaaabaabc', 0.0466), ('cdebedDccceebddbbadbDdeebadabaaacdebcce=cdebedebdcccAce', 0.2781), ('bAAAcbc=bFbc', 0.1945), ('aaadbcbAccdcccdebbcffcbbadAfafcbccbAedfaAccaacffaaAfeafacdccadabbdbAeccbcbcdedecaaddaebfddbaabcabffadcaeAaababfaeed=aaadbcbfccdcccdebbcAAcbbadAfaAcbccCdabbdbAeccbcbcdedecaaddaebAddbaabcabAAadcaefaababfaeed', 0.2376), ('efbghbcgghaidgbajjigfjbaffeidgjiajeaigigcbaicejjchhEihghgdbgihegecaidjefhcijdgdbhh=efbghbcggBajeaiFjefhcijdgdbhh', 0.2265), ('fCE=DG', 0.2605), ('DabbAccbbcbcb=DabbDacabababbccbaaccDabcaaabDcabcbbcbcbbaaDcbbcbcb', 0.235), ('BaaaaJAAaa=FAaaaaaaGaaaaaaaaaaaaaaaGIAAa', 0.2501)]
+Date: 2020-09-05 19:29:45.591221
+
+Pool benchmarks/02_track/transformed, Seed: 19
+Model: v56/uniform
+Score: 2, Time avg: 10.9974 (10.691600000000001), Intersection time avg: 0.3058 (0.0), Num steps avg: -1 (-1) (2)
+Solver score: 1, Solver time avg: 0.1660935878753662 (0.0), Intersection time avg: 0.1660935878753662 (0.0),
+Steps: -1
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Details: [('AaAbBbC=aABBbCCbaa', 21.689), ('AaAbB=aABBbaa', 0.3058)]
+Date: 2020-09-05 20:01:29.623469
+
+Pool benchmarks/03_track/transformed, Seed: 19
+Model: v56/uniform
+Score: 134, Time avg: 0.805584328358209 (2.617701099827477), Intersection time avg: 0.22976446280991736 (0.07437087746419341), Num steps avg: -1 (-1) (134)
+Solver score: 121, Solver time avg: 0.19997952595229976 (0.0836576760694618), Intersection time avg: 0.19997952595229976 (0.0836576760694618),
+Steps: -1
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Details: [('aaaaFaaaaaaaFaabGHbaHbI=aGFaGGGGbHaHabaabaa', 13.5211), ('JGGaaJGGabLLbPPbV=aGaGaHaGHMMMMbQNQNbRRbaa', 0.1622), ('GaGGGGGGGaGGaGaGaGaGGGGGGGaGGaGaGbKaKaKaKKbMLbMObO=aGaaaHGaGGGaaaJKKaaJKKaabLaaLaabMMMMbQQbaa', 0.1924), ('EFaEFbG=aaEJJbaa', 0.2402), ('aaIaaIIaaaaIaaaIaaIIaaaaIbJaaaJJJabaMOabQSbV=aJHIIaaIaaJaaaMJaaaMbNNMNNNMNbSSSSbTTbaa', 0.2707), ('FFaFFaaaaFFaFFaaabaaaabIIbI=aGFFaaFFHaHabHIHIbJJbaa', 0.2622), ('FGGGaFGGGbKaabLbR=aHaaGLLbMMbQQbaa', 0.1696), ('HaaaaaaaaHaaHaHaaaaaaaaHaaHbaaaaIbLaaLbNMbP=aHaaHHaaaaHaaJaaaaJaaaabLaLaLaLabMNMNbQQbaa', 0.2313), ('FaFbGIbK=aGGHHbJJbaa', 0.2595), ('FaaFabaFbH=aEaaGFGFbGGbaa', 0.2391), ('DaDbK=aFHJJbaa', 0.2427), ('HaaHIGaHaaHIGbOMaaMbPRSbSSbY=aHHHHHaaHaaaaMMaaaaMMaabQRRRQRRRbVTVTbZZbaa', 11.1544), ('FaFaaFaFabGGbJ=aaFEaaaabIIbaa', 0.1687), ('HHFHaHHFHbKbK=aFGEEHJHJbNNbaa', 0.2648), ('GGGGGaaGGGGGabIaaabIbJJbL=aGaaaaaaaaaaaaaHHaHaaaHHHaHaaaHbaJaaaJaabJKJKbKKbaa', 3.5447), ('JIaJIbLabPPbS=aHGaNNbQQQQbVVbaa', 0.2467), ('aEaaEbF=aDDEEbaa', 0.2584), ('GFaGFbG=aEEHHbaa', 0.1487), ('GaaaaaaGaaGaaaGaaaaaaGaaGaabaKIKKIKKbKKbMObQ=aHaaGGaaJJaIKIJJaIKIbMLMLbNMNMbPPbaa', 0.1571), ('HFaGGGGaHFaGGGGbLbNbP=aFGHHGFIaaIaabLLLLbOObaa', 0.3521), ('GGGGGaaGGGGGabKaKKKaKIbKKbaNbQ=aaHHHaHaaaGHaaHJJIKJJIKbMMMMbMMbPPbaa', 0.1983), ('EaEbLbN=aHHHaJJJJbMMbaa', 0.1554), ('HaaaaHaaabHHbaabN=aGaaaaaaJaJaJaJabKaKabMMbaa', 0.1723), ('GaaaGaabKKbPaPPbSbS=aHaaaLJaLJabPaMPaMbQRQRbaabaa', 0.23), ('EEaEEbKKbN=aFHIJIJbQQbaa', 0.1367), ('aaaaaaGIaaaaaaaaGIabaJKMKbMOOPbPSbV=aHGMLMaJMLMaJbOOMOOOMObQPQPbaabaa', 0.1605), ('DaD=aCaa', 0.1378), ('EFaaEFabLKbN=aHEKJKJbQQbaa', 0.2431), ('GaGbKLbRRbS=aaaFJILLaLLLaLbRNRNbUUbaa', 0.2595), ('EDaEDbF=aEaEEbaa', 1.4831), ('EaaEabE=aEEaabaa', 0.2206), ('GHaGHbJKaabLLbNNbO=aHGJJaaJJaabMaaMaabMMMMbQQbaa', 0.3079), ('EaEbK=aHHLLbaa', 0.2189), ('HEGaHEGbIKbK=aaEaGHHHHbMMbaa', 1.3437), ('HFFaHFFbKKbK=aGEHHHHbLLbaa', 0.1628), ('JaaHaJaaHbKJbPNbS=aJJMMMMMMMMbRRRRbRRbaa', 0.3067), ('aaFIaFaaaFIaFbJaabLLbO=aHFaLLLLbMMMMbPPbaa', 0.258), ('DaDbG=aEFJJbaa', 0.1322), ('IFaaaIFaabKJbRNbV=aHHaaMNJMNJbRRRRbRRbaa', 0.1531), ('EGGGaEGGGbKKbN=aEEEaaMaMbMMbaa', 0.6427), ('EDaEDbH=aFFFFbaa', 0.2471), ('EGFaEGFbKIbM=aEFIIMIMbQQbaa', 0.2468), ('FFEaFFEbKKbN=aaFEJJJJbLLbaa', 0.2566), ('HaaHabKabL=aEaGHHbMMbaa', 0.1663), ('FaaaFaabaHHHbaKbM=aGaaHaJHaJbaLaLbaabaa', 0.3055), ('FDaFDbH=aDGJJbaa', 0.2523), ('GIIaaaaIaGIIaaaaIbKKKJbOPbPSbV=aHIaaaIaMMMJMMMJbMMMaMMMabRaRabUUbaa', 0.1779), ('aaaaaaGaaaGaaaaaaaaGaaaGabKKaaKbaaaMbMNbO=aHaaaaHHaaaJKaaaJKbaaaaaaaabMMMMbQQbaa', 0.4416), ('aaaaaaaaaaaaaaaaabaaHbKbN=aHJaJJJaJJbLJLJbMMbaa', 1.4671), ('HHaaaaaHHaaaabKaaKaKKabKKbMabQ=aIGJJaKJJaKbLLLLbMMMMbOObaa', 0.2682), ('EDaEDbF=aFGGbaa', 0.2558), ('DFaDFbG=aaDFFbaa', 0.2448), ('EaE=aDaa', 0.2304), ('FaFbF=aDEGGbaa', 0.2647), ('aaaaaJJaaaaaaaJJabaaaLMabSSSSbSTbY=aHGIaMMMMNaaMMMMNabSRQaSRQabSWSWbXXbaa', 0.2836), ('CaC=aDaa', 0.2315), ('JaaaIaaJaaaIabJLKbPRbV=aHIMLMLbORORbTTbaa', 0.2427), ('DDaDDbH=aEEaabaa', 0.2536), ('aDaaDbE=aDEaabaa', 0.2553), ('HaHaaHaHabHHbL=aGIHIHbNNbaa', 0.2468), ('IHHIHHIaHIHHIHIHaIHHIHHIaHIHHIHIHbLaMMLLbPPbPQbT=aHIaIIIIIIGIHHIKLaKLabaNMaaNMabRRbUUbaa', 0.3011), ('EaE=aCaa', 0.2266), ('IaaaaaaIaaaaabKKKaaaKKbPaabSSbT=aaaaaaaaJaaLKaMLKaMbMaMabaQaQbUUbaa', 0.16), ('DEaDEbL=aHHHbaa', 0.1316), ('DaaDabF=aEaaabaa', 0.144), ('DaDbG=aGHHbaa', 0.166), ('FFaFFbaabH=aaaaaaGaGbaabaa', 0.2474), ('aFFFaaaaaaFFFaaaabHGaGbHabI=aGFaFGGHHGGHHbIIbJJbaa', 1.6087), ('EEEGaEEEGbIIbI=aGGGGGGGGbJJbaa', 0.2599), ('GaHFGaGaHFGbIILLbLLbO=aGHHaHaHJJJJbMLMLbPPbaa', 0.2635), ('FaIHIaFaIHIbaaIIbLLbR=aaIHHIaLaILaIbLaLabPPbaa', 0.1504), ('DDaDDbG=aDEIIbaa', 0.1408), ('FaaFFaFaaFFbHHbJJbL=aFFGHaJHaJbKLKLbMMbaa', 3.702), ('aFaaFbF=aaDHHbaa', 0.2076), ('EEaEEbGIbI=aEFHHHHbJJbaa', 0.2341), ('aaEEaaaEEbHabK=aaGGGaHaHbIIbaa', 0.1793), ('EEaEEbK=aHHJJbaa', 0.1705), ('DFaDFbG=aDEHHbaa', 0.1324), ('JaaaJJaaaJaaaJJaabJMbaPbV=aFFLMLMbQPQPbSSbaa', 0.2629), ('HIaaHIabKKaaaabLKbNbP=aGGIaaIIKIIKbKKaKKKaKbMOMObOObaa', 0.274), ('IGaaaaaIGaaaabaaaaKKaabLMabOObP=aaaaaaaaaaaaaaaaaJaKaJaKabMaMMMaMMbOMOMbQQbaa', 0.3087), ('GFaaGFabGIbI=aFaGGHGHbJJbaa', 2.4355), ('GGGGaGIaGGGGaGIbKaLLbaPbV=aHFGMaMabRRbRRbaa', 0.2003), ('IaaaaHaaIaaaaHabKIaaIIbLaabONbP=aHHGaJKIJKIbaaLaaLbaMaMbQQbaa', 0.1865), ('FFaFFbH=aGGJJbaa', 0.1318), ('FaGaFaGbaJbL=aEGGHJHJbNNbaa', 0.1417), ('aaaHaaaaaaHaabHJbJKbN=aHaGHIHIbaJaJbMMbaa', 0.1956), ('aaEaaaEbGGbK=aGaIHIHbIIbaa', 0.1763), ('EEEEaEEEEbGabK=aFaEEHGHGbIIbaa', 0.1618), ('JaHKKKJaJaHKKKJbaaLLKbSaSSbSSbX=aaHHHaHHaHGHHHHHMLaMLMMMMLaMLMMMbRRRRbUVUVbZZbaa', 0.2976), ('aaa=aCaa', 0.0218), ('GJKKKaaKaGJKKKaaKbKaabRRbTWbY=aKaaKaaKaaKaaMaMLMaMaMLMabSPSPbTVTVbZZbaa', 0.3656), ('FaaFabaIKbLbO=aIHaaLLbMNMNbRRbaa', 0.267), ('FFFFFFaaaFFFFFFaabaaIbLObO=aHaFaaaaaJaaJbNLNLbaabaa', 0.2733), ('FaF=aEaa', 0.2276), ('FFFFaFFFFbIabJ=aEGHGHGbKKbaa', 0.2425), ('GaaGabG=aEFHHbaa', 0.2464), ('GGHGaGaGGHGaGbIabNbQ=aIFGaFLaaLaabLLLLbOObaa', 0.2532), ('IHaaaIHaabIIbMabNNbO=aHIaaJJaaJJJaaJbLLLLbaMaMbPPbaa', 0.2383), ('JaJbLLLLbNPbS=aHHaINMMMNMMMbRRRRbTTbaa', 0.3401), ('GaG=aCaa', 0.2378), ('JGaJGbJaaJMaJbPOPbQPbT=aaaaaaGaaaaaaLLbNaaNaabQRQRbVVbaa', 0.4431), ('FFFFaFFFFbKKbL=aGaFHHbMMbaa', 0.2556), ('DaaDabF=aEaabaa', 0.2295), ('JGIaJaJGIaJbJJbPNbV=aHaIJaaaMaaaMbNPNPbRRbaa', 0.1809), ('GGFGaGGFGbLbN=aHFaHIJIJbaabaa', 0.1734), ('FaaaFaabIaIIbLLbP=aGHKLLKLLbMMMMbRRbaa', 0.1697), ('IaaaaaaIaaaaabKaIKbLObP=aHaaLILIbMMbRRbaa', 0.1481), ('JaJaGaGaaJaJaGaGabLJJbORbV=aFFMMJMMMJMbaRaRbTTbaa', 0.1902), ('HaaHabKJbK=aaaGaHIHIbMMbaa', 0.2957), ('EaE=aFaa', 0.1308), ('HHaHHbIIIabKKbM=aHFaFaJJJJJJJJbLLLLbLLbaa', 0.2098), ('EEaEEbKLbN=aHHMMMMbOObaa', 0.1863), ('EaEbL=aFHHbaa', 0.1344), ('GaaIIIIIaaGaaIIIIIabJMbPPbPRbS=aHHHaMKaaMKaabaNaNaNaNbRRRRbVVbaa', 0.3022), ('IIaIaaGGGaaIIaIaaGGGabKJabPabSSbV=aJGIIaIJJMaMaJJMaMabaaMaaMbRRRRbUUbaa', 6.8152), ('GIaaaaaaaaGIaaaaaaabKaaKJJbMLLabOObQ=aHaaaaaaaaaJKaaKaaJKaaKbMMLaMMLabNNbOObaa', 0.2932), ('GDaGDbI=aGEHHbaa', 0.2355), ('DaD=aEaa', 0.2284), ('FIaaIaFIaaIbKKJKbLbP=aGIIGGLJLJbNMNMbQQbaa', 0.3362), ('JKKaaaaJKKaaabNLbOPabaTTabTbZ=aIaaaaaaaKNaaaaMMNaaaaMMbQQQQbRRbUaUabWWbaa', 0.2754), ('EaEbLLbM=aFHMMMMbQQbaa', 0.2708), ('IIIaFaIIIaFbLJNKbNObV=aHFFHaaNNKNNNKNbRNRNbRRbaa', 0.2387), ('EEaEaEEaEbGGbK=aaEaEGIGIbJJbaa', 0.2522), ('aaaKJKaJaaJaaJJJaaJaaaaaaKJKaJaaJaaJJJaaJaabLaaaaaaaaaaLaabQabTTbWTbY=aIaaaaaaJNaaLaNaaLabNaaaaNaaaabSaRaSaRabVUVUbWWbaa', 0.1994), ('GaaJJaaaaaGaaJJaaaabKKaKKaaKbPPPMbSSbV=aJaaaaJHLLKaMLLKaMbaMPPaMPPbRaRabaabaa', 0.2553), ('FHaFHbIMbQ=aaaGJLJLbPPbaa', 0.1483), ('FaF=aCaa', 0.1828), ('HHHaGHHHaHHHaGHHHbaaIabKJbN=aGHGGHaGaHaIHaIbJKJKbMMbaa', 23.4394), ('aaGaaGaaaGaaGbaaIabJabN=aFGGaHHbaJaJbMMbaa', 0.2679), ('JKHaJKHbLKKbPbSUbY=aGaGGHHGaGaNaKKNaKKbRRRRbUTUTbXXbaa', 2.8546), ('GGGIaGGGIbKaJaKKJabMMbSPbS=aHaaaaIaIaaMMKaMMKabMNMNbRQRQbUUbaa', 0.2453), ('FFaaaFFaabaLIbOObQ=aaaGGGKLaKLabLMLMbRRbaa', 0.322), ('EaaaEaabGGbK=aGaGIGIbJJbaa', 6.7773)]
+Date: 2020-09-05 22:39:23.305323
+
+Pool benchmarks/01_track/transformed, Seed: 20
+Model: v56/uniform
+Score: 199, Time avg: 0.44364673366834173 (2.0993537868804606), Intersection time avg: 0.18126178010471203 (0.08020206193229999), Num steps avg: -1 (-1) (199)
+Solver score: 191, Solver time avg: 0.16347391817582216 (0.05537926068929587), Intersection time avg: 0.16347391817582216 (0.05537926068929587),
+Steps: -1
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Details: [('aadbabccceabfffdcbdaadffeGfdeccdddefededcdbeecfabcAfbcbEefcceeaadbadcfacddbffddcadeed=aadbabccceabfffdcbdaadffeGfdeccdddefededcdDdbffddcadeed', 0.2494), ('FaaaaaaBFaaaaaaEaaaaa=BaaaaaaFFGaaaaaaaaaaaaa', 0.2342), ('aajebfAjaediebbjgjabhefg=aajebfBbhefg', 0.2195), ('aeceebcddfccabfeebbefdaCbefefecddecdefc=aeceebcddfccabfeebbefdadeddfbeebcfbbafabdcdbfdbcbbedGceeecefaeabdffbfbeafecfbbefefecddecdefc', 0.2064), ('abcdAcebdcAccbfebdfaaeeaecfeea=AcdAcebdcabccbfebdfaaeeaecfeea', 0.2516), ('hgeaacdieigieifggeJigiaeagaifaiaf=hgeaacdieigieifggeedaeccMdahhaLhcceiibhigiaeagaifaiaf', 0.2177), ('bccbacccacacbbcbbacaCaaacabccabcbbababcaaaaabcabccbbccbababbc=bccbacccaAaacacbbaccababaaacabccabcbbababcaaaaabcabccbbccbababbc', 0.2648), ('abbaFbbaaabaaaaabaBabbbaabaFFbbbabbabaaFaaaaFaaaaabbabaaabab=abbaababbaaFaaaFabbFbabaaabaabaabbaababbbaabaFFbbbabbabaaabaaaaaabaaaaaabbFaabab', 0.2564), ('fEaagdcafbagfa=fbabdddgLffOfAggbccgfdfbfcddgafccfaagdcafbagfa', 0.2117), ('B=G', 0.2183), ('dcdcebN=dcdcebMcbMaeGdeecaebedea', 0.22), ('AdAeeHcA=bdAFcA', 0.2858), ('hdcbeciaedcahahgafJggcgbaaiebfcdi=hdcbeciaedcahahgafacidagiFhgdcafggcgbaaiebfcdi', 0.2012), ('cBabbabBabBbBcbabcbcbb=cCBcbabcbcbb', 0.2352), ('aKaaAfadMdbbeMebebfdddacMMadceeecbcbfee=afedbbaMbaaeecdMeMdMcafddbbIfdbbeMebebMDdacfMadceeecbcbMee', 2.5219), ('CAaaEEaaaaaaaAA=GEaaaaa', 0.2426), ('abfbdegbhhNcCbKbegcabbgMeafgghcaC=abfbdegbhhNcdJegcabbgMeafgghcaC', 0.2459), ('fiOOEK=ficcdONOdgcgh', 0.2375), ('aabcbcbabaaabbbcacbbcccbcbbcaabbabcacccbAaacccaaaacbbabccc=aabcbcbabBaabcacccaaaaacccaaaacbbabccc', 0.2514), ('feefdAgfeaceebadcefdbddfgdbgcAAddfcecbaabacgdadeceaeabfbbAfebeffadbffdgcfgbgdaedgccedcbdgaccbdfdefabadf=feefdeggfeaceebadcefdbddfgdbgcegAddfcecbaabacgdadeceaeabfbbegfebeffadbffdgcfgbgdaedgccedcbdgaccbdfdefabadf', 0.238), ('JaaaaaaBaaBaaaaaaBBaaaaB=GaaBaaBaaBaGBBBBBBaG', 0.2882), ('DefBc=DefAc', 0.2187), ('gEgdbdccbcfcgaFab=gddeBcfcgaFab', 0.2281), ('aecaDacdffebcdcbdddfabcecfaacaeebabcaDdeAafcaddfbcaecbbcfeadddacdbceca=aecaDacdffeJacaeebabcaDdefdbdaeeafeGddfbcaecbbcfeadddacdbceca', 0.2436), ('bbbaGbaabaaaaBababbbbababbaaabb=bbbaGCabbaaabb', 0.2581), ('caaccCcaaccbcBbacabbccbcaccababc=caGJbccbcaccababc', 0.2428), ('aciJjaiijJehfhccbbJjaecdfAcdchciicdiedjbgeaechciiecjh=acibjaiijbDechciiecjh', 0.2964), ('abbbcaabbabccbcabaacbcbacabHccabbcacbbbcaaLaacc=abbbcaabbabccbcabaacbcLFbaabcaabacabbcacbccaaccbabbbccbccabbcacbbbcaabacaacc', 7.8287), ('cbccAc=cbcccbbbcbbcabc', 0.0679), ('hhfihhhgjgdEaaebaaH=hhfihhhgjNbiaaebaaOifibehed', 0.2702), ('dffddgcefafggbeafadafbcacfdfcdffbfcbeeaegbaegcdEfeecegffcfeaagfcadfcffdeddbgdbbgceeb=dffddgcefafggbeafadafbcacfdfcdffbfcbeeaegbaegcdbddcaddgfgadacdgfgbdbccDffcecbaefcfegebadbfagecfbdbfafeecegffcfeaagfcadfcffdeddbgdbbgceeb', 0.2171), ('dabcfdcadfaccfccdbbBCcbeddebceedfdbaccdfeeaebeecaecddbeaced=dabcfdcadfaccfIdfdbaccdfeeaebeecaecddbeaced', 0.2588), ('cggbffJeaaadfeebbceagd=cggbffeecggbabEgGdfdbdcdcgdcegbcegeaaadfeebbceagd', 0.2056), ('adeegdbbDdhaDcChfagaggadaeacecgdbcddeh=adeegdbbDdhafecHdfcfbdfgcfcbcbGddeh', 0.2543), ('fjeeejdcficBgadjbid=fjeeejdcficDdjbid', 0.2054), ('gadfgfdabgCgcefaecbgddefbefcfbf=gadfgfdabgaaacbdgcefbbgeegfdcdcdacfaddeegdegcccaedcAgddefbefcfbf', 0.2568), ('aeeeeedbaDeaeBddabcdcbbdbeddee=aeeeeeFbcdecbadcdbeaaddabcdcbbdbeddee', 0.2376), ('gfbhbefgbadbhebdddghdgEhCedcdcb=EbhbefgFDacbdfEbchfcdegcecedcdcb', 27.5321), ('bccHcagdjdaebDicicaccdeadfeacehdc=bccecijbbifhciibcfaaebecagdjdaebFjaachbbbcbiicicaccdeadfeacehdc', 0.2488), ('ffAbAeagacdebfegegdbeaeggdaegeegebfcgbfgefeAedafbAdddfEbbbaaAdaaccabAdfedffeea=ffcbceagaAdebfegegdbeaeggdaegeegebfcgDAdddfEbbbaacdaaAcabAdfedffeea', 0.2481), ('igfbFAJbFhd=iMd', 0.2219), ('gaeaiiEcgcjagjeffgghaff=gaIbjgfbeadhbehdifeijieadddjaidjhgMjjajjjhebcedeifhiaiejfdcdfcgcjagjeffgghaff', 0.2521), ('acabAbccbccabacbcccbabbbbaaccaccbacbcacabcbaaabcabacacaaccbcccacaaabaaa=acabccbacbbbbbcbbcccbbaacabbDccaccbacbcacabcbaaabcabacacaaccbcccacaaabaaa', 0.2364), ('hbgdjgabehbcihfhggfdijbjcBgiedhcjcibfffacgbgejibbgjadjeddhjehjj=hbgdjgabehbcihfhggfdijbjchjjfbfeijebfjabciadjchegiiedjdiihifdbfebiechbegiedhcjcibfffacgbgejibbgjadjeddhjehjj', 0.022), ('ccdegdegecdfbbfdgeedcaHafacbdfaeegdbaJeaacaEgefffccecfddcddcbgffcdaagebfeafddedegcdfe=ccdegdegecdfbbfdgeedcafacafacbdfaeegdbaJeaacaEgefffccecfddcddcbgffcdaagebfeafddedegcdfe', 0.0347), ('cEAiifgade=ceifeceFcifibiiifgade', 0.2365), ('cebhhefgdhhfdbdhcghaadfhagcgceeffahfeeaecgeaafgebecchabcaaecefgAdecbaadbaghchcfcgdbhchfbcfehbefgehgfadhdfhebfebdfhce=cebhhefgdhhfdbdhcghaadfhagcgceeffahfeeaecgeaafgebecchabcaCbfebdfhce', 0.2614), ('eafBjgfaihdfcbgffCgebgjgfdebeajefbe=eafbgieagfdcahedjjjdcjgfaihdfcbgffbafedhbebghehgfehibbjdejbdafiidcbbecDiahceaggigheiebjecfgebgjgfdebeajefbe', 0.268), ('AdAijjahaafgie=AdD', 0.2323), ('EEEEEEEEFEFaaaaaa=FFEFaaaaaaEFDaF', 0.2664), ('cefcdfBbgcdfedbGfgafbGgefdgcbadf=GefIdcbbfGfGbbgFgefdgGbadf', 1.3446), ('eJjcAh=efEG', 0.1759), ('HaccFcddcaebbaacabecdbbcecceacbacbcecbcHabedceaaeeadebadeHeaeac=dbaccGbbaacabeIbeaeac', 0.1719), ('BDDaaDaaDDaaAADaaaaaaDDaaDDDaaaaDaaDDaaaaa=FFFFa', 0.1626), ('bcecceddbdAbddbC=bcecceddbdAbddbacaababdcdadcebbbbdcbbebbdceedebcceedacdadbb', 0.022), ('fdfafeafegAcbgcdbgbfbgfeacegbcddgagbebgeadbbacdfaefaeffffbfgagaggebbcccddacecaddfed=fdfafeafegbbfbgegffgedegdfcgebgecgccadgdaefbfCdbbacdfaefaeffffbfgagaggebbcccddacecaddfed', 0.2387), ('bEadcbbdbdddbabdca=bbbdaaaaAcbdAdIdbdddbabdca', 0.2254), ('dIdedacdcccbecaeaddbcbccdebababbbbecadeddHec=dIdedacdcccbecaeaddbcbccdebababbbbecadeddbaeaFabbecabcbec', 0.2279), ('hbBCidhcffeghdie=hbBdggEebdehidhcffeghdie', 0.2413), ('aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaBBaaaaaaaa=ABaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', 0.2546), ('ccbccafdefdbfbcecefefbbbfefCdebEcbdfcbedcafaebbcdebdafdcbbedbbaeaadcaccbebcfffdccbfbabfcafe=ccbccafdefdbfbcecefefbbbfefCdebcbfbdefcbdfcbedcafaebbcdebdafdcbbedbbaeaadcaccbebcfffdccbfbabfcafe', 0.0222), ('KaaaMbJaccbcbbbNaccbaa=aNbcaaaaaabaacbcaabNabaDabacaaccbcbbbNaccbaa', 0.1651), ('aaaaaaaaaaaaCa=Aaaaaaaaaaaaa', 0.1291), ('hDegCjJedfc=hjeIcedfc', 0.1457), ('EHAEEHa=GGHA', 0.1461), ('baaaaaaabaaaBbaabbbbbbbaababbaabbbaaabbbbb=baaaaaaabaaaabbbbbbabbbabbabbbaabbaaaababbabbbabbaaGbaabbbbbbbaababbaabbbaaabbbbb', 0.1195), ('bcagfbaecAeffdaabdgfdeaff=bcagfbaecabcefffgdeaccfcegaaacdacedafccfddefeffdaabdgfdeaff', 0.0442), ('dcffhHcfebEi=dcfCDi', 0.2269), ('fgaAeedihbjhcei=fgagefiaidbgcafigeedihbjhcei', 0.0219), ('cbbbbbabcacabcbcJccccbacccaccaccaaaaaaabbbaccccaaabbacaacaaabbc=cbIbbbabbMaaaaaabbbaccccaaabbacaacaaabbc', 0.1715), ('aibejbhifjegjacgdBEjfbjefjbddhdbaejegdigdbg=aibejbhifjegjacgdbihfeDefjbddhdbaejegdigdbg', 0.1338), ('bCbbKEOOCCbacaCO=bCbGbaEabc', 0.1407), ('fabeafbgdaggecacdcadgfbgegfdfeebcggecaaebcefabgaaecdbddcfdBfccabggdaedcafgcbadaagdaaebc=fabeafbgdaggecacdcadgfbgegfdfeebcggecaaebcefabCecfdecdcfaagfaeeaccbafccabggdaedcafgcbadaagdaaebc', 0.1324), ('efdcffabAfdcb=efdcffabaeCbcecfdBddacBffdcb', 0.1555), ('bhebfdeeccfCbcaahjiDjciahhejiheacfgaibhfbdbeedf=bhebfdeeccfagbjiigfgecfdbcaahjiDjciahhejiheacfgaibhfbdbeedf', 0.0269), ('aecaabedddcfaeBfcacbedffadfbbdbddbef=aecaabAcfcacbedffadfbbdbddbef', 0.2518), ('ebcgadKdiecfaiifeeafffgafbhgdccdhfffdeffiebhieiefhHhhbehehbbgeghiggcdfbgadbgcdfcfdhhcfhfdcfcifefhggifheggbebfcca=ebcgLecfaiifeeafffgafbhEeggbebfcca', 0.253), ('ABaaaa=CB', 0.2068), ('deHfahgfEHbgHdfchjgbjhgafiagegfcijeJHdg=deifahGidg', 0.259), ('ieafbhdibeaghgcgaEafJbebgfbLegdfbfJffaahbdeegJiifbiJidJfafg=ieaFbiJidcfafg', 0.251), ('adcaccbaAecdbgadadafefdfffdfd=adcaccDggebcgdcbbecdbgadadafefdfffdfd', 0.2379), ('hhadbcdiiidcficcdhgaiegaEeebbgdhcbaeigbfggcceiehce=hhadbcdiiBgfhechbfFbgdhcbaeigbfggcceiehce', 0.2287), ('aabccbcNcJ=aabccbcccbcaaDacMabbacccbbbHbaabLccacbbaa', 0.2622), ('defefcbeebbbdcfeaeadabfaaeeaddddeaaefddfaffbdcfbaefbfadeb=defefcbeeAaaefddfaffbdcfbaefbfadeb', 0.0217), ('caccabbccEabbbcbcababbcbbbbbcabcbaa=caccabbccabacbbcCbcbbbbbcabcbaa', 0.1321), ('dbebgddbecfcbbAadeeaecAgebegeecafegebdbagddaadbddcaeeebfabfefabfacdgAgaabgegagf=dbebgddbeAfcbbAaIegeeAaDegagf', 1.3182), ('gbcfhagdhfhBhbaebihgbGdegbacgh=gbcfhFhBhbaebihgbGdegbacgh', 0.0217), ('jcjDhadca=jAieecghadca', 0.1308), ('aaaccbabaaccccaabbBaccaaaacbbbccccbccacacb=aaaccFcaaaacbbbccccbccacacb', 0.1493), ('Ebbbdbcdddbbdbdabaccdddbcbccdbd=cabbcacNcdaddbbacbOdddbcbccdbd', 0.1405), ('aababbaabbaaaabbbabaaabbbbbabbbaabbbbabbbAaaba=aabBbabbaaaabbbaabbababbaaabbaababababaabbaabababbabaaabbabbaaba', 0.1779), ('hhegdcaaggibgfhggichggiciiggdficiehhihaigaa=hhegdcaaggibgfhggiBhaigaa', 0.0219), ('gdaafhhaebdagfaefcbdffbcfdcfEgddbbegcbgeaacfdb=gdaafhhaebdagfaefcbdffbcfdcffeeFaegbbdecahdfdefdcdbaahafegddbbegcbgeaacfdb', 0.2409), ('baeeaaaeebbbdcddcbdcbcbAbbddaacebccdaaedeccbdbeeedaacddedacdbcedbbabcdbbccb=baeeaaaeebbbdcddcbdcbcbcdccbebdabceecacceaeabbddaacebccdaaedeccbdbeeedaacddedacdbcedbbabcdbbccb', 0.0224), ('eccGgiafdaeCbdaebcdheefccbbadiihhiBgheghihfceciagbggeecedbhdfggeadccfdichdcecdfg=eccGgiaDhfgheghihfceciagbggeecedbhdfggeadccfdichdcecdfg', 0.1368), ('eafbebbfeebfecgfc=eafbebbAfecgfc', 0.0306), ('cdacdeceecacedddeaedaebdcababaedbbddeeceaecccbdeecbdcecbaedbacacdebecedcabccdabccabbddbcbbacebcbbabcbdabaadebecabaccbaaceaecaabebcada=cdacdeceecacedddeaedaebdcababaedbbddeeceaecccbdeecbdAcdabccabbddbcbbacebcbbabcbdabaadebecabaccbaaceaecaabebcada', 0.022), ('icgaiHfhCf=HcgaiiFhfcdcHfifbcf', 0.1826), ('bbaaabbbabBbabbbbbabbbbbabbbabbBbbbaEaaabbBaaaaaBbbaabbbaabbbbbbbbaabababaa=bbaaabbbabbabBbbbbabbbbbabbBbbabbbbaaabbBbabaabaaaababbFaabbbabaaaaababbbaabbbaabbbbbbbbaabababaa', 0.2663), ('dcbgbggeagdfbbgdfebffacgEgcedacebdfabcbfafgacggebbfegfdceeabecgdgbcd=dcbgbggeagdfJbBfbffgbegacfdbdIbdfabcbfafgacggebbfegfdceeabecgdgbcd', 0.262), ('igEehEbjadCideeeEgbifechcheid=igfehEbjFeideeefgbifechcheid', 0.2692), ('aJaaaaLacbbbabbJccGJaJaaLaaaJLbaLcabaaLabLa=aJaaaaGaGbJJaJbbLLGIabGJaGLaJaaGaJLa', 3.8614), ('KMaNaaaaa=MIaaaaaaMaaMaaMMMaaaaMaaMMMMa', 0.2448), ('edffcbeeagAbdgbfaedcfecdbJbggcefgdfecedceeccedcec=edffcbeeagcgecbGffbbdebbcbcbcacedebabbggcefgdfecedceeccedcec', 0.2653), ('bbcddbeghhbcfhefhgehgggfdgcahbBdbcgafgccf=bbcddbeghhAfgecacffbbgggebcgfgcfgbaddcdbbfggdegddbcgafgccf', 0.2353), ('CaaababCbbCabbabbabbababbCabaaaabaaaabCbbbbabbbabaaabbCbCaabababaabaaabaabbbaaabb=baFCbbaaaabababaaCaCbbCabb', 0.2704), ('aacadcacdabddadbdabG=aaCabddcaccbccaacaadbccababbacc', 0.2745), ('fbcadfffcabbcefaccaddaeefbdadfedebebcadcBdebdfcdaabaaadbfab=fbcadfffcabbcefaccaddaeefbdadfedGcbeafceaaefdaeefedebdfcdaabaaadbfab', 0.2394), ('dbbdcabbcacedceBaccaaedeaedeaeccbbedcdcbebdaabbbabbdaaaddbbcbaadeedaceadcabaabebddeacdddaabbbaececebbcbedab=dbbdcabbcacedceebceedebceeeeaebcdbceaacdbcbbdaccaaedeaedeaeccbbedcdcbebdaabbbabbdaaaddbbcbaadeedaceadcabaabebddeacdddaabbbaececebbcbedab', 0.0227), ('abcccacbEabcabcca=abcccacbaGbcacbbbaaaacbbabcabcca', 0.1431), ('aCg=ajccDjg', 0.1467), ('gcfedcedggeedcfedgfcgbabgcgAgacaedgdeaeddafdcdefgbafdabfeaddbgfeddefadaeddcdaegbbbccdbffdfbefbdgcdbfggfcdffgfcabebdgabdg=gcfedcedggeedcfedgfcgbabgcgdccffccddcffgacaedgdeaeddafdcdefgbafdabfeaddbgfeddefadaeddcdaegbbbccdbffdfbefbdgcdbfggfcdffgfcabebdgabdg', 0.0375), ('cccabGbaacbGbbAacbcbbccbbaaacabcacab=cccabGbaacbGbbcaGacbcbbccbbaaacabcacab', 0.2169), ('bcccaccbaaaabbcbcEccbbbccc=bcccaccbaaaabbcbcbDbbccc', 0.2451), ('fgdgbgeaafLfabfafbefgbdcaffcaagbccbHagdbfabbcceccgcecefeadeagddgeebdedbcfgabgeagfggdebecccecfcgf=fgdgbgeaafbfeeedefeCabbcceccgcecefeadeagddgeebdedbcfgabgeagfggdebecccecfcgf', 0.2571), ('J=M', 0.1978), ('gbDcEhAggf=gbhgceghFhggf', 0.2331), ('dcA=dcaB', 0.2181), ('EEEG=FFIaaaaaaaaaGGaaaaaaaaaaGaaaaaaaa', 0.2849), ('abdcbddabcddaHccdcdaaaccddbcaacaacacccabbbbcbbc=abdcbddabcddFaacaacacccabbbbcbbc', 0.2054), ('fbaiigcfaggfiehhgbacfbccafcbaebecbhfbdidaedhbgfcddfcbAfhgbfcfcccgfdafeehaibhficaedfficcdgae=fbaiigcfaggfiehhgbacfbccafcbaebecbhfbdidaedhbgfcddfcbcffbcdabhgahehfdecfaffdedafgicdacdcgebecagchdccgfacadbahgiagfhgbfcfcccgfdafeehaibhficaedfficcdgae', 0.0218), ('bbeeeaefaddddcfdbJe=bbeeeaefaddddcfdGeDfedfdcbccfccadacbaaffcffbce', 0.1671), ('babbbaabaaababbEaaaababbabb=babbbaabaaababbbabababaaabababbaaababbbabbaaababaaaabbGabbbbbabbbbbaaaaaababbabb', 0.1198), ('gjB=A', 0.2), ('dFbddddaaaaabacaddbdbacaFcEcadF=dbFddddaaaaabacaddFdFacabcFabaFcaaddbdaFacadaFbabaaabdabcdacadF', 0.2225), ('abeDHafbde=abCMheecafbde', 0.1656), ('A=C', 0.1245), ('bbaaaEaaababbbabaaaabaaaabbba=bbBbbbbaaaaCbabbbaaabbbabbaaabaababaaabbbaaaabaaababbbabaaaabaaaabbba', 0.1797), ('cJcbgagcdddcGbgebeIcdgdafegbccedfaeefa=cJcbgagcIdcGbgebeIcdgdafegbccedfaeefa', 0.0216), ('bcabbbcbccbccccccaCcbaabccabbcaccbaaaaba=bcabFcbccccccaCcbaabccabbcaccbaaaaba', 0.0378), ('aijebibadgbbbgebhfjaieeagjfeeceibFghjEeddhiffcgbdibgheacdijbgighgaiibhgachdjj=aijebibadgbbbgebhfjaieeagjfeeceibcffjjfdbciciaefighjEeddhiffcgbdibgheacdijbgighgaiibhgachdjj', 0.0218), ('dgcfachbfadadbcbedchiabgdEecdbbbicefadie=dgcfaBadbcbedchiCbbbicefadie', 0.2479), ('dgabddihghgafhhdhiigiffddgbgcbihhfaiccbicchihaddbfficdbdhdbibifceaceifbifadcfeacdfhefhacehiicbgiedhhcbhbicfdbiehfgaadhcahecicbchcdbabfiidfbdf=dgabddihghgafhhdhiigiffdChhfaicAacehiicbgiedhhcbhbicfdbiehfgaadhcahecicbchcdbabfiidfbdf', 0.2625), ('ebfEjihfchDdaJcHJcDjgcDaciDhhhhJDiDajfefccghiahgdbjddD=OjafijihfchjdaJcahaecjjgMhhJjiDaDfJfccghiahgdbjddD', 7.9258), ('bbaabbbacbJccbccccbabaacbabaabbaacbbacaaaaabcbabccccbccaabacbbccbcbaaD=bbaabbbacbbbbbcbcbcacbbabDaabaaabacDbbcbbcacccbbDaccabbaabccccDaccbccccbabaacbabaabbaacbbacaaaaabcbabccccbcDabacbbccbcbaaca', 0.2003), ('AAAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa=AaaaaaaaaaaaaaaaaaaaAaaaaaaCaaa', 0.1309), ('bJbEdfd=bD', 0.1524), ('CGGaaaaaaaaaaa=FGaaaaaaaaaaaaaa', 0.167), ('dbdeIbbbJedbbedaaaecdeaabedeabIabcbccbcdd=dbdeIbbbdadbcceecGbbebbCcbccbcdd', 0.1392), ('cac=cA', 0.0216), ('chagiagcijeaibgdfifiBgdcabfcdbdgajdahhfggb=chagiagcijeaibgdfifibicdjAcdbdgajdahhfggb', 0.237), ('ghaiehabecigefgibdchcidcbhchagdgchiacdchcghfcaafbfgaghcgedddaaghchgdhgghibegagghaiciacdgbcadhbcgfifefgcbfcagddebddbeibedfecbh=ghaiehabecigefgibdchcidcbhchagdgAbddbeibedfecbh', 0.0218), ('debgjbaigeeijejgaJgiicHjegjjbeiidhebbgifjcgigejeddaiahageajjfiejajdajfbcjehgeec=debgjbaigeeijejgabfcgecjfaGfjcgigejeddaiahageajjfiejajdajfbcjehgeec', 0.1406), ('aEcaAccbccaabaccbbbcbbaabccbccbbabcbab=abCGab', 0.2601), ('cfaeggdifAiigbacihegbhifichcbJahBcfbcfideggigdfigciibeefhigcegaeiaefihgdffbaicfiehfhai=cfaeggdifefhahcciigbacihegbhifichMfdhicfbcfideggigdfigciibeefhigcegaeiaefihgdffbaicfiehfhai', 0.2844), ('abcaccccccabEbcEccacbcaEcaaaaEcbacccacbcbccaaaEabccccacH=abcG', 0.2121), ('fcFfCccd=fcFfghehahcaaaccd', 0.0274), ('abadcaaebeaeaeebadDeCeeeeeebbbcbddeabdcec=abadcaaebeaeaeebadDeabbFebbbcbddeabdcec', 0.2583), ('ihchaibihfegfefjhhfehbCgefbgigbjdCdbjidfjadhiaeaca=ihchaibihfeCfFgiCbjdgdbjidfjadhiaeaca', 0.2562), ('defcfacdggfKcfbeddecfcgegddagccbbbeebcdegadcddbcbcfbadeeadafcBbbfgebdbeeabdaaabffageddg=defcfacdggfcddcfGaccfafcdgdefffacfecdfedbagacfgefgeabbfgebdbeeabdaaabffageddg', 0.2609), ('baaabCabba=bBabbGBbBbBbaabba', 0.2568), ('jdbebdbbfegbeBhhdeihadg=jdbebdbbfegbegffeiddigihAfjfeghhdeihadg', 0.1992), ('bcAaabAaaaacAbabbbcAabbbAabcA=bAAaabAaCbbbcabAc', 0.2538), ('gAh=Dfhffhhgccgcddhegfhbh', 0.2424), ('aecfddedeebEdbcaedadcabceffcffecfbcbfabccbedfdfbeec=aecfFebaebbcbbbaccfacdcdaccbfcbaaDdfbeec', 0.2575), ('FhbaahhegbFEcbaaedcgdfgedeFgbegebf=fhbaahhegbFcbFhhcbFcFFeedhhecbaaedcgdFgedefgbegebf', 0.2556), ('efacfebffaaddcbdffbedffcfdcdccffdecaaaBdcaafebeefdfeacfcaabefaa=efacfebffaaCcdccffdecaaaBdcaafebeefdfeacfcaabefaa', 0.0222), ('bggfadfebcbcddebgbadgabffeegcbbgceaceaefefeababacedfcafdbEbgc=bggfadfebcbcddebgbadgabffeegcbbgcMafbeegcfafgbfbceadaeecaegfadgebbfdcddafcaeadaafdeabgeccceagaecdbgc', 0.1561), ('aabbhChCfcbcdCEibbeaeibih=aabbhChfCcbcdfegebCbbcheiGbbeaeibih', 0.132), ('bDbbbabbabbaabababababbabaabbbbaaDDbabbbbbaDDAbbabababbbaabaababaaaaabDbbbababbDababaaaaaabbbabbaabbab=baabbbbabbabbDababababbabaabbbbaaaabaabbabbbbbaDaabbbbbbababaabaababbaDbbDbbbDbabababbbDDabaaaaabaabbbbababbaabababaaaaaabbbabbDbab', 0.1515), ('cBbdebEcbacbabadd=ceeecbcbbcebdebbbbeeMbacbabadd', 0.1363), ('eddecfagdfggaffadcJae=eddecfaMdbggbfeaae', 0.1792), ('ehajgfedff=eAgfedff', 0.0217), ('cddabcbbdbbbaaabbdaaaabadadbabbddabdACbacbdcb=cddabcbbdbbbaaabbdaaaabadadbabbddabdcbdCbaAcb', 0.2528), ('ebdEccdebcdcecbeceecceEbEddEdEEecbeebbbbdbEaebdcbbcdecbdaeeacbEEbcaEdcceedEbeddcEacdd=Gd', 0.2154), ('deecbcgcfgbebdccagageBegbAfdddbaabfegbbggcadfaaeagdf=deecbcgcfgbebdccagageBegbebcaeccedbedefbfdFgbagebcbfacgadbefcffcgceeeddfdddbaabfegbbggcadfaaeagdf', 0.2367), ('caaacJbababcbabaaccaabbabaaacabcababcaaaabaaccEcccabbbabccacabccaacbbabcbbcbacbccbccbaaacba=caaacJbababcbabaaccaabbabaaaGcbbcbacbccbccbaaacba', 0.2291), ('cbabFabaacbcacb=cbabaccccEbbbaabaacbcacb', 0.2382), ('IMbdghehfc=gbhffMbdghehfc', 0.0217), ('ehbfhaffcgchhdbeffgaEFfhe=ehMdedeefhe', 0.1358), ('N=GM', 0.1365), ('bcbabcaabbabbcbcbcaabbcccbabBaaaababba=bcbabAcaabbcccbabcabcabcbbcacbbccccbcabaaabbabbbaacccbbaaacbaaaccacbacccabcacabcbaaaaababba', 0.1386), ('geiebjgigEajfdjbgijciabdefeedcc=geiebjgigiacbdjddcdcbibcaabejbghcegibigbceaaefghbdehhfcbbecjhfgigfDgijciabdefeedcc', 0.1575), ('jddfbcgidjajfjebjiejjiiddecigbhhigbdjbdjabjdjaigCidegjjajgedciad=jddfbcgidjajfjebjiejjiiddecigbhhigbdjbdF', 0.1592), ('adaebhihggahhgdfdifhBhdfhcdibhihegaciggice=adaebhihggahhgdfdifhehbfbddbhcfahehcfggcegabdddcgacdfgeFgaciggice', 0.1374), ('cabeBdccbAbaBBedcafdBedeefeaaeb=cabefdGcBabeacbccedbcdbbdddbedbaBfedcaBdfedeefeaaeb', 1.332), ('acbbFbaFEcbcbaF=acbbcbacaabcbFabcabbcFFFbaaFFcabbFababbaaaFcaFabFbFbaF', 0.232), ('ehcaCjdbIcc=ehcabgFefhgaejjgadebdgcdabjdbcII', 0.2687), ('E=G', 0.1922), ('bbbaaabbaaaaaaabCabbbabbaababbababaaabbbbbbbbaabbbbaabbabbaabbabaaabbbbbaababaaaba=bbbaaabbaaaaaaabaabaabbaabFbbababaaabbbbbbbbaabbbbaabbabbaabbabaaabbbbbaababaaaba', 0.2686), ('ebiihfddacgjhfEiadIfgcbejhijahfigeehggifbdi=ebiihfddacgjhfEiadaaieigfgcbejhijahfigeehggifbdi', 0.0219), ('bebedhdDfcadechdaddffaebfhdeBchdegeecbbacggbgcbefcfhbgabhcgecfgeehaeafaaaahchbegehchegbcegbcdhbcd=bebedhdDfcadechdaddffaebfhdegccchcbdcehedcehaeachghehhededaddhcehgbchdegeecbbacggbgcbefcfhbgabhcgecfgeehaeafaaaahchbegehchegbcegbcdhbcd', 0.0293), ('dddchdDffcabffabdebachhafcdaeefdbcdaegeahcchghhbh=dddchdbgffcabffabdebacAhcchghhbh', 0.2366), ('baaccbadaEaaccdcaabcbdcb=baaccbadaadddcaabaccacaaccdcaabcbdcb', 0.0221), ('ceedcbeadAcccbfdd=ceedcbeadgahehbbdgbaebceCchcdabcccbfdd', 0.1301), ('bdbccabdddadadbccdacAbcbdabBaadaddbabac=bdbccabdddadadbccdacabdacdCbBaadaddbabac', 0.1614), ('gjegbbbihOdgagchhihgbjbbacjJjejfacddficgcjgfc=BieggMjhfafeicfbghbbjejfacddficgcjgfc', 0.1624), ('ccacbbcbcaaBbbcaa=ccacbbcbcaabaaacbabcccbcbbbccabFccbcbcbabbcaccbbaaccacacccaabcccaaaaaabcbbcaa', 0.1204), ('dbcAhAhhcahiigibAieAdgcgacihfifdALeAdahgeeibhhfiaeehhaAfccgfeagegg=dbcADiffAaggAAAbafeAdaAgeeibhhfiaeeAAaAfccgfeagegg', 0.1665), ('E=M', 0.1214), ('AccAbccB=CccAbDbcCcA', 0.1963), ('caaabbbbbcbbAc=caaabbbbbcbbbbcacacabcbbbabababbaaabaabc', 0.0464), ('cdebedDccceebddbbadbDdeebadabaaacdebcce=cdebedebdcccAce', 0.1979), ('bAAAcbc=bFbc', 0.119), ('aaadbcbAccdcccdebbcffcbbadAfafcbccbAedfaAccaacffaaAfeafacdccadabbdbAeccbcbcdedecaaddaebfddbaabcabffadcaeAaababfaeed=aaadbcbfccdcccdebbcAAcbbadAfaAcbccCdabbdbAeccbcbcdedecaaddaebAddbaabcabAAadcaefaababfaeed', 0.2243), ('efbghbcgghaidgbajjigfjbaffeidgjiajeaigigcbaicejjchhEihghgdbgihegecaidjefhcijdgdbhh=efbghbcggBajeaiFjefhcijdgdbhh', 0.183), ('fCE=DG', 0.1536), ('DabbAccbbcbcb=DabbDacabababbccbaaccDabcaaabDcabcbbcbcbbaaDcbbcbcb', 0.1362), ('BaaaaJAAaa=FAaaaaaaGaaaaaaaaaaaaaaaGIAAa', 0.1599)]
+Date: 2020-09-05 23:49:31.494733
+
+Pool benchmarks/02_track/transformed, Seed: 20
+Model: v56/uniform
+Score: 2, Time avg: 11.038 (10.7809), Intersection time avg: 0.2571 (0.0), Num steps avg: -1 (-1) (2)
+Solver score: 1, Solver time avg: 0.12967181205749512 (0.0), Intersection time avg: 0.12967181205749512 (0.0),
+Steps: -1
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Details: [('AaAbBbC=aABBbCCbaa', 21.8189), ('AaAbB=aABBbaa', 0.2571)]
+Date: 2020-09-06 00:21:21.667362
+
+Pool benchmarks/03_track/transformed, Seed: 20
+Model: v56/uniform
+Score: 134, Time avg: 0.8266858208955223 (2.6545408191662543), Intersection time avg: 0.24314462809917356 (0.07462563310130628), Num steps avg: -1 (-1) (134)
+Solver score: 121, Solver time avg: 0.2100758926927551 (0.08129415921106103), Intersection time avg: 0.2100758926927551 (0.08129415921106103),
+Steps: -1
+SIDE_MAX_LEN: 20, num_vars: 26, num_letters: 26
+num_channels: 64, num_residual_blocks: 2
+num mcts simulations: 10
+Max solver time in mcts: 800
+Comments: 
+Details: [('aaaaFaaaaaaaFaabGHbaHbI=aGFaGGGGbHaHabaabaa', 13.8553), ('JGGaaJGGabLLbPPbV=aGaGaHaGHMMMMbQNQNbRRbaa', 0.1841), ('GaGGGGGGGaGGaGaGaGaGGGGGGGaGGaGaGbKaKaKaKKbMLbMObO=aGaaaHGaGGGaaaJKKaaJKKaabLaaLaabMMMMbQQbaa', 0.1859), ('EFaEFbG=aaEJJbaa', 0.2531), ('aaIaaIIaaaaIaaaIaaIIaaaaIbJaaaJJJabaMOabQSbV=aJHIIaaIaaJaaaMJaaaMbNNMNNNMNbSSSSbTTbaa', 0.2637), ('FFaFFaaaaFFaFFaaabaaaabIIbI=aGFFaaFFHaHabHIHIbJJbaa', 0.2887), ('FGGGaFGGGbKaabLbR=aHaaGLLbMMbQQbaa', 0.1562), ('HaaaaaaaaHaaHaHaaaaaaaaHaaHbaaaaIbLaaLbNMbP=aHaaHHaaaaHaaJaaaaJaaaabLaLaLaLabMNMNbQQbaa', 0.1999), ('FaFbGIbK=aGGHHbJJbaa', 0.1723), ('FaaFabaFbH=aEaaGFGFbGGbaa', 0.1488), ('DaDbK=aFHJJbaa', 0.1435), ('HaaHIGaHaaHIGbOMaaMbPRSbSSbY=aHHHHHaaHaaaaMMaaaaMMaabQRRRQRRRbVTVTbZZbaa', 11.2959), ('FaFaaFaFabGGbJ=aaFEaaaabIIbaa', 0.1966), ('HHFHaHHFHbKbK=aFGEEHJHJbNNbaa', 0.2681), ('GGGGGaaGGGGGabIaaabIbJJbL=aGaaaaaaaaaaaaaHHaHaaaHHHaHaaaHbaJaaaJaabJKJKbKKbaa', 3.6439), ('JIaJIbLabPPbS=aHGaNNbQQQQbVVbaa', 0.2737), ('aEaaEbF=aDDEEbaa', 0.2412), ('GFaGFbG=aEEHHbaa', 0.1629), ('GaaaaaaGaaGaaaGaaaaaaGaaGaabaKIKKIKKbKKbMObQ=aHaaGGaaJJaIKIJJaIKIbMLMLbNMNMbPPbaa', 0.169), ('HFaGGGGaHFaGGGGbLbNbP=aFGHHGFIaaIaabLLLLbOObaa', 0.3217), ('GGGGGaaGGGGGabKaKKKaKIbKKbaNbQ=aaHHHaHaaaGHaaHJJIKJJIKbMMMMbMMbPPbaa', 0.2169), ('EaEbLbN=aHHHaJJJJbMMbaa', 0.1665), ('HaaaaHaaabHHbaabN=aGaaaaaaJaJaJaJabKaKabMMbaa', 0.1601), ('GaaaGaabKKbPaPPbSbS=aHaaaLJaLJabPaMPaMbQRQRbaabaa', 0.2637), ('EEaEEbKKbN=aFHIJIJbQQbaa', 0.2608), ('aaaaaaGIaaaaaaaaGIabaJKMKbMOOPbPSbV=aHGMLMaJMLMaJbOOMOOOMObQPQPbaabaa', 0.2822), ('DaD=aCaa', 0.2456), ('EFaaEFabLKbN=aHEKJKJbQQbaa', 0.1871), ('GaGbKLbRRbS=aaaFJILLaLLLaLbRNRNbUUbaa', 0.1686), ('EDaEDbF=aEaEEbaa', 1.5006), ('EaaEabE=aEEaabaa', 0.256), ('GHaGHbJKaabLLbNNbO=aHGJJaaJJaabMaaMaabMMMMbQQbaa', 0.1938), ('EaEbK=aHHLLbaa', 0.1408), ('HEGaHEGbIKbK=aaEaGHHHHbMMbaa', 1.3844), ('HFFaHFFbKKbK=aGEHHHHbLLbaa', 0.2558), ('JaaHaJaaHbKJbPNbS=aJJMMMMMMMMbRRRRbRRbaa', 0.2929), ('aaFIaFaaaFIaFbJaabLLbO=aHFaLLLLbMMMMbPPbaa', 0.2716), ('DaDbG=aEFJJbaa', 0.1417), ('IFaaaIFaabKJbRNbV=aHHaaMNJMNJbRRRRbRRbaa', 0.1684), ('EGGGaEGGGbKKbN=aEEEaaMaMbMMbaa', 0.6094), ('EDaEDbH=aFFFFbaa', 0.2588), ('EGFaEGFbKIbM=aEFIIMIMbQQbaa', 0.2688), ('FFEaFFEbKKbN=aaFEJJJJbLLbaa', 0.2685), ('HaaHabKabL=aEaGHHbMMbaa', 0.1901), ('FaaaFaabaHHHbaKbM=aGaaHaJHaJbaLaLbaabaa', 0.2985), ('FDaFDbH=aDGJJbaa', 0.264), ('GIIaaaaIaGIIaaaaIbKKKJbOPbPSbV=aHIaaaIaMMMJMMMJbMMMaMMMabRaRabUUbaa', 0.169), ('aaaaaaGaaaGaaaaaaaaGaaaGabKKaaKbaaaMbMNbO=aHaaaaHHaaaJKaaaJKbaaaaaaaabMMMMbQQbaa', 0.4329), ('aaaaaaaaaaaaaaaaabaaHbKbN=aHJaJJJaJJbLJLJbMMbaa', 1.5078), ('HHaaaaaHHaaaabKaaKaKKabKKbMabQ=aIGJJaKJJaKbLLLLbMMMMbOObaa', 0.3513), ('EDaEDbF=aFGGbaa', 0.2824), ('DFaDFbG=aaDFFbaa', 0.2464), ('EaE=aDaa', 0.2381), ('FaFbF=aDEGGbaa', 0.2489), ('aaaaaJJaaaaaaaJJabaaaLMabSSSSbSTbY=aHGIaMMMMNaaMMMMNabSRQaSRQabSWSWbXXbaa', 0.2854), ('CaC=aDaa', 0.244), ('JaaaIaaJaaaIabJLKbPRbV=aHIMLMLbORORbTTbaa', 0.2783), ('DDaDDbH=aEEaabaa', 0.245), ('aDaaDbE=aDEaabaa', 0.2565), ('HaHaaHaHabHHbL=aGIHIHbNNbaa', 0.2678), ('IHHIHHIaHIHHIHIHaIHHIHHIaHIHHIHIHbLaMMLLbPPbPQbT=aHIaIIIIIIGIHHIKLaKLabaNMaaNMabRRbUUbaa', 0.2582), ('EaE=aCaa', 0.2553), ('IaaaaaaIaaaaabKKKaaaKKbPaabSSbT=aaaaaaaaJaaLKaMLKaMbMaMabaQaQbUUbaa', 0.1663), ('DEaDEbL=aHHHbaa', 0.1521), ('DaaDabF=aEaaabaa', 0.176), ('DaDbG=aGHHbaa', 0.1487), ('FFaFFbaabH=aaaaaaGaGbaabaa', 0.1872), ('aFFFaaaaaaFFFaaaabHGaGbHabI=aGFaFGGHHGGHHbIIbJJbaa', 1.6518), ('EEEGaEEEGbIIbI=aGGGGGGGGbJJbaa', 0.2967), ('GaHFGaGaHFGbIILLbLLbO=aGHHaHaHJJJJbMLMLbPPbaa', 0.2706), ('FaIHIaFaIHIbaaIIbLLbR=aaIHHIaLaILaIbLaLabPPbaa', 0.1794), ('DDaDDbG=aDEIIbaa', 0.1406), ('FaaFFaFaaFFbHHbJJbL=aFFGHaJHaJbKLKLbMMbaa', 3.7537), ('aFaaFbF=aaDHHbaa', 0.1985), ('EEaEEbGIbI=aEFHHHHbJJbaa', 0.3036), ('aaEEaaaEEbHabK=aaGGGaHaHbIIbaa', 0.3065), ('EEaEEbK=aHHJJbaa', 0.2523), ('DFaDFbG=aDEHHbaa', 0.3114), ('JaaaJJaaaJaaaJJaabJMbaPbV=aFFLMLMbQPQPbSSbaa', 0.4162), ('HIaaHIabKKaaaabLKbNbP=aGGIaaIIKIIKbKKaKKKaKbMOMObOObaa', 0.2502), ('IGaaaaaIGaaaabaaaaKKaabLMabOObP=aaaaaaaaaaaaaaaaaJaKaJaKabMaMMMaMMbOMOMbQQbaa', 0.2404), ('GFaaGFabGIbI=aFaGGHGHbJJbaa', 2.3994), ('GGGGaGIaGGGGaGIbKaLLbaPbV=aHFGMaMabRRbRRbaa', 0.242), ('IaaaaHaaIaaaaHabKIaaIIbLaabONbP=aHHGaJKIJKIbaaLaaLbaMaMbQQbaa', 0.2917), ('FFaFFbH=aGGJJbaa', 0.2612), ('FaGaFaGbaJbL=aEGGHJHJbNNbaa', 0.2547), ('aaaHaaaaaaHaabHJbJKbN=aHaGHIHIbaJaJbMMbaa', 0.1589), ('aaEaaaEbGGbK=aGaIHIHbIIbaa', 0.185), ('EEEEaEEEEbGabK=aFaEEHGHGbIIbaa', 0.1535), ('JaHKKKJaJaHKKKJbaaLLKbSaSSbSSbX=aaHHHaHHaHGHHHHHMLaMLMMMMLaMLMMMbRRRRbUVUVbZZbaa', 0.2365), ('aaa=aCaa', 0.0588), ('GJKKKaaKaGJKKKaaKbKaabRRbTWbY=aKaaKaaKaaKaaMaMLMaMaMLMabSPSPbTVTVbZZbaa', 0.3798), ('FaaFabaIKbLbO=aIHaaLLbMNMNbRRbaa', 0.3148), ('FFFFFFaaaFFFFFFaabaaIbLObO=aHaFaaaaaJaaJbNLNLbaabaa', 0.2885), ('FaF=aEaa', 0.2853), ('FFFFaFFFFbIabJ=aEGHGHGbKKbaa', 0.2838), ('GaaGabG=aEFHHbaa', 0.2502), ('GGHGaGaGGHGaGbIabNbQ=aIFGaFLaaLaabLLLLbOObaa', 0.3429), ('IHaaaIHaabIIbMabNNbO=aHIaaJJaaJJJaaJbLLLLbaMaMbPPbaa', 0.3224), ('JaJbLLLLbNPbS=aHHaINMMMNMMMbRRRRbTTbaa', 0.1779), ('GaG=aCaa', 0.1404), ('JGaJGbJaaJMaJbPOPbQPbT=aaaaaaGaaaaaaLLbNaaNaabQRQRbVVbaa', 0.4502), ('FFFFaFFFFbKKbL=aGaFHHbMMbaa', 0.2963), ('DaaDabF=aEaabaa', 0.2386), ('JGIaJaJGIaJbJJbPNbV=aHaIJaaaMaaaMbNPNPbRRbaa', 0.2234), ('GGFGaGGFGbLbN=aHFaHIJIJbaabaa', 0.1803), ('FaaaFaabIaIIbLLbP=aGHKLLKLLbMMMMbRRbaa', 0.1588), ('IaaaaaaIaaaaabKaIKbLObP=aHaaLILIbMMbRRbaa', 0.1594), ('JaJaGaGaaJaJaGaGabLJJbORbV=aFFMMJMMMJMbaRaRbTTbaa', 0.1995), ('HaaHabKJbK=aaaGaHIHIbMMbaa', 0.3322), ('EaE=aFaa', 0.1647), ('HHaHHbIIIabKKbM=aHFaFaJJJJJJJJbLLLLbLLbaa', 0.1867), ('EEaEEbKLbN=aHHMMMMbOObaa', 0.1483), ('EaEbL=aFHHbaa', 0.1413), ('GaaIIIIIaaGaaIIIIIabJMbPPbPRbS=aHHHaMKaaMKaabaNaNaNaNbRRRRbVVbaa', 0.3257), ('IIaIaaGGGaaIIaIaaGGGabKJabPabSSbV=aJGIIaIJJMaMaJJMaMabaaMaaMbRRRRbUUbaa', 6.9658), ('GIaaaaaaaaGIaaaaaaabKaaKJJbMLLabOObQ=aHaaaaaaaaaJKaaKaaJKaaKbMMLaMMLabNNbOObaa', 0.2718), ('GDaGDbI=aGEHHbaa', 0.2413), ('DaD=aEaa', 0.2768), ('FIaaIaFIaaIbKKJKbLbP=aGIIGGLJLJbNMNMbQQbaa', 0.3523), ('JKKaaaaJKKaaabNLbOPabaTTabTbZ=aIaaaaaaaKNaaaaMMNaaaaMMbQQQQbRRbUaUabWWbaa', 0.287), ('EaEbLLbM=aFHMMMMbQQbaa', 0.304), ('IIIaFaIIIaFbLJNKbNObV=aHFFHaaNNKNNNKNbRNRNbRRbaa', 0.2839), ('EEaEaEEaEbGGbK=aaEaEGIGIbJJbaa', 0.2636), ('aaaKJKaJaaJaaJJJaaJaaaaaaKJKaJaaJaaJJJaaJaabLaaaaaaaaaaLaabQabTTbWTbY=aIaaaaaaJNaaLaNaaLabNaaaaNaaaabSaRaSaRabVUVUbWWbaa', 0.2678), ('GaaJJaaaaaGaaJJaaaabKKaKKaaKbPPPMbSSbV=aJaaaaJHLLKaMLLKaMbaMPPaMPPbRaRabaabaa', 0.1674), ('FHaFHbIMbQ=aaaGJLJLbPPbaa', 0.2797), ('FaF=aCaa', 0.2418), ('HHHaGHHHaHHHaGHHHbaaIabKJbN=aGHGGHaGaHaIHaIbJKJKbMMbaa', 23.7232), ('aaGaaGaaaGaaGbaaIabJabN=aFGGaHHbaJaJbMMbaa', 0.2748), ('JKHaJKHbLKKbPbSUbY=aGaGGHHGaGaNaKKNaKKbRRRRbUTUTbXXbaa', 2.8333), ('GGGIaGGGIbKaJaKKJabMMbSPbS=aHaaaaIaIaaMMKaMMKabMNMNbRQRQbUUbaa', 0.2752), ('FFaaaFFaabaLIbOObQ=aaaGGGKLaKLabLMLMbRRbaa', 0.2832), ('EaaaEaabGGbK=aGaGIGIbJJbaa', 6.8403)]
+Date: 2020-09-06 02:59:43.231615
